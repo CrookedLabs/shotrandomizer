@@ -73,13 +73,13 @@ var App = React.createClass({
       begin: function () {
         this.setState({
           running: true
-        }.bind(this));
-      },
+        });
+      }.bind(this),
       complete: function (complete) {
         this.setState({
           running: false
-        }.bind(this));
-      },
+        });
+      }.bind(this),
       duration: 3500,
       easing: "easeOutQuart",
       progress: function (elements, percentComplete, timeRemaining, timeStart, t) {
