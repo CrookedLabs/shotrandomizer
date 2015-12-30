@@ -83,7 +83,6 @@ var App = React.createClass({
       duration: 3500,
       easing: "easeOutQuart",
       progress: function (elements, percentComplete, timeRemaining, timeStart, t) {
-        console.log(elements);
         var idx = parseInt(t);
         this.setState({
           shotName: shotArr[idx].shotName,
