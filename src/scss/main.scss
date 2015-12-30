@@ -2,8 +2,6 @@
 @import "../../node_modules/node-bourbon/node_modules/bourbon/app/assets/stylesheets/bourbon";
 @import "../../node_modules/susy/sass/susy";
 @import "variables";
-@import "../../node_modules/material-ui-sass/material-ui";
-@import "home";
 
 $susy: (
         columns: 12,
@@ -16,3 +14,5 @@ $desktop: 1025px;
 $xl: 1224px;
 
 @include border-box-sizing;
+
+@import "home";

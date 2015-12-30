@@ -13,9 +13,6 @@ body {
 
 .shot-container {
   width: 100%;
-  padding-top: 10%;
-  margin: 0 auto;
-  text-align: center;
 }
 
 .random-btn-container {
@@ -37,20 +34,38 @@ body {
 .shot-name {
   font-family: 'Roboto', sans-serif;
   font-weight: 900;
-  font-size: 48px;
-  line-height: 48px;
-  margin-top: 25px;
+  font-size: 30px;
+  line-height: 1;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 18vh;
+
+  @include susy-breakpoint($tablet) {
+    font-size: 48px;
+  }
 }
 
 .ingredients {
-  padding-left: 15%;
-  font-size: 24px;
+  font-size: 20px;
   line-height: 1;
-  text-align: left;
-  margin-top: 25px;
+  padding: 0 30px;
+  position: absolute;
+  top: 38vh;
 
   span {
     display: block;
-    margin-bottom: 15px;
+    line-height: 1.2;
+    margin-bottom: 12px;
+  }
+
+  @include susy-breakpoint($tablet) {
+    font-size: 24px;
+    left: 0;
+    margin: auto;
+    right: 0;
+    width: 500px;
   }
 }

@@ -32742,14 +32742,12 @@ var App = React.createClass({displayName: "App",
     });
   },
 
-
   render: function () {
 
     var styles = {
       backgroundColor: this.state.bg,
       color: 'white'
     };
-
 
     var shotName = null;
     if (this.state.shotName) {
@@ -32776,7 +32774,7 @@ module.exports = App;
 },{"./../shots.json":"/Users/sciolla/Desktop/Projects/CrookedLabs/ShotRandomizer/sr-webapp/src/shots.json","lodash.sample":"/Users/sciolla/Desktop/Projects/CrookedLabs/ShotRandomizer/sr-webapp/node_modules/lodash.sample/index.js","react":"/Users/sciolla/Desktop/Projects/CrookedLabs/ShotRandomizer/sr-webapp/node_modules/react/react.js"}],"/Users/sciolla/Desktop/Projects/CrookedLabs/ShotRandomizer/sr-webapp/src/shots.json":[function(require,module,exports){
 module.exports=[
   {
-    "shotName": "220 BTU\n",
+    "shotName": "220 BTU",
     "ingredient": [
       "1 oz Absolut Kurant",
       "1 oz Absolut Citron",
@@ -32785,7 +32783,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "24k nightmare\n",
+    "shotName": "24k nightmare",
     "ingredient": [
       "1/2 oz Goldschlager",
       "1/2 oz Jägermeister",
@@ -32794,14 +32792,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "252\n",
+    "shotName": "252",
     "ingredient": [
       "1/2 part Bacardi 151 proof rum",
       "1/2 part Wild Turkey, 101 proof"
     ]
   },
   {
-    "shotName": "3 Wise Men\n",
+    "shotName": "3 Wise Men",
     "ingredient": [
       "1/3 oz Jack Daniels",
       "1/3 oz Johnnie Walker",
@@ -32809,7 +32807,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "44D\n",
+    "shotName": "44D",
     "ingredient": [
       "1/3 part Peach schnapps",
       "1/3 part Kahlua",
@@ -32818,14 +32816,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "49er Gold Rush\n",
+    "shotName": "49er Gold Rush",
     "ingredient": [
       "1/2 oz Cinnamon schnapps (Goldschlager)",
       "1/2 oz Gold tequila (Cuervo)"
     ]
   },
   {
-    "shotName": "666\n",
+    "shotName": "666",
     "ingredient": [
       "1 part Sambuca",
       "1 part Jack Daniels",
@@ -32833,7 +32831,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "747\n",
+    "shotName": "747",
     "ingredient": [
       "1/3 part Kahlua",
       "1/3 part Bailey's irish cream",
@@ -32841,7 +32839,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "8 iron\n",
+    "shotName": "8 iron",
     "ingredient": [
       "1/3 oz Blue Curacao",
       "1/3 oz Ouzo",
@@ -32849,7 +32847,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "8 Seconds\n",
+    "shotName": "8 Seconds",
     "ingredient": [
       "1 oz Jägermeister",
       "1 oz Goldschlager",
@@ -32858,14 +32856,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "911\n",
+    "shotName": "911",
     "ingredient": [
       "1 part Ice 101",
       "1 part Firewater"
     ]
   },
   {
-    "shotName": "A joy of Almond\n",
+    "shotName": "A joy of Almond",
     "ingredient": [
       "1 oz Kahlua",
       "1/2 oz Amaretto",
@@ -32873,7 +32871,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "A Little Green Man From Mars\n",
+    "shotName": "A Little Green Man From Mars",
     "ingredient": [
       "1 mint green Maraschino cherry without stem",
       "1/2 oz Jägermeister",
@@ -32881,7 +32879,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "A Splash of Nash\n",
+    "shotName": "A Splash of Nash",
     "ingredient": [
       "2 oz Cranberry juice",
       "2 oz Soda water",
@@ -32890,7 +32888,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "The A-Rock\n",
+    "shotName": "The A-Rock",
     "ingredient": [
       "1 part Spiced rum (Bacardi)",
       "1 part Jack Daniels",
@@ -32898,7 +32896,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "ABC\n",
+    "shotName": "ABC",
     "ingredient": [
       "1/3 Amaretto",
       "1/3 Bailey's irish cream",
@@ -32906,7 +32904,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Absolut Anti-freeze\n",
+    "shotName": "Absolut Anti-freeze",
     "ingredient": [
       "1 part Midori melon liqueur",
       "2 parts Absolut Citron",
@@ -32915,7 +32913,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Absolut Sex\n",
+    "shotName": "Absolut Sex",
     "ingredient": [
       "3/4 oz Absolut Kurant",
       "3/4 oz Midori melon liqueur",
@@ -32924,7 +32922,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Absolutely Fruity\n",
+    "shotName": "Absolutely Fruity",
     "ingredient": [
       "1/2 oz Banana liqueur (99 banana)",
       "1/2 oz Watermelon liqueur",
@@ -32932,21 +32930,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "ACID\n",
+    "shotName": "ACID",
     "ingredient": [
       "1 oz Bacardi 151 proof rum",
       "1 oz Wild Turkey, 101 proof"
     ]
   },
   {
-    "shotName": "Adios Motherfucker #2\n",
+    "shotName": "Adios Motherfucker #2",
     "ingredient": [
       "1 oz Kahlua",
       "1 oz Tequila"
     ]
   },
   {
-    "shotName": "After Dark\n",
+    "shotName": "After Dark",
     "ingredient": [
       "1 part Kahlua",
       "1 part Bailey's irish cream",
@@ -32954,7 +32952,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "After Eight\n",
+    "shotName": "After Eight",
     "ingredient": [
       "1/3 oz Kahlua",
       "1/3 oz Bailey's irish cream",
@@ -32962,7 +32960,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "After Five\n",
+    "shotName": "After Five",
     "ingredient": [
       "Peppermint schnapps",
       "Kahlua",
@@ -32970,7 +32968,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Afterbirth\n",
+    "shotName": "Afterbirth",
     "ingredient": [
       "1 part Raspberry schnapps",
       "1 part Grenadine",
@@ -32978,35 +32976,35 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Afterburner #1\n",
+    "shotName": "Afterburner #1",
     "ingredient": [
       "1/2 part Aftershock",
       "1/2 part Bacardi 151 proof rum"
     ]
   },
   {
-    "shotName": "Afterburner #2\n",
+    "shotName": "Afterburner #2",
     "ingredient": [
       "1 oz Vodka (Absolut)",
       "1/2 oz Tabasco sauce"
     ]
   },
   {
-    "shotName": "Afterlanche\n",
+    "shotName": "Afterlanche",
     "ingredient": [
       "1 oz Aftershock",
       "1 oz Avalanche Peppermint schnapps"
     ]
   },
   {
-    "shotName": "Airhead\n",
+    "shotName": "Airhead",
     "ingredient": [
       "1 1/2 oz Peach schnapps",
       "Fill with Cranberry juice"
     ]
   },
   {
-    "shotName": "Alabama Slammer #2\n",
+    "shotName": "Alabama Slammer #2",
     "ingredient": [
       "2 parts Southern Comfort",
       "1 part Amaretto",
@@ -33015,14 +33013,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Alaskan Pipeline\n",
+    "shotName": "Alaskan Pipeline",
     "ingredient": [
       "1/2 part Yukon Jack",
       "1/2 part Amaretto"
     ]
   },
   {
-    "shotName": "Alien Nipple\n",
+    "shotName": "Alien Nipple",
     "ingredient": [
       "1/2 oz Butterscotch schnapps",
       "1/4 oz Bailey's irish cream",
@@ -33030,7 +33028,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Alien Secretion #2\n",
+    "shotName": "Alien Secretion #2",
     "ingredient": [
       "1/4 oz Vodka (Absolut)",
       "1/4 oz Midori melon liqueur",
@@ -33039,7 +33037,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "All Jacked up\n",
+    "shotName": "All Jacked up",
     "ingredient": [
       "1/2 oz Jack Daniels",
       "1/3 oz Sloe gin",
@@ -33048,21 +33046,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Almond Delight\n",
+    "shotName": "Almond Delight",
     "ingredient": [
       "1 oz Sambuca",
       "1/2 oz Amaretto"
     ]
   },
   {
-    "shotName": "Amenie Mama\n",
+    "shotName": "Amenie Mama",
     "ingredient": [
       "3/4 oz Rye whiskey",
       "1/4 oz Amaretto"
     ]
   },
   {
-    "shotName": "American Dream\n",
+    "shotName": "American Dream",
     "ingredient": [
       "1/4 oz Kahlua",
       "1/4 oz Amaretto",
@@ -33071,7 +33069,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "American Flag\n",
+    "shotName": "American Flag",
     "ingredient": [
       "1/3 Grenadine",
       "1/3 Creme de Cacao",
@@ -33079,7 +33077,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Amoco Shot\n",
+    "shotName": "Amoco Shot",
     "ingredient": [
       "1/2 oz Bacardi 151 proof rum",
       "1/2 oz Everclear",
@@ -33087,7 +33085,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "The Antichrist\n",
+    "shotName": "The Antichrist",
     "ingredient": [
       "1/3 part Everclear",
       "1/3 part Bacardi 151 proof rum",
@@ -33096,7 +33094,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Antifreeze\n",
+    "shotName": "Antifreeze",
     "ingredient": [
       "1/2 oz Vodka",
       "1/2 oz Blue Curacao",
@@ -33105,14 +33103,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Apple and Cinnamon Joy\n",
+    "shotName": "Apple and Cinnamon Joy",
     "ingredient": [
       "7/8 oz Apple schnapps (DeKuyper Apple Barrel)",
       "1/8 oz Goldschlager"
     ]
   },
   {
-    "shotName": "Apple Cider Slider\n",
+    "shotName": "Apple Cider Slider",
     "ingredient": [
       "1 oz Spiced rum",
       "3/4 oz Apple schnapps",
@@ -33121,7 +33119,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Apple Cobbler\n",
+    "shotName": "Apple Cobbler",
     "ingredient": [
       "1 jigger Apple schnapps",
       "1 jigger Goldschlager",
@@ -33129,7 +33127,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Apple Jolly Rancher\n",
+    "shotName": "Apple Jolly Rancher",
     "ingredient": [
       "1 oz Sour Apple Pucker",
       "1 oz Vodka",
@@ -33138,7 +33136,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Apple Pie Shooter\n",
+    "shotName": "Apple Pie Shooter",
     "ingredient": [
       "Approx 2 shots Apple juice",
       "1 part Vodka",
@@ -33147,7 +33145,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Apple Pie part #1\n",
+    "shotName": "Apple Pie part #1",
     "ingredient": [
       "1 part Apple juice",
       "1 part Vodka",
@@ -33155,7 +33153,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Apple Pie part #2\n",
+    "shotName": "Apple Pie part #2",
     "ingredient": [
       "3/4 part Vodka",
       "Fill with Apple juice",
@@ -33163,7 +33161,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Apple Pie part #3\n",
+    "shotName": "Apple Pie part #3",
     "ingredient": [
       "1/4 oz Irish Mist",
       "1/4 oz Cinnamon schnapps",
@@ -33172,14 +33170,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Apple Slammer\n",
+    "shotName": "Apple Slammer",
     "ingredient": [
       "1 part 7-Up (or sprite)",
       "1 part Apple schnapps"
     ]
   },
   {
-    "shotName": "Applecake\n",
+    "shotName": "Applecake",
     "ingredient": [
       "2 cl Licor 43",
       "2 cl Apfelkorn",
@@ -33187,7 +33185,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Arizona Antifreeze\n",
+    "shotName": "Arizona Antifreeze",
     "ingredient": [
       "1/3 oz Vodka (Fris)",
       "1/3 oz Midori melon liqueur",
@@ -33195,7 +33193,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Arizona PowWow\n",
+    "shotName": "Arizona PowWow",
     "ingredient": [
       "1 part Hot Damn",
       "1 part Tequila",
@@ -33204,7 +33202,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Arkansas Razorback\n",
+    "shotName": "Arkansas Razorback",
     "ingredient": [
       "1/2 part Rum",
       "1/2 part Vodka",
@@ -33213,7 +33211,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Army Green\n",
+    "shotName": "Army Green",
     "ingredient": [
       "1 oz Goldschlager",
       "1 oz Jägermeister",
@@ -33221,7 +33219,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Asphalt Road\n",
+    "shotName": "Asphalt Road",
     "ingredient": [
       "1 part Lime juice cordial",
       "1 part Irish cream",
@@ -33229,7 +33227,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Asthma Attack\n",
+    "shotName": "Asthma Attack",
     "ingredient": [
       "1/2 oz Everclear",
       "1/2 oz Bacardi 151 proof rum",
@@ -33238,7 +33236,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Astropop\n",
+    "shotName": "Astropop",
     "ingredient": [
       "1/3 Grenadine",
       "1/3 Amaretto",
@@ -33246,14 +33244,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "ATP\n",
+    "shotName": "ATP",
     "ingredient": [
       "1 part Southern Comfort",
       "1 part Amaretto"
     ]
   },
   {
-    "shotName": "Attitude Adjustment\n",
+    "shotName": "Attitude Adjustment",
     "ingredient": [
       "Bailey's irish cream",
       "Root beer schnapps",
@@ -33261,14 +33259,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Auburn Headbanger\n",
+    "shotName": "Auburn Headbanger",
     "ingredient": [
       "1 oz Jägermeister",
       "1 oz Goldschlager"
     ]
   },
   {
-    "shotName": "B-51\n",
+    "shotName": "B-51",
     "ingredient": [
       "1/3 oz Bailey's irish cream",
       "1/3 oz Kahlua",
@@ -33276,7 +33274,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "B-52 #1\n",
+    "shotName": "B-52 #1",
     "ingredient": [
       "1/3 part Kahlua",
       "1/3 part Amaretto",
@@ -33284,7 +33282,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "B-52 #2\n",
+    "shotName": "B-52 #2",
     "ingredient": [
       "Kahlua",
       "Bailey's irish cream",
@@ -33292,7 +33290,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "B-52 #3\n",
+    "shotName": "B-52 #3",
     "ingredient": [
       "2 cl Kahlua",
       "2 cl Bailey's irish cream",
@@ -33300,7 +33298,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "B-52 #4\n",
+    "shotName": "B-52 #4",
     "ingredient": [
       "1/3 Bailey's irish cream",
       "1/3 Tia maria",
@@ -33308,7 +33306,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "B-52 #6\n",
+    "shotName": "B-52 #6",
     "ingredient": [
       "2 cl Amaretto",
       "1 1/2 cl Bailey's irish cream",
@@ -33316,7 +33314,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "B-53 #2\n",
+    "shotName": "B-53 #2",
     "ingredient": [
       "1 oz Kahlua",
       "1 oz Irish cream (Bailey's)",
@@ -33325,7 +33323,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "B-53\n",
+    "shotName": "B-53",
     "ingredient": [
       "1/3 part Kahlua",
       "1/3 part Sambuca",
@@ -33333,7 +33331,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "B-57\n",
+    "shotName": "B-57",
     "ingredient": [
       "1/3 part Kahlua",
       "1/3 part Peppermint schnapps",
@@ -33341,7 +33339,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Baby Aspirin\n",
+    "shotName": "Baby Aspirin",
     "ingredient": [
       "1 part Orange juice",
       "1 part Sweet and sour mix",
@@ -33350,14 +33348,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Baby Guinness\n",
+    "shotName": "Baby Guinness",
     "ingredient": [
       "2 1/2 oz Kahlua",
       "1/2 oz Bailey's irish cream"
     ]
   },
   {
-    "shotName": "Back Shot\n",
+    "shotName": "Back Shot",
     "ingredient": [
       "2 1/2 oz Vodka (Absolut)",
       "4 oz Sweet and sour",
@@ -33365,14 +33363,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Backdraft\n",
+    "shotName": "Backdraft",
     "ingredient": [
       "1.5 oz Drambuie",
       "1.5 oz Grand Marnier"
     ]
   },
   {
-    "shotName": "Backfire\n",
+    "shotName": "Backfire",
     "ingredient": [
       "1/3 part Kahlua",
       "1/3 part Bailey's irish cream",
@@ -33380,14 +33378,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Bad Habit\n",
+    "shotName": "Bad Habit",
     "ingredient": [
       "1/2 oz Vodka (Skyy)",
       "1/2 oz Peach schnapps"
     ]
   },
   {
-    "shotName": "Bailey's Comet #2\n",
+    "shotName": "Bailey's Comet #2",
     "ingredient": [
       "1/2 oz Bailey's irish cream",
       "1/2 oz Goldschlager",
@@ -33395,14 +33393,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Bailey's Hot Shot\n",
+    "shotName": "Bailey's Hot Shot",
     "ingredient": [
       "1 1/2 oz Bailey's irish cream",
       "Very little granulated Sugar"
     ]
   },
   {
-    "shotName": "Ball and Chain\n",
+    "shotName": "Ball and Chain",
     "ingredient": [
       "1 part Rumple Minze",
       "1 part Goldschlager",
@@ -33410,7 +33408,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Ball Hooter\n",
+    "shotName": "Ball Hooter",
     "ingredient": [
       "1 part Tequila",
       "1 part Peppermint schnapps",
@@ -33418,7 +33416,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Banana Cream Pie #2\n",
+    "shotName": "Banana Cream Pie #2",
     "ingredient": [
       "1 part Kahlua",
       "1 part Licor 43",
@@ -33426,7 +33424,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Banana Cream Pie\n",
+    "shotName": "Banana Cream Pie",
     "ingredient": [
       "1 part Banana liqueur",
       "1 part Creme de Cacao",
@@ -33435,7 +33433,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Bananas and Cream\n",
+    "shotName": "Bananas and Cream",
     "ingredient": [
       "1/2 oz Kahlua",
       "1/2 oz Irish cream",
@@ -33443,7 +33441,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Banshee Berry\n",
+    "shotName": "Banshee Berry",
     "ingredient": [
       "1 part Creme de Banane",
       "1 part Strawberry schnapps",
@@ -33451,7 +33449,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Barbie Shot\n",
+    "shotName": "Barbie Shot",
     "ingredient": [
       "1 oz Malibu rum",
       "1 oz Absolut Vodka",
@@ -33460,7 +33458,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Barney on Acid\n",
+    "shotName": "Barney on Acid",
     "ingredient": [
       "1/2 oz Blue Curacao",
       "1/2 oz Jägermeister",
@@ -33468,7 +33466,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Barracuda\n",
+    "shotName": "Barracuda",
     "ingredient": [
       "1/3 part Southern Comfort",
       "1/3 part Triple sec",
@@ -33476,7 +33474,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Bart Simpson\n",
+    "shotName": "Bart Simpson",
     "ingredient": [
       "1/2 oz Crown Royal",
       "1/2 oz Amaretto",
@@ -33485,7 +33483,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Bartender's Wet Dream\n",
+    "shotName": "Bartender's Wet Dream",
     "ingredient": [
       "1,5 cl Grenadine",
       "1,5 cl Kahlua",
@@ -33494,7 +33492,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Bazooka Joe\n",
+    "shotName": "Bazooka Joe",
     "ingredient": [
       "1/2 oz Bailey's irish cream",
       "1/2 oz Blue Curacao",
@@ -33502,7 +33500,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Beam Me Up Scotty\n",
+    "shotName": "Beam Me Up Scotty",
     "ingredient": [
       "1/2 oz Kahlua",
       "1/2 oz Bailey's irish cream",
@@ -33510,14 +33508,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "BearCat Special\n",
+    "shotName": "BearCat Special",
     "ingredient": [
       "1/2 part Bacardi 151 proof rum",
       "1/2 part Peppermint schnapps"
     ]
   },
   {
-    "shotName": "Bearded Boy\n",
+    "shotName": "Bearded Boy",
     "ingredient": [
       "1 oz Southern Comfort",
       "1 oz Vodka",
@@ -33526,7 +33524,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Beelzebub\n",
+    "shotName": "Beelzebub",
     "ingredient": [
       "1 bottle Cointreau",
       "1 bottle Vodka",
@@ -33534,7 +33532,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Belfast Bomber\n",
+    "shotName": "Belfast Bomber",
     "ingredient": [
       "1 oz Bailey's irish cream",
       "1 oz Cognac",
@@ -33542,7 +33540,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Beth's Own\n",
+    "shotName": "Beth's Own",
     "ingredient": [
       "1 part Whiskey",
       "2 parts Gin",
@@ -33551,35 +33549,35 @@ module.exports=[
     ]
   },
   {
-    "shotName": "The Bianca Pop\n",
+    "shotName": "The Bianca Pop",
     "ingredient": [
       "1 oz Coconut rum",
       "1 oz Amaretto"
     ]
   },
   {
-    "shotName": "Big Red\n",
+    "shotName": "Big Red",
     "ingredient": [
       "1/2 oz Irish cream",
       "1/2 oz Goldschlager"
     ]
   },
   {
-    "shotName": "Big Time\n",
+    "shotName": "Big Time",
     "ingredient": [
       "3/4 oz Cognac",
       "3/4 oz Pernod"
     ]
   },
   {
-    "shotName": "Big Unit\n",
+    "shotName": "Big Unit",
     "ingredient": [
       "1 part Gold tequila",
       "1 tblsp Blue Curacao"
     ]
   },
   {
-    "shotName": "The Big-V\n",
+    "shotName": "The Big-V",
     "ingredient": [
       "1/4 oz Creme de Cacao",
       "1/4 oz Blue Curacao",
@@ -33588,7 +33586,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Bitter Pill\n",
+    "shotName": "Bitter Pill",
     "ingredient": [
       "2 oz Smirnoff Vodka",
       "2 oz Jack Daniels",
@@ -33597,7 +33595,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Black and Blue Shark\n",
+    "shotName": "Black and Blue Shark",
     "ingredient": [
       "1 oz Jack Daniels",
       "1/2 oz Gold tequila (Cuervo)",
@@ -33606,21 +33604,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Black and Blue\n",
+    "shotName": "Black and Blue",
     "ingredient": [
       "1 part Blue Curacao",
       "1 part Blavod vodka"
     ]
   },
   {
-    "shotName": "Black Army\n",
+    "shotName": "Black Army",
     "ingredient": [
       "3 cl Galliano",
       "3 cl Jägermeister"
     ]
   },
   {
-    "shotName": "Black Bitch\n",
+    "shotName": "Black Bitch",
     "ingredient": [
       "3/4 oz Black Sambuca",
       "3/4 oz Bailey's irish cream",
@@ -33628,7 +33626,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Black Death\n",
+    "shotName": "Black Death",
     "ingredient": [
       "1/4 oz Kahlua",
       "1/4 oz Sambuca (Romana)",
@@ -33637,7 +33635,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Black Dragon\n",
+    "shotName": "Black Dragon",
     "ingredient": [
       "1/3 Peppermint schnapps",
       "1/3 Kahlua",
@@ -33645,14 +33643,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Black Gold\n",
+    "shotName": "Black Gold",
     "ingredient": [
       "3/4 oz Jägermeister",
       "3/4 oz Goldschlager"
     ]
   },
   {
-    "shotName": "Black Jack WV\n",
+    "shotName": "Black Jack WV",
     "ingredient": [
       "1 oz Yukon Jack",
       "1/4 oz Chambord raspberry liqueur",
@@ -33661,7 +33659,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Black Orchid\n",
+    "shotName": "Black Orchid",
     "ingredient": [
       "1 part Blue Curacao",
       "1 part Dark rum",
@@ -33669,21 +33667,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Black Samurai\n",
+    "shotName": "Black Samurai",
     "ingredient": [
       "1 oz Sake",
       "1/2 oz Soy sauce"
     ]
   },
   {
-    "shotName": "Black Tooth\n",
+    "shotName": "Black Tooth",
     "ingredient": [
       "2 1/2 oz Canadian whisky (Crown Royal)",
       "1 splash Coca-Cola"
     ]
   },
   {
-    "shotName": "Black Unicorn\n",
+    "shotName": "Black Unicorn",
     "ingredient": [
       "1 part Kahlua",
       "1 part Butterscotch schnapps",
@@ -33691,7 +33689,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Black Wolf\n",
+    "shotName": "Black Wolf",
     "ingredient": [
       "15 ml Black Sambuca",
       "15 ml Green Chartreuse",
@@ -33699,14 +33697,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Bleacher Creature\n",
+    "shotName": "Bleacher Creature",
     "ingredient": [
       "1 1/2 oz Butterscotch schnapps",
       "1 1/2 oz Bacardi 151 proof rum"
     ]
   },
   {
-    "shotName": "Blood Clot #1\n",
+    "shotName": "Blood Clot #1",
     "ingredient": [
       "1 part Southern Comfort",
       "1/2 part Grenadine",
@@ -33714,14 +33712,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Blood Clot #2\n",
+    "shotName": "Blood Clot #2",
     "ingredient": [
       "1-2 oz Cointreau",
       "Some Cherry Advocaat"
     ]
   },
   {
-    "shotName": "Blood of Satan\n",
+    "shotName": "Blood of Satan",
     "ingredient": [
       "1 part Jägermeister",
       "1 part Goldschlager",
@@ -33730,7 +33728,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Bloody Brain\n",
+    "shotName": "Bloody Brain",
     "ingredient": [
       "3/4 oz Peach schnapps",
       "A float of Bailey's irish cream",
@@ -33738,7 +33736,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Bloody Chicken\n",
+    "shotName": "Bloody Chicken",
     "ingredient": [
       "1 oz Wild Turkey",
       "1/2 oz Tequila (Jose Cuervo)",
@@ -33746,14 +33744,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Blow Job #1\n",
+    "shotName": "Blow Job #1",
     "ingredient": [
       "1.5 oz Amaretto",
       "Whipping cream"
     ]
   },
   {
-    "shotName": "Blow Job #2\n",
+    "shotName": "Blow Job #2",
     "ingredient": [
       "1/2 oz Butterscotch schnapps",
       "1/2 oz Irish cream (Bailey's)",
@@ -33761,7 +33759,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Blow Job #3\n",
+    "shotName": "Blow Job #3",
     "ingredient": [
       "Kahlua",
       "Bailey's irish cream",
@@ -33769,7 +33767,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Blow Job #5\n",
+    "shotName": "Blow Job #5",
     "ingredient": [
       "2 oz Creme de Banane",
       "2 oz Bailey's irish cream",
@@ -33777,21 +33775,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Blue Banana\n",
+    "shotName": "Blue Banana",
     "ingredient": [
       "2 oz Creme de Banane (Hiram Walker)",
       "2 oz Blue Curacao (Hiram Walker)"
     ]
   },
   {
-    "shotName": "Blue Blazer\n",
+    "shotName": "Blue Blazer",
     "ingredient": [
       "2 oz Whisky",
       "6 oz Water"
     ]
   },
   {
-    "shotName": "Blue Bomber\n",
+    "shotName": "Blue Bomber",
     "ingredient": [
       "3/4 oz Blue Curacao",
       "1/4 oz Bailey's irish cream",
@@ -33800,7 +33798,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Blue Caboose\n",
+    "shotName": "Blue Caboose",
     "ingredient": [
       "1/3 oz Bailey's irish cream",
       "1/3 oz Whiskey",
@@ -33808,14 +33806,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Blue Diamond\n",
+    "shotName": "Blue Diamond",
     "ingredient": [
       "3/4 part Avalanche Peppermint schnapps",
       "3/4 part Goldschlager"
     ]
   },
   {
-    "shotName": "Blue Kisok\n",
+    "shotName": "Blue Kisok",
     "ingredient": [
       "1/2 oz Blue Curacao",
       "1/4 oz Vodka",
@@ -33824,7 +33822,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Blue Meanie\n",
+    "shotName": "Blue Meanie",
     "ingredient": [
       "1 oz Blue Curacao",
       "1 oz Vodka",
@@ -33832,7 +33830,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Blue Nut\n",
+    "shotName": "Blue Nut",
     "ingredient": [
       "1/2 oz Malibu rum",
       "1/4 oz Blue Curacao",
@@ -33840,14 +33838,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Blue Peach\n",
+    "shotName": "Blue Peach",
     "ingredient": [
       "1 oz Peach schnapps",
       "1/2 oz Blue Curacao"
     ]
   },
   {
-    "shotName": "Polar Whoretex\n",
+    "shotName": "Polar Whoretex",
     "ingredient": [
       "1 part Vodka",
       "1 part chilled blue Peppermint schnapps",
@@ -33855,7 +33853,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Blue Slammer\n",
+    "shotName": "Blue Slammer",
     "ingredient": [
       "1/2 oz Blue Curacao",
       "1/2 oz Sambuca",
@@ -33864,7 +33862,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Blue Suede Shoes\n",
+    "shotName": "Blue Suede Shoes",
     "ingredient": [
       "1/2 oz Southern Comfort",
       "1/2 oz Creme de Banane",
@@ -33872,14 +33870,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Blue Thrill\n",
+    "shotName": "Blue Thrill",
     "ingredient": [
       "1 shot Blue Curacao",
       "1 shot Lemon juice"
     ]
   },
   {
-    "shotName": "Blueberry Kami\n",
+    "shotName": "Blueberry Kami",
     "ingredient": [
       "1 oz Blueberry schnapps",
       "1 oz Vodka",
@@ -33888,7 +33886,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "I'm in Love With Cocao...aine\n",
+    "shotName": "I'm in Love With Cocao...aine",
     "ingredient": [
       "1/3 oz Bailey's irish cream",
       "1/3 oz Malibu rum",
@@ -33896,7 +33894,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Bob Marley\n",
+    "shotName": "Bob Marley",
     "ingredient": [
       "1/2 oz Midori melon liqueur",
       "1/2 oz Jägermeister",
@@ -33904,7 +33902,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Sour Puss\n",
+    "shotName": "Sour Puss",
     "ingredient": [
       "1 oz Vodka",
       "1 package Sugar",
@@ -33912,14 +33910,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "BonBon\n",
+    "shotName": "BonBon",
     "ingredient": [
       "1/2 oz Rumple Minze",
       "1/2 oz Peppermint schnapps"
     ]
   },
   {
-    "shotName": "Bonfire\n",
+    "shotName": "Bonfire",
     "ingredient": [
       "1/2 oz Grenadine",
       "1/2 oz Amaretto",
@@ -33927,7 +33925,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Bongs Anfield Slammer\n",
+    "shotName": "Bongs Anfield Slammer",
     "ingredient": [
       "1 cl Vodka (Absolut)",
       "1 cl Bailey's irish cream",
@@ -33936,7 +33934,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Bonsai Pipeline\n",
+    "shotName": "Bonsai Pipeline",
     "ingredient": [
       "3/4 oz Wild Turkey 101 proof",
       "3/4 oz Melon liqueur",
@@ -33944,7 +33942,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Booger\n",
+    "shotName": "Booger",
     "ingredient": [
       "1/2 oz Malibu rum",
       "1/2 oz Banana liqueur",
@@ -33953,7 +33951,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Morning Wood\n",
+    "shotName": "Morning Wood",
     "ingredient": [
       "1/3 part Smirnoff Vodka",
       "1/3 part White wine",
@@ -33961,14 +33959,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Grizzly Dick\n",
+    "shotName": "Grizzly Dick",
     "ingredient": [
       "1/2 shot Jägermeister",
       "1/2 shot Yukon Jack"
     ]
   },
   {
-    "shotName": "Booty Juice\n",
+    "shotName": "Booty Juice",
     "ingredient": [
       "1/2 oz Midori melon liqueur",
       "1/2 oz Malibu rum",
@@ -33977,7 +33975,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Boswandeling (A walk in the woods)\n",
+    "shotName": "Boswandeling (A walk in the woods)",
     "ingredient": [
       "3 cl Vodka",
       "2 cl Triple sec",
@@ -33985,7 +33983,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Brain Damage\n",
+    "shotName": "Brain Damage",
     "ingredient": [
       "2 parts Jägermeister",
       "1 part Vodka (Absolut)",
@@ -33993,7 +33991,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Brain Destroyer\n",
+    "shotName": "Brain Destroyer",
     "ingredient": [
       "1 part Bailey's irish cream",
       "1 part Kahlua",
@@ -34002,7 +34000,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Brain Eraser #1\n",
+    "shotName": "Brain Eraser #1",
     "ingredient": [
       "1 oz Goldschlager",
       "1 oz Kahlua",
@@ -34010,14 +34008,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Brain Eraser #2\n",
+    "shotName": "Brain Eraser #2",
     "ingredient": [
       "1/2 oz Jägermeister",
       "1/2 oz Ice 101"
     ]
   },
   {
-    "shotName": "Brain Hemmorage\n",
+    "shotName": "Brain Hemmorage",
     "ingredient": [
       "1 oz Peach schnapps",
       "1 tsp Bailey's irish cream",
@@ -34025,7 +34023,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Brain Hemorage\n",
+    "shotName": "Brain Hemorage",
     "ingredient": [
       "2 oz clear Schnapps of your choice",
       "2 tsp Irish cream",
@@ -34033,7 +34031,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Brain Tumor #2\n",
+    "shotName": "Brain Tumor #2",
     "ingredient": [
       "3/4 Watermelon schnapps",
       "1/4 Bailey's irish cream",
@@ -34041,7 +34039,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Brain Tumor\n",
+    "shotName": "Brain Tumor",
     "ingredient": [
       "1 oz Peach schnapps",
       "Bailey's irish cream",
@@ -34050,7 +34048,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Braindead\n",
+    "shotName": "Braindead",
     "ingredient": [
       "2 cl Vodka",
       "2 cl Sour mix",
@@ -34059,7 +34057,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Brainteaser\n",
+    "shotName": "Brainteaser",
     "ingredient": [
       "30 ml white Sambuca",
       "30 ml Erin Cream",
@@ -34067,7 +34065,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Bram Stoker's Dracula\n",
+    "shotName": "Bram Stoker's Dracula",
     "ingredient": [
       "1 1/2 oz Absolut Peppar",
       "1 1/2 oz Tabasco sauce",
@@ -34075,7 +34073,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Branded Nipple\n",
+    "shotName": "Branded Nipple",
     "ingredient": [
       "1 part Butterscotch schnapps",
       "1 part Bailey's irish cream",
@@ -34084,7 +34082,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Brass Balls\n",
+    "shotName": "Brass Balls",
     "ingredient": [
       "1/3 oz Grand Marnier",
       "1/3 oz Peach schnapps",
@@ -34092,14 +34090,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Brave Bull Shooter\n",
+    "shotName": "Brave Bull Shooter",
     "ingredient": [
       "1/2 oz Tequila",
       "1/2 oz Tabasco sauce"
     ]
   },
   {
-    "shotName": "Breast Milk\n",
+    "shotName": "Breast Milk",
     "ingredient": [
       "1/2 oz White chocolate liqueur (Godiva)",
       "1/3 oz Bailey's irish cream",
@@ -34108,7 +34106,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Breath Freshener\n",
+    "shotName": "Breath Freshener",
     "ingredient": [
       "1 part Vodka (Smirnoff)",
       "2 parts White Creme de Menthe",
@@ -34116,14 +34114,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Breathalizer\n",
+    "shotName": "Breathalizer",
     "ingredient": [
       "1 oz Peppermint schnapps",
       "1 oz Rum (Bacardi)"
     ]
   },
   {
-    "shotName": "Brent's Tequila Head Slam\n",
+    "shotName": "Brent's Tequila Head Slam",
     "ingredient": [
       "1/3 oz Gold tequila (Cuervo)",
       "1/3 oz Grenadine (Rose's)",
@@ -34131,7 +34129,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Broken Down Golf Cart #2\n",
+    "shotName": "Broken Down Golf Cart #2",
     "ingredient": [
       "1/2 oz Amaretto",
       "1/2 oz Melon liqueur",
@@ -34139,7 +34137,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Broken down golf cart\n",
+    "shotName": "Broken down golf cart",
     "ingredient": [
       "0.5 oz Amaretto",
       "0.5 oz Midori melon liqueur",
@@ -34147,7 +34145,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Bruce's Puce\n",
+    "shotName": "Bruce's Puce",
     "ingredient": [
       "Grenadine",
       "Kahlua",
@@ -34155,7 +34153,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Bruised Heart\n",
+    "shotName": "Bruised Heart",
     "ingredient": [
       "1/2 oz Vodka",
       "1/2 oz Chambord raspberry liqueur",
@@ -34164,14 +34162,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Brush Fire\n",
+    "shotName": "Brush Fire",
     "ingredient": [
       "2/3 oz Cinnamon schnapps (Hot 100)",
       "1/3 oz Tabasco sauce"
     ]
   },
   {
-    "shotName": "Bubble Gum\n",
+    "shotName": "Bubble Gum",
     "ingredient": [
       "1/4 Vodka",
       "1/4 Banana liqueur",
@@ -34180,7 +34178,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Buckshot\n",
+    "shotName": "Buckshot",
     "ingredient": [
       "Layer 1/8 oz Bailey's irish cream on top of",
       "3/4 oz Tequila mixed with",
@@ -34189,14 +34187,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Bull's sweat\n",
+    "shotName": "Bull's sweat",
     "ingredient": [
       "1 part Sloe gin",
       "1 part Tabasco sauce"
     ]
   },
   {
-    "shotName": "Bumble Bee #1\n",
+    "shotName": "Bumble Bee #1",
     "ingredient": [
       "1/3 oz Bailey's irish cream",
       "1/3 oz Kahlua",
@@ -34204,14 +34202,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Bumble Bee #2\n",
+    "shotName": "Bumble Bee #2",
     "ingredient": [
       "1 oz Jägermeister",
       "1 oz Barenjager"
     ]
   },
   {
-    "shotName": "Buried Under An Avalanche\n",
+    "shotName": "Buried Under An Avalanche",
     "ingredient": [
       "1 small Ice cube",
       "1/2 oz Ouzo",
@@ -34219,7 +34217,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Burning Cherry\n",
+    "shotName": "Burning Cherry",
     "ingredient": [
       "1/3 oz George Dickel",
       "1/3 oz Jack Daniels",
@@ -34228,21 +34226,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Burning Nazi\n",
+    "shotName": "Burning Nazi",
     "ingredient": [
       "1/2 oz Jägermeister",
       "1/2 oz Rumple Minze"
     ]
   },
   {
-    "shotName": "Burning Worm\n",
+    "shotName": "Burning Worm",
     "ingredient": [
       "1 oz Mezcal",
       "1 oz Goldschlager"
     ]
   },
   {
-    "shotName": "Burn\n",
+    "shotName": "Burn",
     "ingredient": [
       "1/2 oz Vodka",
       "5-6 drops Tabasco sauce",
@@ -34251,21 +34249,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Butterball\n",
+    "shotName": "Butterball",
     "ingredient": [
       "1/2 shot Butterscotch schnapps",
       "1/2 shot Amaretto"
     ]
   },
   {
-    "shotName": "Butterbee\n",
+    "shotName": "Butterbee",
     "ingredient": [
       "1/2 shot Butterscotch schnapps",
       "1/2 shot Bailey's irish cream"
     ]
   },
   {
-    "shotName": "Butternut Rum Lifesaver\n",
+    "shotName": "Butternut Rum Lifesaver",
     "ingredient": [
       "3/4 oz Bailey's irish cream",
       "3/4 oz Butterscotch schnapps",
@@ -34274,28 +34272,28 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Buttery Nipple #1\n",
+    "shotName": "Buttery Nipple #1",
     "ingredient": [
       "1/2 shot Butterscotch schnapps",
       "1/2 shot Bailey's irish cream"
     ]
   },
   {
-    "shotName": "Buttery Nipple #2\n",
+    "shotName": "Buttery Nipple #2",
     "ingredient": [
       "1/2 shot Butterscotch schnapps",
       "1/2 shot Irish cream"
     ]
   },
   {
-    "shotName": "Buttery Nipple #3\n",
+    "shotName": "Buttery Nipple #3",
     "ingredient": [
       "2/3 oz Peach schnapps",
       "1/3 oz Bailey's irish cream"
     ]
   },
   {
-    "shotName": "Buttery Nipple with a Cherry Kiss\n",
+    "shotName": "Buttery Nipple with a Cherry Kiss",
     "ingredient": [
       "1/2 oz Butterscotch schnapps",
       "1/2 oz Bailey's irish cream",
@@ -34303,14 +34301,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Buttmeister\n",
+    "shotName": "Buttmeister",
     "ingredient": [
       "3/4 oz Jägermeister",
       "1/4 oz Butterscotch schnapps"
     ]
   },
   {
-    "shotName": "Buzzard's Breath\n",
+    "shotName": "Buzzard's Breath",
     "ingredient": [
       "1/2 oz Amaretto",
       "1/2 oz Coffee liqueur",
@@ -34318,7 +34316,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "C*m Scorcher\n",
+    "shotName": "C*m Scorcher",
     "ingredient": [
       "1 tblsp Butterscotch schnapps",
       "1 tblsp Vodka (Absolut)",
@@ -34327,7 +34325,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "C*m Shot (B-Street Bar)\n",
+    "shotName": "C*m Shot (B-Street Bar)",
     "ingredient": [
       "Small pinch of Salt",
       "3/4 oz Peach schnapps",
@@ -34336,7 +34334,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "C*m Shot\n",
+    "shotName": "C*m Shot",
     "ingredient": [
       "1 part Butterscotch schnapps",
       "1 part Bailey's irish cream",
@@ -34344,28 +34342,28 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Calypso\n",
+    "shotName": "Calypso",
     "ingredient": [
       "2 cl Dark rum",
       "2 cl Coffee liqueur"
     ]
   },
   {
-    "shotName": "Camel Hump\n",
+    "shotName": "Camel Hump",
     "ingredient": [
       "3/4 shot Butterscotch schnapps",
       "1/4 shot Bailey's irish cream"
     ]
   },
   {
-    "shotName": "Canadian Hunter\n",
+    "shotName": "Canadian Hunter",
     "ingredient": [
       "1 part Yukon Jack",
       "1 part Wild Turkey, 101 proof"
     ]
   },
   {
-    "shotName": "Candy Corn\n",
+    "shotName": "Candy Corn",
     "ingredient": [
       "1 part Licor 43",
       "1 part Orange Curacao",
@@ -34373,14 +34371,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Capital Punishment\n",
+    "shotName": "Capital Punishment",
     "ingredient": [
       "1/2 oz Bourbon (Jim Beam)",
       "1/2 oz Amaretto"
     ]
   },
   {
-    "shotName": "Captain Louie\n",
+    "shotName": "Captain Louie",
     "ingredient": [
       "1/2 shot Spiced rum (Captain Morgan's)",
       "1/2 shot Kahlua",
@@ -34388,21 +34386,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Captain's Treasure\n",
+    "shotName": "Captain's Treasure",
     "ingredient": [
       "1 oz Spiced rum (Cpt. Morgan)",
       "1 oz Goldschlager"
     ]
   },
   {
-    "shotName": "Caramel Apple\n",
+    "shotName": "Caramel Apple",
     "ingredient": [
       "1 oz Sour Apple Pucker",
       "3/4 oz Butterscotch schnapps"
     ]
   },
   {
-    "shotName": "Caramilk\n",
+    "shotName": "Caramilk",
     "ingredient": [
       "1/2 oz white Creme de Cacao",
       "1/4 oz Creme de Banane",
@@ -34410,21 +34408,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Carmel Apple\n",
+    "shotName": "Carmel Apple",
     "ingredient": [
       "3/4 oz Apple schnapps",
       "3/4 oz Butterscotch schnapps"
     ]
   },
   {
-    "shotName": "Carmina Burana\n",
+    "shotName": "Carmina Burana",
     "ingredient": [
       "3 cl Smirnoff Vodka",
       "2 pieces Candy Sharp's Original Blackcurrant Menthol"
     ]
   },
   {
-    "shotName": "Carrot Cake #1\n",
+    "shotName": "Carrot Cake #1",
     "ingredient": [
       "1 tsp Goldschlager",
       "2 oz Bailey's irish cream",
@@ -34432,7 +34430,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Carrot Cake #2\n",
+    "shotName": "Carrot Cake #2",
     "ingredient": [
       "1/2 oz Bailey's irish cream",
       "1/2 oz Butterscotch schnapps",
@@ -34440,7 +34438,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Carrot Cake #3\n",
+    "shotName": "Carrot Cake #3",
     "ingredient": [
       "1 part Peach schnapps",
       "1 part Bailey's irish cream",
@@ -34448,21 +34446,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Catfish\n",
+    "shotName": "Catfish",
     "ingredient": [
       "1 1/2 oz Crown Royal",
       "1/2 oz Peach schnapps"
     ]
   },
   {
-    "shotName": "The Celt\n",
+    "shotName": "The Celt",
     "ingredient": [
       "2 shots Blueberry schnapps (Blueberry Tattoo)",
       "1 shot Scotch"
     ]
   },
   {
-    "shotName": "Cement Kicker\n",
+    "shotName": "Cement Kicker",
     "ingredient": [
       "1 shot Bailey's irish cream",
       "1/2 shot Lime juice",
@@ -34470,7 +34468,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Cerebellum\n",
+    "shotName": "Cerebellum",
     "ingredient": [
       "1 oz Vodka",
       "1/4 oz Grenadine",
@@ -34478,7 +34476,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Cerebral Hemorage\n",
+    "shotName": "Cerebral Hemorage",
     "ingredient": [
       "2 oz Strawberry schnapps",
       "1/2 oz Bailey's irish cream",
@@ -34486,7 +34484,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Che Guevara\n",
+    "shotName": "Che Guevara",
     "ingredient": [
       "1 part Goldschlager",
       "1 part Jose Cuervo Gold",
@@ -34494,7 +34492,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Cheesecake\n",
+    "shotName": "Cheesecake",
     "ingredient": [
       "3/4 oz Bailey's irish cream",
       "3/4 oz Pineapple juice",
@@ -34502,7 +34500,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Cherry Blow Pop\n",
+    "shotName": "Cherry Blow Pop",
     "ingredient": [
       "1/3 oz Southern Comfort",
       "1/3 oz Amaretto",
@@ -34510,7 +34508,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "The Cherry Bomb\n",
+    "shotName": "The Cherry Bomb",
     "ingredient": [
       "1 Cherry",
       "2 tsp Absolut Vodka",
@@ -34519,28 +34517,28 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Cherry Bon Bon\n",
+    "shotName": "Cherry Bon Bon",
     "ingredient": [
       "3/4 oz White chocolate liqueur (Godet)",
       "Layered on 3/4 oz Creme de Noyaux"
     ]
   },
   {
-    "shotName": "Cherry Cheesecake\n",
+    "shotName": "Cherry Cheesecake",
     "ingredient": [
       "3/4 jigger Vanilla schnapps",
       "Fill with Cranberry juice"
     ]
   },
   {
-    "shotName": "Cherry Godet\n",
+    "shotName": "Cherry Godet",
     "ingredient": [
       "3/4 oz Godet White chocolate liqueur",
       "1/4 oz Cherry brandy"
     ]
   },
   {
-    "shotName": "Cherry Lifesaver Shooter\n",
+    "shotName": "Cherry Lifesaver Shooter",
     "ingredient": [
       "1/2 oz Southern Comfort",
       "1/2 oz Amaretto",
@@ -34549,7 +34547,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Chewybubu\n",
+    "shotName": "Chewybubu",
     "ingredient": [
       "1/3 Blue Curacao",
       "1/3 Ice 101",
@@ -34557,14 +34555,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Chi Phi\n",
+    "shotName": "Chi Phi",
     "ingredient": [
       "1/2 oz Peach schnapps",
       "1/2 oz Southern Comfort"
     ]
   },
   {
-    "shotName": "Chicken Drop\n",
+    "shotName": "Chicken Drop",
     "ingredient": [
       "1/3 Jägermeister",
       "1/3 Peach schnapps",
@@ -34572,14 +34570,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Chill Out Shock (C.O.S)\n",
+    "shotName": "Chill Out Shock (C.O.S)",
     "ingredient": [
       "1 part Butterscotch schnapps (Buttershots)",
       "1 part hot Espresso"
     ]
   },
   {
-    "shotName": "China White #2\n",
+    "shotName": "China White #2",
     "ingredient": [
       "3/4 shot Creme de Cacao",
       "1/4 shot Irish cream",
@@ -34587,7 +34585,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "China White\n",
+    "shotName": "China White",
     "ingredient": [
       "1/2 oz Vodka",
       "1/2 oz Bailey's irish cream",
@@ -34595,7 +34593,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Chiquita\n",
+    "shotName": "Chiquita",
     "ingredient": [
       "3 parts Vodka",
       "2 parts Creme de Banane",
@@ -34603,14 +34601,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Choad\n",
+    "shotName": "Choad",
     "ingredient": [
       "15 ml Green Chartreuse",
       "15 ml Tequila"
     ]
   },
   {
-    "shotName": "Chocolate Almond\n",
+    "shotName": "Chocolate Almond",
     "ingredient": [
       "1/3 oz Amaretto",
       "1/3 oz Dark Creme de Cacao",
@@ -34618,7 +34616,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Chocolate Cake #2\n",
+    "shotName": "Chocolate Cake #2",
     "ingredient": [
       "3/4 oz Vodka",
       "1/4 oz Frangelico",
@@ -34627,7 +34625,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Chocolate Cake Shooter\n",
+    "shotName": "Chocolate Cake Shooter",
     "ingredient": [
       "1/2 shot Absolut Citron",
       "1/2 shot Frangelico",
@@ -34635,7 +34633,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Chocolate Covered Cherry Shot\n",
+    "shotName": "Chocolate Covered Cherry Shot",
     "ingredient": [
       "1 part Kahlua",
       "1 part Amaretto",
@@ -34644,21 +34642,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Chocolate Honeybee\n",
+    "shotName": "Chocolate Honeybee",
     "ingredient": [
       "1/2 shot Godiva liqueur",
       "1/2 shot Barenjager"
     ]
   },
   {
-    "shotName": "Chocolate Martini #2\n",
+    "shotName": "Chocolate Martini #2",
     "ingredient": [
       "1 shot white Creme de Cacao",
       "1 shot Vodka"
     ]
   },
   {
-    "shotName": "Chocolate Milk\n",
+    "shotName": "Chocolate Milk",
     "ingredient": [
       "1/2 shot Chocolate liqueur (Droste)",
       "1/2 shot Milk",
@@ -34666,7 +34664,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Chocolate Monk\n",
+    "shotName": "Chocolate Monk",
     "ingredient": [
       "1/3 Frangelico",
       "1/3 Kahlua",
@@ -34674,7 +34672,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Chocolate Otis\n",
+    "shotName": "Chocolate Otis",
     "ingredient": [
       "1 part Kahlua",
       "1 part Bailey's irish cream",
@@ -34682,21 +34680,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Christmas Cheer\n",
+    "shotName": "Christmas Cheer",
     "ingredient": [
       "1/2 shot Eggnog",
       "1/2 shot Peppermint schnapps"
     ]
   },
   {
-    "shotName": "Chuck Wagon\n",
+    "shotName": "Chuck Wagon",
     "ingredient": [
       "1 1/2 oz ice cold Jägermeister",
       "2 drops Tabasco sauce"
     ]
   },
   {
-    "shotName": "Cinn's Stop Light\n",
+    "shotName": "Cinn's Stop Light",
     "ingredient": [
       "1/3 oz Melon liqueur",
       "1/3 oz Grenadine",
@@ -34704,7 +34702,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Citron my face\n",
+    "shotName": "Citron my face",
     "ingredient": [
       "1 oz Absolut Citron",
       "1/2 oz Grand Marnier",
@@ -34713,7 +34711,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Cliffhanger\n",
+    "shotName": "Cliffhanger",
     "ingredient": [
       "1/4 oz Kahlua",
       "1/4 oz Bailey's irish cream",
@@ -34722,7 +34720,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Closed Casket\n",
+    "shotName": "Closed Casket",
     "ingredient": [
       "1 oz Jägermeister",
       "1 oz Bacardi 151 proof rum",
@@ -34731,14 +34729,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Cockroach\n",
+    "shotName": "Cockroach",
     "ingredient": [
       "15 ml Kahlua",
       "15 ml Drambuie"
     ]
   },
   {
-    "shotName": "Cockteaser\n",
+    "shotName": "Cockteaser",
     "ingredient": [
       "1 part Triple sec",
       "1 part Peach schnapps",
@@ -34746,7 +34744,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Coconut Cream Pie\n",
+    "shotName": "Coconut Cream Pie",
     "ingredient": [
       "1 oz Vanilla schnapps",
       "1 oz Malibu rum",
@@ -34754,7 +34752,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Coffee Crisp Shot\n",
+    "shotName": "Coffee Crisp Shot",
     "ingredient": [
       "3/8 oz Kahlua",
       "1/4 oz Creme de Cacao",
@@ -34763,7 +34761,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Coffee Grinder\n",
+    "shotName": "Coffee Grinder",
     "ingredient": [
       "3 parts Kahlua",
       "3 parts Amaretto",
@@ -34772,7 +34770,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Cold Fire\n",
+    "shotName": "Cold Fire",
     "ingredient": [
       "1 oz Rumple Minze",
       "1 oz Ice 101",
@@ -34780,7 +34778,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "The Colombian\n",
+    "shotName": "The Colombian",
     "ingredient": [
       "1/3 oz Kahlua",
       "1/3 oz Amaretto",
@@ -34788,7 +34786,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Colorado Cider\n",
+    "shotName": "Colorado Cider",
     "ingredient": [
       "Splash Apple juice",
       "1/2 oz Apple schnapps",
@@ -34797,7 +34795,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Colorado Rattlesnake\n",
+    "shotName": "Colorado Rattlesnake",
     "ingredient": [
       "1 1/2 oz chilled Tequila",
       "1 1/2 oz Tomato juice",
@@ -34806,7 +34804,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Concord\n",
+    "shotName": "Concord",
     "ingredient": [
       "1/2 oz Coffee liqueur",
       "1/2 oz Bailey's irish cream",
@@ -34814,14 +34812,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Concrete\n",
+    "shotName": "Concrete",
     "ingredient": [
       "1 shot Vodka",
       "1 shot Bailey's irish cream"
     ]
   },
   {
-    "shotName": "Cookie Dough\n",
+    "shotName": "Cookie Dough",
     "ingredient": [
       "1 part Amaretto",
       "1 part Bailey's irish cream",
@@ -34829,7 +34827,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Cookie Monster #2\n",
+    "shotName": "Cookie Monster #2",
     "ingredient": [
       "1/2 oz Kahlua",
       "1/2 oz Bailey's irish cream",
@@ -34837,14 +34835,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Cool Hot Damn\n",
+    "shotName": "Cool Hot Damn",
     "ingredient": [
       "1 shot Hot Damn",
       "1 shot Peppermint schnapps"
     ]
   },
   {
-    "shotName": "CoonDogg\n",
+    "shotName": "CoonDogg",
     "ingredient": [
       "1 oz Crown Royal",
       "1/2 oz Blackberry brandy",
@@ -34852,7 +34850,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Cooter Cork\n",
+    "shotName": "Cooter Cork",
     "ingredient": [
       "1/2 oz Grenadine",
       "1/2 oz Raspberry liqueur (Chambord)",
@@ -34861,14 +34859,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Copper Camel\n",
+    "shotName": "Copper Camel",
     "ingredient": [
       "1 oz Bailey's irish cream",
       "1/2 oz Butterscotch schnapps"
     ]
   },
   {
-    "shotName": "Cough Medicine\n",
+    "shotName": "Cough Medicine",
     "ingredient": [
       "1/3 part Vodka (Skyy)",
       "1/3 part Southern Comfort",
@@ -34876,7 +34874,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Cough Syrup\n",
+    "shotName": "Cough Syrup",
     "ingredient": [
       "1/3 Blue Curacao",
       "1/3 Green Creme de Menthe",
@@ -34884,7 +34882,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Cowboy Cocksucker #2\n",
+    "shotName": "Cowboy Cocksucker #2",
     "ingredient": [
       "1/3 Butterscotch schnapps",
       "1/3 Bailey's irish cream",
@@ -34892,14 +34890,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Cowboy Cocksucker\n",
+    "shotName": "Cowboy Cocksucker",
     "ingredient": [
       "Butterscotch schnapps",
       "Bailey's irish cream"
     ]
   },
   {
-    "shotName": "Crack Pipe\n",
+    "shotName": "Crack Pipe",
     "ingredient": [
       "1 oz Bacardi 151 proof rum",
       "1 oz Rumple Minze",
@@ -34907,21 +34905,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Crackhouse\n",
+    "shotName": "Crackhouse",
     "ingredient": [
       "1/2 shot Blackberry schnapps (Blackhaus)",
       "1/2 shot Cranberry juice"
     ]
   },
   {
-    "shotName": "Cranberry Zamboni\n",
+    "shotName": "Cranberry Zamboni",
     "ingredient": [
       "1/2 oz Cranberry vodka or schnapps",
       "1/2 oz Wild Spirit liqueur"
     ]
   },
   {
-    "shotName": "Crap Schnapps\n",
+    "shotName": "Crap Schnapps",
     "ingredient": [
       "1 part Cinnamon schnapps",
       "1 part Root beer schnapps",
@@ -34930,7 +34928,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "The \"Liquerice\" Dream\n",
+    "shotName": "The \"Liquerice\" Dream",
     "ingredient": [
       "1/4 oz Galliano",
       "1/4 oz Irish cream",
@@ -34939,7 +34937,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Crowbar\n",
+    "shotName": "Crowbar",
     "ingredient": [
       "1/2 oz Crown Royal",
       "1/2 oz 151 proof rum",
@@ -34947,7 +34945,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Crystal Virgin\n",
+    "shotName": "Crystal Virgin",
     "ingredient": [
       "1 oz Yukon Jack",
       "3/4 oz Amaretto",
@@ -34955,7 +34953,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Cucacaracha\n",
+    "shotName": "Cucacaracha",
     "ingredient": [
       "1/3 part Vodka",
       "1/3 part Kahlua",
@@ -34964,14 +34962,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Cucaracha #2\n",
+    "shotName": "Cucaracha #2",
     "ingredient": [
       "3/4 Vodka (Absolut)",
       "1/4 Kahlua"
     ]
   },
   {
-    "shotName": "Cunnilingus\n",
+    "shotName": "Cunnilingus",
     "ingredient": [
       "1/4 oz Bailey's irish cream",
       "1/4 oz Peach schnapps",
@@ -34980,7 +34978,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Curtain Call\n",
+    "shotName": "Curtain Call",
     "ingredient": [
       "1 part Jägermeister",
       "1 part Midori melon liqueur",
@@ -34988,14 +34986,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Czech Collaborator\n",
+    "shotName": "Czech Collaborator",
     "ingredient": [
       "1/2 oz Goldschlager",
       "1/2 oz Becherovka"
     ]
   },
   {
-    "shotName": "D.O.A.\n",
+    "shotName": "D.O.A.",
     "ingredient": [
       "3/4 oz Barenjager",
       "3/4 oz Rumple Minze",
@@ -35003,21 +35001,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Dakota\n",
+    "shotName": "Dakota",
     "ingredient": [
       "1 1/2 oz Bourbon (Jim Beam)",
       "1 1/2 oz Tequila (Cuervo)"
     ]
   },
   {
-    "shotName": "Dallas Stars\n",
+    "shotName": "Dallas Stars",
     "ingredient": [
       "1/2 oz Green Creme de Menthe",
       "1/2 oz Goldschlager"
     ]
   },
   {
-    "shotName": "Damn Good!\n",
+    "shotName": "Damn Good!",
     "ingredient": [
       "1/2 oz Butterscotch schnapps (DeKuyper Buttershots)",
       "1/4 oz Green Creme de Menthe",
@@ -35026,14 +35024,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Damned if you do\n",
+    "shotName": "Damned if you do",
     "ingredient": [
       "0.75 oz Whiskey (Black Velvet recommended)",
       "0.25 oz Hot Damn"
     ]
   },
   {
-    "shotName": "Dark Nightmare\n",
+    "shotName": "Dark Nightmare",
     "ingredient": [
       "3/4 oz Kahlua",
       "1/8 oz Goldschlager",
@@ -35041,7 +35039,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "The Dash\n",
+    "shotName": "The Dash",
     "ingredient": [
       "2 Ice cubes",
       "1 shot Advocaat",
@@ -35049,14 +35047,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "DC\n",
+    "shotName": "DC",
     "ingredient": [
       "1 oz Bailey's irish cream",
       "1 oz Tequila"
     ]
   },
   {
-    "shotName": "Dead Dog Vomit\n",
+    "shotName": "Dead Dog Vomit",
     "ingredient": [
       "1 oz 151 proof rum",
       "Layer 1 oz Tequila",
@@ -35064,7 +35062,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Dead Dog\n",
+    "shotName": "Dead Dog",
     "ingredient": [
       "1 part Crown Royal",
       "1 part Beer (Red Dog)",
@@ -35072,7 +35070,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Dead Hitler\n",
+    "shotName": "Dead Hitler",
     "ingredient": [
       "1 part Rumple Minze",
       "1 part Jägermeister",
@@ -35080,35 +35078,35 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Dead Nazi\n",
+    "shotName": "Dead Nazi",
     "ingredient": [
       "2/3 oz Rumple Minze",
       "2/3 oz Jägermeister"
     ]
   },
   {
-    "shotName": "Demon Drop\n",
+    "shotName": "Demon Drop",
     "ingredient": [
       "1/2 oz Everclear",
       "1/2 oz Orange juice"
     ]
   },
   {
-    "shotName": "Desert Water\n",
+    "shotName": "Desert Water",
     "ingredient": [
       "1 oz Tabasco sauce",
       "Fill with 1 oz Tequila"
     ]
   },
   {
-    "shotName": "Devastating Body Rocker\n",
+    "shotName": "Devastating Body Rocker",
     "ingredient": [
       "1 part Blackberry brandy",
       "1 part Gin"
     ]
   },
   {
-    "shotName": "Dirtiest Ernie\n",
+    "shotName": "Dirtiest Ernie",
     "ingredient": [
       "2/3 oz Bacardi 151 proof rum",
       "2/3 oz Everclear",
@@ -35116,14 +35114,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Dirty Irish Whiskey\n",
+    "shotName": "Dirty Irish Whiskey",
     "ingredient": [
       "1 part Bailey's irish cream",
       "1 part Irish whiskey (Jameson's)"
     ]
   },
   {
-    "shotName": "Dirty Nipple\n",
+    "shotName": "Dirty Nipple",
     "ingredient": [
       "Kahlua",
       "Sambuca",
@@ -35131,21 +35129,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Dirty Oatmeal\n",
+    "shotName": "Dirty Oatmeal",
     "ingredient": [
       "1 1/2 oz Jägermeister",
       "1 1/2 oz Bailey's irish cream"
     ]
   },
   {
-    "shotName": "Disco Ball\n",
+    "shotName": "Disco Ball",
     "ingredient": [
       "1 oz Midori melon liqueur",
       "1 oz Goldschlager"
     ]
   },
   {
-    "shotName": "Dizzy Damage\n",
+    "shotName": "Dizzy Damage",
     "ingredient": [
       "1 part Jägermeister",
       "1 part Rumple Minze",
@@ -35153,7 +35151,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Dolt Bolt\n",
+    "shotName": "Dolt Bolt",
     "ingredient": [
       "1/3 shot Everclear",
       "1/3 shot Rumple Minze",
@@ -35161,14 +35159,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Dong\n",
+    "shotName": "Dong",
     "ingredient": [
       "3/4 oz Bailey's irish cream",
       "3/4 oz Rumple Minze"
     ]
   },
   {
-    "shotName": "Door County Cherry Cheesecake\n",
+    "shotName": "Door County Cherry Cheesecake",
     "ingredient": [
       "1 1/2 oz Vanilla schnapps (Dr. McGillicuddy's)",
       "1 oz unsweetened Cherry juice",
@@ -35177,14 +35175,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Double Brit\n",
+    "shotName": "Double Brit",
     "ingredient": [
       "1 oz Tanqueray Gin",
       "1 oz Single malt Scotch"
     ]
   },
   {
-    "shotName": "Double Chocolate\n",
+    "shotName": "Double Chocolate",
     "ingredient": [
       "1/2 oz White chocolate liqueur (Godet)",
       "1/2 oz Creme de Cacao",
@@ -35192,35 +35190,35 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Double Gold\n",
+    "shotName": "Double Gold",
     "ingredient": [
       "3/4 oz Goldschlager",
       "3/4 oz Gold tequila (Cuervo)"
     ]
   },
   {
-    "shotName": "Double Jack\n",
+    "shotName": "Double Jack",
     "ingredient": [
       "1/2 shot Jack Daniels",
       "1/2 shot Yukon Jack"
     ]
   },
   {
-    "shotName": "Double Pucker\n",
+    "shotName": "Double Pucker",
     "ingredient": [
       "1 oz Apple schnapps",
       "1 oz Watermelon schnapps"
     ]
   },
   {
-    "shotName": "The Double Team\n",
+    "shotName": "The Double Team",
     "ingredient": [
       "1 oz Amaretto",
       "1 oz Rum"
     ]
   },
   {
-    "shotName": "Doucet devil\n",
+    "shotName": "Doucet devil",
     "ingredient": [
       "1/2 oz Amaretto",
       "1/4 oz Southern Comfort",
@@ -35228,14 +35226,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Doug's Modified Cement Mixer\n",
+    "shotName": "Doug's Modified Cement Mixer",
     "ingredient": [
       "1 shot Bailey's irish cream",
       "2 or 3 splashes Lemon juice or Lime Juice"
     ]
   },
   {
-    "shotName": "Dr. Debbie\n",
+    "shotName": "Dr. Debbie",
     "ingredient": [
       "1/2 oz Barenjager",
       "1/2 oz Crown Royal",
@@ -35243,7 +35241,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Dr. Pepper #5\n",
+    "shotName": "Dr. Pepper #5",
     "ingredient": [
       "1/2 shot Amaretto",
       "1/2 shot Bacardi 151 proof rum",
@@ -35251,14 +35249,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Dragon's Breath\n",
+    "shotName": "Dragon's Breath",
     "ingredient": [
       "1/2 oz Firewater",
       "1/2 oz Bacardi 151 proof rum"
     ]
   },
   {
-    "shotName": "Dublin Doubler\n",
+    "shotName": "Dublin Doubler",
     "ingredient": [
       "1 1/2 oz Irish whiskey",
       "1 1/2 oz Irish cream",
@@ -35266,7 +35264,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Duck Fart #2\n",
+    "shotName": "Duck Fart #2",
     "ingredient": [
       "1/2 oz Crown Royal",
       "1/2 oz Kahlua",
@@ -35274,7 +35272,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Duck Fart\n",
+    "shotName": "Duck Fart",
     "ingredient": [
       "3/4 oz Kahlua",
       "3/4 oz Bailey's irish cream",
@@ -35282,7 +35280,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Duck Fuck\n",
+    "shotName": "Duck Fuck",
     "ingredient": [
       "4 parts Gin (Tanqueray)",
       "1 part Vodka (Stoli)",
@@ -35290,7 +35288,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Duck Shit Inn\n",
+    "shotName": "Duck Shit Inn",
     "ingredient": [
       "1/2 oz Kahlua",
       "1/2 oz Midori melon liqueur",
@@ -35299,7 +35297,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Duck's Ass\n",
+    "shotName": "Duck's Ass",
     "ingredient": [
       "1 shot Bailey's irish cream",
       "1 shot Kahlua",
@@ -35307,21 +35305,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Duke's Nightmare\n",
+    "shotName": "Duke's Nightmare",
     "ingredient": [
       "2 oz Jack Daniels",
       "2 oz Jose Cuervo"
     ]
   },
   {
-    "shotName": "Dumbfuck\n",
+    "shotName": "Dumbfuck",
     "ingredient": [
       "1/2 oz Aftershock",
       "1/2 oz Canadian whisky"
     ]
   },
   {
-    "shotName": "Dutch Flag\n",
+    "shotName": "Dutch Flag",
     "ingredient": [
       "1/3 oz Blue Curacao",
       "1/3 oz Piña Colada",
@@ -35329,7 +35327,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Easy does it\n",
+    "shotName": "Easy does it",
     "ingredient": [
       "1 part Everclear",
       "1 part Kahlua",
@@ -35337,14 +35335,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Eat Hot Death\n",
+    "shotName": "Eat Hot Death",
     "ingredient": [
       "2 oz 151 proof rum",
       "10 drops Lemon juice"
     ]
   },
   {
-    "shotName": "Echo Hemoraging Tumor\n",
+    "shotName": "Echo Hemoraging Tumor",
     "ingredient": [
       "1 oz Irish cream (Carolyn's)",
       "6 drops Blue Curacao",
@@ -35352,7 +35350,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "El Bastardo\n",
+    "shotName": "El Bastardo",
     "ingredient": [
       "5 oz Tequila",
       "3 oz Everclear",
@@ -35361,7 +35359,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Electric Storm\n",
+    "shotName": "Electric Storm",
     "ingredient": [
       "1/2 oz Irish cream",
       "1/2 oz Goldschlager",
@@ -35370,7 +35368,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Emerald Eye\n",
+    "shotName": "Emerald Eye",
     "ingredient": [
       "1 part Gin",
       "1 part Midori melon liqueur",
@@ -35378,7 +35376,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "The End of the World\n",
+    "shotName": "The End of the World",
     "ingredient": [
       "1/2 oz Bacardi 151 proof rum",
       "1/2 oz Wild Turkey 101 proof",
@@ -35386,7 +35384,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Epidural\n",
+    "shotName": "Epidural",
     "ingredient": [
       "1 part Everclear",
       "1 part Vodka (Absolut)",
@@ -35395,7 +35393,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "The Equator\n",
+    "shotName": "The Equator",
     "ingredient": [
       "1/2 oz Peach schnapps",
       "1/2 oz White rum",
@@ -35403,7 +35401,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Eskimo Joe\n",
+    "shotName": "Eskimo Joe",
     "ingredient": [
       "1/4 Bailey's irish cream",
       "1/4 Green Creme de Menthe",
@@ -35412,7 +35410,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Estonian Forest-fire\n",
+    "shotName": "Estonian Forest-fire",
     "ingredient": [
       "1 oz chilled Vodka (Absolut or Stoli)",
       "12 drops Tabasco sauce",
@@ -35420,7 +35418,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Evil Tongue\n",
+    "shotName": "Evil Tongue",
     "ingredient": [
       "1 1/2 oz Gin (Tanqueray)",
       "1 oz Midori melon liqueur",
@@ -35429,7 +35427,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Extraterrestrial\n",
+    "shotName": "Extraterrestrial",
     "ingredient": [
       "1 jigger Irish cream",
       "1 jigger Midori melon liqueur",
@@ -35438,7 +35436,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "F-69\n",
+    "shotName": "F-69",
     "ingredient": [
       "1/5 oz Dark rum",
       "1/5 oz Kahlua",
@@ -35447,7 +35445,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Fahrenheit 5000\n",
+    "shotName": "Fahrenheit 5000",
     "ingredient": [
       "1/2 oz Firewater",
       "1/2 oz Absolut Peppar",
@@ -35455,7 +35453,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Falix\n",
+    "shotName": "Falix",
     "ingredient": [
       "2/5 shot Dark rum",
       "2/5 shot Margarita mix, Strawberry",
@@ -35463,14 +35461,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Falling star\n",
+    "shotName": "Falling star",
     "ingredient": [
       "3/4 oz white Sambuca",
       "Fill with Jack Daniels"
     ]
   },
   {
-    "shotName": "Fat Box\n",
+    "shotName": "Fat Box",
     "ingredient": [
       "1/4 oz Creme de Banane",
       "1/4 oz Blue Curacao",
@@ -35479,7 +35477,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Fat Cat\n",
+    "shotName": "Fat Cat",
     "ingredient": [
       "1 oz Bailey's irish cream",
       "1/2 oz Amaretto",
@@ -35487,7 +35485,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Faust\n",
+    "shotName": "Faust",
     "ingredient": [
       "1/3 oz Yukon Jack",
       "1/3 oz Jägermeister",
@@ -35495,7 +35493,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "The Feckin Bolox\n",
+    "shotName": "The Feckin Bolox",
     "ingredient": [
       "1/3 part Galliano",
       "1/3 part Bailey's irish cream",
@@ -35503,7 +35501,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Fiery Balls of Death\n",
+    "shotName": "Fiery Balls of Death",
     "ingredient": [
       "1/3 shot Bacardi 151 proof rum",
       "1/3 shot Everclear",
@@ -35511,7 +35509,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Fiery Blue Mustang\n",
+    "shotName": "Fiery Blue Mustang",
     "ingredient": [
       "1/2 oz Banana liqueur",
       "1/2 oz Blue Curacao",
@@ -35519,7 +35517,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Fig\n",
+    "shotName": "Fig",
     "ingredient": [
       "1 1/2 oz Malibu rum",
       "1 oz Pineapple juice",
@@ -35527,14 +35525,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Fire And Ice\n",
+    "shotName": "Fire And Ice",
     "ingredient": [
       "1/2 shot Firewater",
       "1/2 shot Rumple Minze"
     ]
   },
   {
-    "shotName": "Fire Ant Torture\n",
+    "shotName": "Fire Ant Torture",
     "ingredient": [
       "1 shot Tequila",
       "10 drops Tabasco sauce",
@@ -35542,14 +35540,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Fire in Heaven\n",
+    "shotName": "Fire in Heaven",
     "ingredient": [
       "1 oz 151 proof rum",
       "1 dash Tabasco sauce"
     ]
   },
   {
-    "shotName": "Fireball #3\n",
+    "shotName": "Fireball #3",
     "ingredient": [
       "1 part Sambuca",
       "1 part Tequila",
@@ -35557,7 +35555,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "FireBall Shooter\n",
+    "shotName": "FireBall Shooter",
     "ingredient": [
       "1 shot Cinnamon schnapps",
       "1 shot Bacardi 151 proof rum (Red Label)",
@@ -35565,28 +35563,28 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Fireball\n",
+    "shotName": "Fireball",
     "ingredient": [
       "1 oz Cinnamon schnapps",
       "1 dash Tabasco sauce"
     ]
   },
   {
-    "shotName": "Firecracker\n",
+    "shotName": "Firecracker",
     "ingredient": [
       "2 oz Wild Turkey",
       "4 dashes Tabasco sauce"
     ]
   },
   {
-    "shotName": "Firetruck\n",
+    "shotName": "Firetruck",
     "ingredient": [
       "2-4 cl Jägermeister",
       "2-4 cl Ginger ale or Red Soda Water"
     ]
   },
   {
-    "shotName": "Flaming Asshole\n",
+    "shotName": "Flaming Asshole",
     "ingredient": [
       "1/2 oz Grenadine",
       "1/2 oz Green Creme de Menthe",
@@ -35595,7 +35593,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Flaming Blue Jesus\n",
+    "shotName": "Flaming Blue Jesus",
     "ingredient": [
       "1 oz Bacardi 151 proof rum",
       "1/2 oz Peppermint schnapps",
@@ -35604,7 +35602,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Flaming Blue\n",
+    "shotName": "Flaming Blue",
     "ingredient": [
       "1/2 oz Anisette",
       "1/2 oz Vermouth",
@@ -35612,7 +35610,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Flaming Cocaine\n",
+    "shotName": "Flaming Cocaine",
     "ingredient": [
       "1 part Aftershock",
       "1 part 100 proof Vodka (Smirnoff)",
@@ -35620,7 +35618,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Flaming Confederate\n",
+    "shotName": "Flaming Confederate",
     "ingredient": [
       "1 dash Grenadine",
       "1/2 oz Godiva liqueur",
@@ -35628,7 +35626,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Flaming Dr. Pepper #2\n",
+    "shotName": "Flaming Dr. Pepper #2",
     "ingredient": [
       "3/4 shot Amaretto",
       "151 proof rum",
@@ -35636,14 +35634,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Flaming Dragon\n",
+    "shotName": "Flaming Dragon",
     "ingredient": [
       "1 oz Green Chartreuse",
       "1 oz 151 proof rum (Bacardi)"
     ]
   },
   {
-    "shotName": "Flaming Fruit Trees\n",
+    "shotName": "Flaming Fruit Trees",
     "ingredient": [
       "1/2 oz Peach schnapps",
       "1/2 oz Banana liqueur",
@@ -35651,7 +35649,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Flaming Giraffe\n",
+    "shotName": "Flaming Giraffe",
     "ingredient": [
       "2 oz Kahlua",
       "1 oz Butterscotch schnapps",
@@ -35659,7 +35657,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Flaming Gorilla\n",
+    "shotName": "Flaming Gorilla",
     "ingredient": [
       "1 part Peppermint schnapps",
       "1 part Kahlua",
@@ -35667,7 +35665,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Flaming Jesus\n",
+    "shotName": "Flaming Jesus",
     "ingredient": [
       "1 1/2 oz Vodka (Absolut)",
       "1 splash Lime juice",
@@ -35676,14 +35674,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Flaming Nazi\n",
+    "shotName": "Flaming Nazi",
     "ingredient": [
       "1 oz Jägermeister",
       "1 oz Hot Damn"
     ]
   },
   {
-    "shotName": "Flaming Rasta\n",
+    "shotName": "Flaming Rasta",
     "ingredient": [
       "1 part Amaretto",
       "1 part Grenadine",
@@ -35691,28 +35689,28 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Flaming Russian\n",
+    "shotName": "Flaming Russian",
     "ingredient": [
       "1 oz Vodka",
       "1/5 oz Bacardi 151 proof rum"
     ]
   },
   {
-    "shotName": "Flamming Gorrilla Titties\n",
+    "shotName": "Flamming Gorrilla Titties",
     "ingredient": [
       "1 oz Bacardi 151 proof rum",
       "1 oz Kahlua"
     ]
   },
   {
-    "shotName": "Flat Tire\n",
+    "shotName": "Flat Tire",
     "ingredient": [
       "2 parts Tequila (Cuervo)",
       "1 part Black Sambuca"
     ]
   },
   {
-    "shotName": "Flatliner\n",
+    "shotName": "Flatliner",
     "ingredient": [
       "1 jigger Sambuca",
       "1 shot Gold tequila",
@@ -35720,7 +35718,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Flying Monkey\n",
+    "shotName": "Flying Monkey",
     "ingredient": [
       "1/3 oz Kahlua",
       "1/3 oz Banana liqueur",
@@ -35728,7 +35726,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Flügel\n",
+    "shotName": "Flügel",
     "ingredient": [
       "1 part Cranberry vodka",
       "1 part Red Bull",
@@ -35736,21 +35734,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Foreplay\n",
+    "shotName": "Foreplay",
     "ingredient": [
       "1/2 oz Amaretto",
       "1/2 oz Pineapple juice"
     ]
   },
   {
-    "shotName": "Forest Fire\n",
+    "shotName": "Forest Fire",
     "ingredient": [
       "4/5 shot Everclear",
       "1/5 shot Tabasco sauce"
     ]
   },
   {
-    "shotName": "Four Fine Friends\n",
+    "shotName": "Four Fine Friends",
     "ingredient": [
       "1/4 oz Jose Cuervo",
       "1/4 oz Jim Beam",
@@ -35759,7 +35757,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Four Horsemen #2\n",
+    "shotName": "Four Horsemen #2",
     "ingredient": [
       "1/4 oz Bourbon (Jim Beam)",
       "1/4 oz Tennessee whiskey (Jack Daniel's)",
@@ -35768,7 +35766,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Four Horsemen\n",
+    "shotName": "Four Horsemen",
     "ingredient": [
       "3/4 oz Gold tequila (Jose Cuervo)",
       "3/4 oz Jägermeister",
@@ -35777,7 +35775,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Fourth of July\n",
+    "shotName": "Fourth of July",
     "ingredient": [
       "1/2 oz Grenadine",
       "1/2 oz Blue Curacao",
@@ -35785,7 +35783,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Freddie's Naughty Neopolitan\n",
+    "shotName": "Freddie's Naughty Neopolitan",
     "ingredient": [
       "1/3 oz Kahlua",
       "1/3 oz white Creme de Cacao",
@@ -35793,7 +35791,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Freddy Kruger\n",
+    "shotName": "Freddy Kruger",
     "ingredient": [
       "1/2 oz Jägermeister",
       "1/2 oz Sambuca",
@@ -35801,14 +35799,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Freight Train\n",
+    "shotName": "Freight Train",
     "ingredient": [
       "1/2 oz Tequila",
       "1/2 oz Jack Daniels"
     ]
   },
   {
-    "shotName": "French Toast\n",
+    "shotName": "French Toast",
     "ingredient": [
       "1/3 Bailey's irish cream",
       "1/3 Hot Damn",
@@ -35816,7 +35814,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "French Whore\n",
+    "shotName": "French Whore",
     "ingredient": [
       "1 oz Vodka",
       "1/2 oz Chambord raspberry liqueur",
@@ -35824,14 +35822,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Frozen Bird\n",
+    "shotName": "Frozen Bird",
     "ingredient": [
       "1/2 oz Wild Turkey",
       "1/2 oz Rumple Minze"
     ]
   },
   {
-    "shotName": "Fruit Loop #2\n",
+    "shotName": "Fruit Loop #2",
     "ingredient": [
       "1/2 oz Amaretto",
       "1/2 oz Blue Curacao",
@@ -35840,7 +35838,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Fruit of the Loom\n",
+    "shotName": "Fruit of the Loom",
     "ingredient": [
       "1/4 oz Banana liqueur",
       "1/4 oz Melon liqueur",
@@ -35849,7 +35847,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Fruity Pebble\n",
+    "shotName": "Fruity Pebble",
     "ingredient": [
       "1 1/2 oz Vodka",
       "1/2 oz Blue Curacao",
@@ -35858,7 +35856,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Fuck Me Up\n",
+    "shotName": "Fuck Me Up",
     "ingredient": [
       "1/2 oz Coffee liqueur",
       "1/2 oz Irish cream",
@@ -35866,21 +35864,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Funky Chicken\n",
+    "shotName": "Funky Chicken",
     "ingredient": [
       "1/2 shot Tequila (Cuervo)",
       "1/2 shot Wild Turkey"
     ]
   },
   {
-    "shotName": "Fuzznutts\n",
+    "shotName": "Fuzznutts",
     "ingredient": [
       "3/4 oz Peach schnapps",
       "3/4 oz Frangelico"
     ]
   },
   {
-    "shotName": "Fuzzy Astronaut\n",
+    "shotName": "Fuzzy Astronaut",
     "ingredient": [
       "1/2 tsp Tang mix, powdered",
       "1/2 shot Vodka",
@@ -35888,7 +35886,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Fuzzy Blue Gobbler\n",
+    "shotName": "Fuzzy Blue Gobbler",
     "ingredient": [
       "1 part Peach schnapps",
       "1 part Maui",
@@ -35896,7 +35894,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Fuzzy Irishman\n",
+    "shotName": "Fuzzy Irishman",
     "ingredient": [
       "1/3 part Raspberry liqueur",
       "1/3 part Butterscotch schnapps",
@@ -35904,7 +35902,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Fuzzy Monkey\n",
+    "shotName": "Fuzzy Monkey",
     "ingredient": [
       "3/4 oz Vodka",
       "3/4 oz Peach schnapps",
@@ -35913,14 +35911,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Fuzzy Russian\n",
+    "shotName": "Fuzzy Russian",
     "ingredient": [
       "1/2 shot Vodka (Skyy)",
       "1/2 shot Peach schnapps"
     ]
   },
   {
-    "shotName": "Fuzzy Screw Shot\n",
+    "shotName": "Fuzzy Screw Shot",
     "ingredient": [
       "1 oz Vodka",
       "1/2 oz Peach schnapps",
@@ -35928,21 +35926,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "G Bomb\n",
+    "shotName": "G Bomb",
     "ingredient": [
       "1/2 shot Goldschlager",
       "1/2 shot 100 proof Absolut Vodka"
     ]
   },
   {
-    "shotName": "G4\n",
+    "shotName": "G4",
     "ingredient": [
       "1/2 oz Amaretto",
       "1/2 oz Irish cream"
     ]
   },
   {
-    "shotName": "Galliano Hotshot #2\n",
+    "shotName": "Galliano Hotshot #2",
     "ingredient": [
       "2 cl Galliano",
       "2 cl hot Coffee",
@@ -35950,7 +35948,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Gangreen\n",
+    "shotName": "Gangreen",
     "ingredient": [
       "1 oz Green Creme de Menthe",
       "1 oz Jägermeister",
@@ -35958,7 +35956,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Geisha\n",
+    "shotName": "Geisha",
     "ingredient": [
       "1 part Crown Royal",
       "2 parts Midori melon liqueur",
@@ -35966,7 +35964,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Gingerbread Man #2\n",
+    "shotName": "Gingerbread Man #2",
     "ingredient": [
       "1/3 oz Goldschlager",
       "1/3 oz Butterscotch schnapps",
@@ -35974,7 +35972,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Gingerbread Man\n",
+    "shotName": "Gingerbread Man",
     "ingredient": [
       "1/3 Kahlua",
       "1/3 Bailey's irish cream",
@@ -35982,7 +35980,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Girl Scout Cookie\n",
+    "shotName": "Girl Scout Cookie",
     "ingredient": [
       "1 oz Kahlua",
       "1 oz Goldschlager",
@@ -35990,7 +35988,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Gladiator\n",
+    "shotName": "Gladiator",
     "ingredient": [
       "1/2 oz Amaretto",
       "1/2 oz Southern Comfort",
@@ -35999,7 +35997,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Glam Trash\n",
+    "shotName": "Glam Trash",
     "ingredient": [
       "2 parts chilled Cinnamon schnapps (Goldschlager)",
       "1 part Beer (Bud light)",
@@ -36007,28 +36005,28 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Gold Baron\n",
+    "shotName": "Gold Baron",
     "ingredient": [
       "3/4 oz Rumple Minze",
       "1/4 oz Goldschlager"
     ]
   },
   {
-    "shotName": "Golddigger\n",
+    "shotName": "Golddigger",
     "ingredient": [
       "1/2 oz Jack Daniels",
       "1/2 oz Goldschlager"
     ]
   },
   {
-    "shotName": "Golden Apple\n",
+    "shotName": "Golden Apple",
     "ingredient": [
       "1/2 oz Goldschlager",
       "1 oz Sour Apple Pucker"
     ]
   },
   {
-    "shotName": "Golden Comfort\n",
+    "shotName": "Golden Comfort",
     "ingredient": [
       "1 part Goldschlager",
       "1 part Southern Comfort",
@@ -36036,7 +36034,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Golden Eye\n",
+    "shotName": "Golden Eye",
     "ingredient": [
       "1 oz Bailey's irish cream",
       "1 oz Goldschlager",
@@ -36044,14 +36042,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Golden Furnace\n",
+    "shotName": "Golden Furnace",
     "ingredient": [
       "1 shot Goldschlager",
       "1 splash Tabasco sauce"
     ]
   },
   {
-    "shotName": "Golden Nipple\n",
+    "shotName": "Golden Nipple",
     "ingredient": [
       "1/2 oz Goldschlager",
       "1/2 oz Butterscotch schnapps",
@@ -36059,7 +36057,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Goldfish\n",
+    "shotName": "Goldfish",
     "ingredient": [
       "1 oz plain or Citrus vodka (Citron/Oranj)",
       "1 oz Peach schnapps",
@@ -36067,35 +36065,35 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Goldschlager Lemondrop\n",
+    "shotName": "Goldschlager Lemondrop",
     "ingredient": [
       "1 oz Goldschlager",
       "2 oz Lemonade"
     ]
   },
   {
-    "shotName": "Good & Plenty\n",
+    "shotName": "Good & Plenty",
     "ingredient": [
       "3/4 oz Anisette",
       "3/4 oz Kahlua"
     ]
   },
   {
-    "shotName": "Gorilla Fart #1\n",
+    "shotName": "Gorilla Fart #1",
     "ingredient": [
       "1/2 oz Wild Turkey",
       "1/2 oz Bacardi 151 proof rum"
     ]
   },
   {
-    "shotName": "Gorilla Fart #2\n",
+    "shotName": "Gorilla Fart #2",
     "ingredient": [
       "1/2 shot Jägermeister",
       "1/2 shot Goldschlager"
     ]
   },
   {
-    "shotName": "Gorilla Fart #3\n",
+    "shotName": "Gorilla Fart #3",
     "ingredient": [
       "1/3 shot Bacardi 151 proof rum",
       "1/3 shot Southern Comfort",
@@ -36103,7 +36101,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Gorilla Fart #4\n",
+    "shotName": "Gorilla Fart #4",
     "ingredient": [
       "1 oz Jack Daniels",
       "1 oz Wild Turkey",
@@ -36111,21 +36109,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Gorilla Fart #5\n",
+    "shotName": "Gorilla Fart #5",
     "ingredient": [
       "1 oz Bacardi 151 proof rum",
       "1 oz Yukon Jack"
     ]
   },
   {
-    "shotName": "Gorilla Snot #1\n",
+    "shotName": "Gorilla Snot #1",
     "ingredient": [
       "1 part Gill Port",
       "1 part Bailey's irish cream"
     ]
   },
   {
-    "shotName": "Gorilla Snot #2\n",
+    "shotName": "Gorilla Snot #2",
     "ingredient": [
       "1/2 oz Melon liqueur",
       "1/2 oz Creme de Banane",
@@ -36133,7 +36131,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Gorilla's Fart\n",
+    "shotName": "Gorilla's Fart",
     "ingredient": [
       "1/3 shot Vodka (Absolut)",
       "1/3 shot Bacardi 151 proof rum",
@@ -36141,14 +36139,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Gorilla's Puke\n",
+    "shotName": "Gorilla's Puke",
     "ingredient": [
       "1 oz Wild Turkey, 101 proof",
       "1 oz Bacardi 151 proof rum"
     ]
   },
   {
-    "shotName": "The Graduate\n",
+    "shotName": "The Graduate",
     "ingredient": [
       "1/2 oz Amaretto",
       "1 1/2 oz Southern Comfort",
@@ -36156,7 +36154,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Grainslide\n",
+    "shotName": "Grainslide",
     "ingredient": [
       "1/5 Grain alcohol",
       "2/5 Irish cream",
@@ -36164,7 +36162,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Grand-Ma in a Wheelchair\n",
+    "shotName": "Grand-Ma in a Wheelchair",
     "ingredient": [
       "2 parts Grand Marnier",
       "1 part Tequila",
@@ -36173,14 +36171,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Grandmom's slipper\n",
+    "shotName": "Grandmom's slipper",
     "ingredient": [
       "2 cl Bailey's irish cream",
       "2 cl Koskenkorva salmiac Vodka"
     ]
   },
   {
-    "shotName": "Grape Crush\n",
+    "shotName": "Grape Crush",
     "ingredient": [
       "1/3 oz Vodka",
       "1/3 oz Chambord raspberry liqueur",
@@ -36188,21 +36186,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Gravedigger\n",
+    "shotName": "Gravedigger",
     "ingredient": [
       "1/2 shot Bacardi 151 proof rum",
       "1/2 shot Whiskey (James B. Beam)"
     ]
   },
   {
-    "shotName": "Gray Hound\n",
+    "shotName": "Gray Hound",
     "ingredient": [
       "1 part Drambuie",
       "1 part Cointreau"
     ]
   },
   {
-    "shotName": "Greasy Swede\n",
+    "shotName": "Greasy Swede",
     "ingredient": [
       "1 oz Ouzo",
       "1 oz Vodka",
@@ -36210,7 +36208,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Greek Lightning\n",
+    "shotName": "Greek Lightning",
     "ingredient": [
       "1/3 oz Ouzo",
       "1/3 oz Vodka",
@@ -36218,7 +36216,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Green Apple #1\n",
+    "shotName": "Green Apple #1",
     "ingredient": [
       "1 shot Southern Comfort",
       "1 splash Midori melon liqueur",
@@ -36226,7 +36224,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Green Beaver\n",
+    "shotName": "Green Beaver",
     "ingredient": [
       "1/2 oz Creme de Cacao",
       "1/2 oz Green Creme de Menthe",
@@ -36234,14 +36232,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Green Beret\n",
+    "shotName": "Green Beret",
     "ingredient": [
       "1/2 shot Vodka",
       "1/2 shot green Peppermint schnapps"
     ]
   },
   {
-    "shotName": "Green Cookie Monster\n",
+    "shotName": "Green Cookie Monster",
     "ingredient": [
       "1/2 oz Gin",
       "1/4 oz Melon liqueur",
@@ -36249,7 +36247,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Green Dinosaur #3\n",
+    "shotName": "Green Dinosaur #3",
     "ingredient": [
       "1/2 oz Vodka",
       "1/2 oz Gin",
@@ -36257,7 +36255,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Green Eyed Blonde\n",
+    "shotName": "Green Eyed Blonde",
     "ingredient": [
       "1/3 oz Melon liqueur",
       "1/3 oz Banana liqueur",
@@ -36265,7 +36263,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Green Jolly Rancher\n",
+    "shotName": "Green Jolly Rancher",
     "ingredient": [
       "1/2 oz Midori melon liqueur",
       "1/2 oz Southern Comfort",
@@ -36273,7 +36271,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Green Monster #2\n",
+    "shotName": "Green Monster #2",
     "ingredient": [
       "1 oz Bacardi 151 proof rum",
       "1/2 oz Lime juice",
@@ -36282,21 +36280,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Green Motherfucker\n",
+    "shotName": "Green Motherfucker",
     "ingredient": [
       "1/2 oz Bacardi 151 proof rum",
       "1/2 oz Green Creme de Menthe"
     ]
   },
   {
-    "shotName": "Green Spider\n",
+    "shotName": "Green Spider",
     "ingredient": [
       "1 shot Bacardi 151 proof rum",
       "1/2 shot Green Creme de Menthe"
     ]
   },
   {
-    "shotName": "Green Thing\n",
+    "shotName": "Green Thing",
     "ingredient": [
       "1/2 oz Coconut rum",
       "1/2 oz Midori melon liqueur",
@@ -36304,7 +36302,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "The Green Wave\n",
+    "shotName": "The Green Wave",
     "ingredient": [
       "1 oz Midori melon liqueur",
       "1 oz Vodka",
@@ -36313,7 +36311,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Grinch\n",
+    "shotName": "Grinch",
     "ingredient": [
       "1 oz Midori melon liqueur",
       "1 oz Banana liqueur",
@@ -36322,7 +36320,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Ground Zero\n",
+    "shotName": "Ground Zero",
     "ingredient": [
       "1/4 Bourbon",
       "1/4 Peppermint schnapps",
@@ -36331,7 +36329,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Guillotine\n",
+    "shotName": "Guillotine",
     "ingredient": [
       "1 3/4 oz Butterscotch schnapps",
       "Bailey's irish cream",
@@ -36339,7 +36337,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Gumball Hummer\n",
+    "shotName": "Gumball Hummer",
     "ingredient": [
       "1/2 oz Razzmatazz",
       "1/2 oz Banana liqueur",
@@ -36347,21 +36345,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Hakkespett\n",
+    "shotName": "Hakkespett",
     "ingredient": [
       "5 cl Cointreau",
       "5 cl Green Chartreuse"
     ]
   },
   {
-    "shotName": "Harakiri shot\n",
+    "shotName": "Harakiri shot",
     "ingredient": [
       "2 cl Ouzo",
       "2 cl Tabasco sauce"
     ]
   },
   {
-    "shotName": "Harbor Lights\n",
+    "shotName": "Harbor Lights",
     "ingredient": [
       "1/2 shot Butterscotch schnapps",
       "1/2 shot Bailey's irish cream",
@@ -36369,7 +36367,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Harley Davidson #1\n",
+    "shotName": "Harley Davidson #1",
     "ingredient": [
       "1/2 oz Bailey's irish cream",
       "1/2 oz Midori melon liqueur",
@@ -36377,21 +36375,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Harley Davidson (the company way)\n",
+    "shotName": "Harley Davidson (the company way)",
     "ingredient": [
       "1/2 shot Yukon Jack",
       "1/2 shot Jack Daniels"
     ]
   },
   {
-    "shotName": "Harsh\n",
+    "shotName": "Harsh",
     "ingredient": [
       "1/2 oz Tequila",
       "1/2 oz Jägermeister"
     ]
   },
   {
-    "shotName": "Hawaiian Sugar Plantation\n",
+    "shotName": "Hawaiian Sugar Plantation",
     "ingredient": [
       "1/3 shot Butterscotch schnapps",
       "1/3 shot Amaretto",
@@ -36399,7 +36397,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Headcrush\n",
+    "shotName": "Headcrush",
     "ingredient": [
       "2 cl Tequila",
       "2 cl Tabasco sauce",
@@ -36408,7 +36406,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Heilig\n",
+    "shotName": "Heilig",
     "ingredient": [
       "1/2 shot Blueberry schnapps",
       "1/2 shot Vodka",
@@ -36416,7 +36414,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Hiroshima Bomber\n",
+    "shotName": "Hiroshima Bomber",
     "ingredient": [
       "3/4 oz Triple sec",
       "1/4 oz Bailey's irish cream",
@@ -36424,7 +36422,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Hologram\n",
+    "shotName": "Hologram",
     "ingredient": [
       "1 part Blue Curacao",
       "1 part Banana liqueur",
@@ -36432,7 +36430,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Honey-Dew-Me\n",
+    "shotName": "Honey-Dew-Me",
     "ingredient": [
       "2 parts Barenjager",
       "1 part Melon liqueur",
@@ -36440,21 +36438,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Horny Bull #1\n",
+    "shotName": "Horny Bull #1",
     "ingredient": [
       "1/2 shot Tequila",
       "1/2 shot Rum"
     ]
   },
   {
-    "shotName": "Horny Bull #2\n",
+    "shotName": "Horny Bull #2",
     "ingredient": [
       "1/2 shot Tequila",
       "1/2 shot Southern Comfort"
     ]
   },
   {
-    "shotName": "Horny Bull #3\n",
+    "shotName": "Horny Bull #3",
     "ingredient": [
       "1/3 shot Tequila",
       "1/3 shot White rum",
@@ -36462,14 +36460,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Horny Girlscout\n",
+    "shotName": "Horny Girlscout",
     "ingredient": [
       "1 part Coffee liqueur (Kahlua)",
       "1 part Peppermint schnapps"
     ]
   },
   {
-    "shotName": "Horny Mohican\n",
+    "shotName": "Horny Mohican",
     "ingredient": [
       "20 ml Banana liqueur",
       "20 ml Bailey's irish cream",
@@ -36477,14 +36475,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Hot Afternoon\n",
+    "shotName": "Hot Afternoon",
     "ingredient": [
       "1/2 oz Peach schnapps",
       "1/2 oz Kahlua"
     ]
   },
   {
-    "shotName": "Key Lime Pie\n",
+    "shotName": "Key Lime Pie",
     "ingredient": [
       "3/4 oz Licor 43",
       "1 splash Vodka",
@@ -36493,7 +36491,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Kick me in the Jimmy\n",
+    "shotName": "Kick me in the Jimmy",
     "ingredient": [
       "1/2 oz Jägermeister",
       "1/2 oz Jack Daniels",
@@ -36502,21 +36500,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Killer Bee\n",
+    "shotName": "Killer Bee",
     "ingredient": [
       "1/2 oz Jägermeister",
       "1/2 oz Barenjager"
     ]
   },
   {
-    "shotName": "Killer Sniff\n",
+    "shotName": "Killer Sniff",
     "ingredient": [
       "4 cl Sambuca",
       "2 cl Blue Curacao"
     ]
   },
   {
-    "shotName": "Kilted Black Leprechaun\n",
+    "shotName": "Kilted Black Leprechaun",
     "ingredient": [
       "1 part Bailey's irish cream",
       "1 part Malibu rum",
@@ -36524,7 +36522,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Klingon Disrupter\n",
+    "shotName": "Klingon Disrupter",
     "ingredient": [
       "1/3 oz Jim Beam",
       "1/3 oz Mezcal",
@@ -36532,28 +36530,28 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Klondyke\n",
+    "shotName": "Klondyke",
     "ingredient": [
       "1/2 shot Bailey's irish cream",
       "1/2 shot Jägermeister"
     ]
   },
   {
-    "shotName": "Kokopa\n",
+    "shotName": "Kokopa",
     "ingredient": [
       "15 ml Kahlua",
       "15 ml Peppermint schnapps"
     ]
   },
   {
-    "shotName": "Kool First Aid\n",
+    "shotName": "Kool First Aid",
     "ingredient": [
       "2 oz light 151 proof rum",
       "1/2 tsp Tropical Kool-Aid mix"
     ]
   },
   {
-    "shotName": "Kool-Aid (Boulder style)\n",
+    "shotName": "Kool-Aid (Boulder style)",
     "ingredient": [
       "1/2 shot Amaretto",
       "1/2 shot Southern Comfort",
@@ -36562,14 +36560,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Kool-Aid Slammer\n",
+    "shotName": "Kool-Aid Slammer",
     "ingredient": [
       "1/2 oz Grape Kool-Aid",
       "1/2 oz Vodka or rum"
     ]
   },
   {
-    "shotName": "Kris Kringle\n",
+    "shotName": "Kris Kringle",
     "ingredient": [
       "1/2 oz Creme de Almond",
       "1/2 oz Root beer schnapps",
@@ -36577,7 +36575,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Kryptonite\n",
+    "shotName": "Kryptonite",
     "ingredient": [
       "1 shot Midori melon liqueur",
       "1/2 shot Rumple Minze",
@@ -36586,7 +36584,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "L.A. Riot\n",
+    "shotName": "L.A. Riot",
     "ingredient": [
       "1 part Kahlua",
       "1 part Bailey's irish cream",
@@ -36595,7 +36593,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "L.A.P.D. Nightshift\n",
+    "shotName": "L.A.P.D. Nightshift",
     "ingredient": [
       "1 part Grenadine",
       "1 part Blue Curacao",
@@ -36603,7 +36601,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "The Lady in Red\n",
+    "shotName": "The Lady in Red",
     "ingredient": [
       "1/2 oz Peppermint schnapps",
       "1/2 oz Peach schnapps",
@@ -36612,7 +36610,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Lava\n",
+    "shotName": "Lava",
     "ingredient": [
       "3 oz Firewater",
       "3 oz Everclear",
@@ -36620,7 +36618,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Lay Down and Shut Up!\n",
+    "shotName": "Lay Down and Shut Up!",
     "ingredient": [
       "1/2 oz Jägermeister",
       "1/2 oz Hot Damn",
@@ -36629,14 +36627,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Leatherneck\n",
+    "shotName": "Leatherneck",
     "ingredient": [
       "Tabasco sauce",
       "151 proof rum"
     ]
   },
   {
-    "shotName": "Lemon Drop #1\n",
+    "shotName": "Lemon Drop #1",
     "ingredient": [
       "1 shot Absolut Citron",
       "1 slice Lemon",
@@ -36644,7 +36642,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Lemon Drop #2\n",
+    "shotName": "Lemon Drop #2",
     "ingredient": [
       "1/2 shot Absolut Citron",
       "1/2 shot Sweet and sour",
@@ -36653,7 +36651,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Lemon Drop #3\n",
+    "shotName": "Lemon Drop #3",
     "ingredient": [
       "1.5 oz Spiced rum (Captain Morgan's)",
       "1 tblsp granulated Sugar",
@@ -36661,14 +36659,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Lemon Lightning\n",
+    "shotName": "Lemon Lightning",
     "ingredient": [
       "1 part Everclear",
       "1 part Lemon juice"
     ]
   },
   {
-    "shotName": "Lemon Shooters\n",
+    "shotName": "Lemon Shooters",
     "ingredient": [
       "1 shot Vodka",
       "Sugar",
@@ -36676,21 +36674,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Leprechaun's Gold\n",
+    "shotName": "Leprechaun's Gold",
     "ingredient": [
       "1/2 shot Goldschlager",
       "1/2 shot Irish cream"
     ]
   },
   {
-    "shotName": "Lewd Lewinsky\n",
+    "shotName": "Lewd Lewinsky",
     "ingredient": [
       "1/2 oz Jägermeister",
       "1/2 oz Cream"
     ]
   },
   {
-    "shotName": "Lewinsky\n",
+    "shotName": "Lewinsky",
     "ingredient": [
       "1 part Bailey's irish cream",
       "1 part Southern Comfort",
@@ -36698,7 +36696,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Liberace\n",
+    "shotName": "Liberace",
     "ingredient": [
       "1/3 shot Kahlua",
       "1/3 shot Milk",
@@ -36706,7 +36704,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Lick-Her-Itch\n",
+    "shotName": "Lick-Her-Itch",
     "ingredient": [
       "1/2 oz Sambuca",
       "1 oz Vodka",
@@ -36715,7 +36713,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Light Green Panties\n",
+    "shotName": "Light Green Panties",
     "ingredient": [
       "3/4 oz Green Creme de Menthe",
       "3/4 oz Vodka",
@@ -36724,7 +36722,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Lighthouse\n",
+    "shotName": "Lighthouse",
     "ingredient": [
       "1/3 oz Kahlua",
       "1/3 oz Bailey's irish cream",
@@ -36732,7 +36730,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Lil' Johnson\n",
+    "shotName": "Lil' Johnson",
     "ingredient": [
       "1/2 Vodka",
       "1/4 Jack Daniels",
@@ -36740,7 +36738,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Lime Lizard\n",
+    "shotName": "Lime Lizard",
     "ingredient": [
       "3/4 oz Vodka",
       "1/2 oz Rum",
@@ -36749,14 +36747,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Liquid Asphault\n",
+    "shotName": "Liquid Asphault",
     "ingredient": [
       "3/4 oz Sambuca, Chilled",
       "3/4 oz Jägermeister, Chilled"
     ]
   },
   {
-    "shotName": "Liquid Cocaine #2\n",
+    "shotName": "Liquid Cocaine #2",
     "ingredient": [
       "1/3 Rumple Minze",
       "1/3 Jägermeister",
@@ -36764,7 +36762,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Liquid Cocaine #3\n",
+    "shotName": "Liquid Cocaine #3",
     "ingredient": [
       "3 parts Jägermeister",
       "2 parts Bacardi 151 proof rum",
@@ -36772,7 +36770,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Liquid Crack\n",
+    "shotName": "Liquid Crack",
     "ingredient": [
       "1 part Peppermint schnapps (Rumple Minze)",
       "1 part Jägermeister",
@@ -36780,14 +36778,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Liquid Heroine\n",
+    "shotName": "Liquid Heroine",
     "ingredient": [
       "1.5 oz Rumple Minze",
       "1.5 oz Jägermeister"
     ]
   },
   {
-    "shotName": "Liquid Sex\n",
+    "shotName": "Liquid Sex",
     "ingredient": [
       "3/4 oz Vodka",
       "1 Marshmallows",
@@ -36795,35 +36793,35 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Listerine\n",
+    "shotName": "Listerine",
     "ingredient": [
       "1 part White Creme de Menthe",
       "1 part Coconut rum"
     ]
   },
   {
-    "shotName": "Little Beer\n",
+    "shotName": "Little Beer",
     "ingredient": [
       "1 oz Licor 43",
       "Cream"
     ]
   },
   {
-    "shotName": "Little Black Devil\n",
+    "shotName": "Little Black Devil",
     "ingredient": [
       "1 1/2 oz White Creme de Menthe",
       "1 1/2 oz Dark rum"
     ]
   },
   {
-    "shotName": "Lloyd Special\n",
+    "shotName": "Lloyd Special",
     "ingredient": [
       "2/3 oz Jack Daniels",
       "1/3 oz Grand Marnier"
     ]
   },
   {
-    "shotName": "Loch Ness Monster\n",
+    "shotName": "Loch Ness Monster",
     "ingredient": [
       "1/3 oz Midori melon liqueur",
       "1/3 oz Bailey's irish cream",
@@ -36831,14 +36829,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Loud-Mouth\n",
+    "shotName": "Loud-Mouth",
     "ingredient": [
       "2 parts Southern Comfort 100 Prf.",
       "1 part Peach schnapps"
     ]
   },
   {
-    "shotName": "Love Potion\n",
+    "shotName": "Love Potion",
     "ingredient": [
       "1 oz Orange vodka (Stoli)",
       "1/2 oz Chambord raspberry liqueur",
@@ -36846,21 +36844,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Lube Job\n",
+    "shotName": "Lube Job",
     "ingredient": [
       "3/4 oz Vodka (Absolut)",
       "3/4 oz Irish cream (Bailey's)"
     ]
   },
   {
-    "shotName": "The Lucky Stud\n",
+    "shotName": "The Lucky Stud",
     "ingredient": [
       "1/2 oz Metaxa",
       "1/2 oz Galliano"
     ]
   },
   {
-    "shotName": "Luftwaffe\n",
+    "shotName": "Luftwaffe",
     "ingredient": [
       "Chocolate syrup",
       "Jägermeister",
@@ -36868,7 +36866,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Lumberjack\n",
+    "shotName": "Lumberjack",
     "ingredient": [
       "1/3 Ouzo",
       "1/3 Sambuca",
@@ -36877,7 +36875,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Lunch Box #2\n",
+    "shotName": "Lunch Box #2",
     "ingredient": [
       "2 1/2 oz Beer",
       "2 1/2 oz Orange juice",
@@ -36885,7 +36883,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Lusty Lisa\n",
+    "shotName": "Lusty Lisa",
     "ingredient": [
       "1 part Vodka",
       "2 parts Peach schnapps",
@@ -36893,7 +36891,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Luteåtdæ\n",
+    "shotName": "Luteåtdæ",
     "ingredient": [
       "1 cl Rum",
       "2 tsp Tabasco sauce",
@@ -36901,21 +36899,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "M&M\n",
+    "shotName": "M&M",
     "ingredient": [
       "1/2 oz Frangelico",
       "1/2 oz Creme de Cacao"
     ]
   },
   {
-    "shotName": "Machine\n",
+    "shotName": "Machine",
     "ingredient": [
       "1 oz Orange juice",
       "1/2 oz Vodka"
     ]
   },
   {
-    "shotName": "Mad Cow\n",
+    "shotName": "Mad Cow",
     "ingredient": [
       "1 part Kahlua",
       "1 part Cream",
@@ -36923,7 +36921,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Mad Hatter\n",
+    "shotName": "Mad Hatter",
     "ingredient": [
       "1 oz Vodka (Skyy)",
       "1 oz Peach schnapps",
@@ -36932,7 +36930,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Mad Scientist\n",
+    "shotName": "Mad Scientist",
     "ingredient": [
       "Less than 1/2 shot Blueberry schnapps",
       "Less than 1/2 shot Raspberry schnapps (or wildberry schnapps)",
@@ -36941,7 +36939,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Mage's Fire\n",
+    "shotName": "Mage's Fire",
     "ingredient": [
       "2 parts Vodka",
       "1 part Cinnamon schnapps",
@@ -36949,7 +36947,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Malibu Jello\n",
+    "shotName": "Malibu Jello",
     "ingredient": [
       "1 package Peach Passion Fruit Jello",
       "1 cup Water",
@@ -36957,14 +36955,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Manchurian Candidate\n",
+    "shotName": "Manchurian Candidate",
     "ingredient": [
       "1 shot Vodka",
       "1 dash Soy sauce"
     ]
   },
   {
-    "shotName": "McTavish\n",
+    "shotName": "McTavish",
     "ingredient": [
       "1/2 oz Scotch",
       "1/4 oz Irish cream",
@@ -36972,7 +36970,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Melon Jones\n",
+    "shotName": "Melon Jones",
     "ingredient": [
       "1/4 oz Melon liqueur",
       "1/4 oz Everclear",
@@ -36980,28 +36978,28 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Melonoma\n",
+    "shotName": "Melonoma",
     "ingredient": [
       "1 oz Vodka",
       "1/2 oz Melon liqueur"
     ]
   },
   {
-    "shotName": "Mexican Cherry\n",
+    "shotName": "Mexican Cherry",
     "ingredient": [
       "1/2 oz Tequila",
       "1/2 oz Cherry liqueur"
     ]
   },
   {
-    "shotName": "Mexican Clit\n",
+    "shotName": "Mexican Clit",
     "ingredient": [
       "1/2 shot Tequila",
       "1/2 shot Lemon juice"
     ]
   },
   {
-    "shotName": "Mexican Flag\n",
+    "shotName": "Mexican Flag",
     "ingredient": [
       "1 oz Grenadine",
       "1 oz Green Creme de Menthe",
@@ -37009,7 +37007,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Mexican H'ors d'oeuvre\n",
+    "shotName": "Mexican H'ors d'oeuvre",
     "ingredient": [
       "1 shot Tequila",
       "1 slice Jalapeno",
@@ -37017,7 +37015,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Mexican Killer\n",
+    "shotName": "Mexican Killer",
     "ingredient": [
       "1/2 oz Gold tequila",
       "1/2 oz Peachtree schnapps",
@@ -37025,14 +37023,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Mexican Mouthwash\n",
+    "shotName": "Mexican Mouthwash",
     "ingredient": [
       "3/4 oz Gold tequila (Jose Cuervo)",
       "3/4 oz Rumple Minze"
     ]
   },
   {
-    "shotName": "Mexican Rose\n",
+    "shotName": "Mexican Rose",
     "ingredient": [
       "2/3 oz Tequila",
       "1/3 oz Strawberry schnapps",
@@ -37041,7 +37039,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Mexican stand-off\n",
+    "shotName": "Mexican stand-off",
     "ingredient": [
       "1 cl Vodka (Finlandia)",
       "2 cl white Tequila (Jose Cuervo)",
@@ -37049,7 +37047,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Mexican three wise men\n",
+    "shotName": "Mexican three wise men",
     "ingredient": [
       "2/3 oz Jack Daniels",
       "2/3 oz Jim Beam",
@@ -37057,14 +37055,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Midnight Oil\n",
+    "shotName": "Midnight Oil",
     "ingredient": [
       "1 1/2 oz Amaretto",
       "1/2 oz Jägermeister"
     ]
   },
   {
-    "shotName": "Midori Jello Shots\n",
+    "shotName": "Midori Jello Shots",
     "ingredient": [
       "2 large boxes lime Jello",
       "1 packet unflavored Gelatin (Knox)",
@@ -37073,7 +37071,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Milky Nooky\n",
+    "shotName": "Milky Nooky",
     "ingredient": [
       "1 part Peppermint schnapps (Rumple Minze)",
       "1 part Irish cream (Bailey's)",
@@ -37081,7 +37079,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "The Milky Way\n",
+    "shotName": "The Milky Way",
     "ingredient": [
       "1 1/2 oz Bailey's irish cream",
       "1 oz Root beer schnapps",
@@ -37089,7 +37087,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Milwaukee Stop Light\n",
+    "shotName": "Milwaukee Stop Light",
     "ingredient": [
       "1 shot Aftershock",
       "1 shot Jägermeister",
@@ -37097,7 +37095,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Mind Eraser #2\n",
+    "shotName": "Mind Eraser #2",
     "ingredient": [
       "3-4 cubes Ice",
       "1/2 shot Kahlua",
@@ -37106,7 +37104,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Mind Eraser #3\n",
+    "shotName": "Mind Eraser #3",
     "ingredient": [
       "2 oz Kahlua",
       "2 oz Vodka",
@@ -37115,7 +37113,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Mind Eraser\n",
+    "shotName": "Mind Eraser",
     "ingredient": [
       "2 oz Vodka",
       "2 oz Kahlua",
@@ -37123,7 +37121,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Mind Game\n",
+    "shotName": "Mind Game",
     "ingredient": [
       "1/4 oz Ricard",
       "1/4 oz Blue Curacao",
@@ -37131,7 +37129,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Mint Chocolate\n",
+    "shotName": "Mint Chocolate",
     "ingredient": [
       "1/2 oz Green Creme de Menthe",
       "1/4 oz Kahlua",
@@ -37139,14 +37137,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "The Moby\n",
+    "shotName": "The Moby",
     "ingredient": [
       "4 oz Vodka",
       "8 oz Surge"
     ]
   },
   {
-    "shotName": "Modified Duck Fart\n",
+    "shotName": "Modified Duck Fart",
     "ingredient": [
       "3/4 oz Crown Royal",
       "3/4 oz Bailey's irish cream",
@@ -37154,21 +37152,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Molotov Cocktail\n",
+    "shotName": "Molotov Cocktail",
     "ingredient": [
       "1 1/2 oz Vodka",
       "Float 1 splash 151 proof rum"
     ]
   },
   {
-    "shotName": "Monkey Brain #1\n",
+    "shotName": "Monkey Brain #1",
     "ingredient": [
       "2 cl Apfelkorn (apple liquor)",
       "Bailey's irish cream"
     ]
   },
   {
-    "shotName": "Monkey Brain #2\n",
+    "shotName": "Monkey Brain #2",
     "ingredient": [
       "4 cl Apfelkorn",
       "2 cl Bailey's irish cream",
@@ -37176,21 +37174,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Monkey C*m\n",
+    "shotName": "Monkey C*m",
     "ingredient": [
       "3/4 shot Bailey's irish cream",
       "1/4 shot Butterscotch schnapps"
     ]
   },
   {
-    "shotName": "Monkey Spam\n",
+    "shotName": "Monkey Spam",
     "ingredient": [
       "4 cl Bailey's irish cream",
       "15 cl Fanta"
     ]
   },
   {
-    "shotName": "Moon Pie\n",
+    "shotName": "Moon Pie",
     "ingredient": [
       "3/4 oz Coffee liqueur (Kahlua)",
       "3/4 oz Irish cream (Bailey's)",
@@ -37198,7 +37196,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Moose Fart\n",
+    "shotName": "Moose Fart",
     "ingredient": [
       "1 part Vodka (Absolut)",
       "1 part Crown Royal",
@@ -37207,7 +37205,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Moranguito\n",
+    "shotName": "Moranguito",
     "ingredient": [
       "2/5 Absinthe",
       "2/5 Tequila",
@@ -37215,7 +37213,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Mother's Milk\n",
+    "shotName": "Mother's Milk",
     "ingredient": [
       "1 oz Goldschlager",
       "1 oz Butterscotch schnapps",
@@ -37223,7 +37221,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Motor Oil\n",
+    "shotName": "Motor Oil",
     "ingredient": [
       "1 oz Jägermeister",
       "1/2 oz Peppermint schnapps",
@@ -37232,7 +37230,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Mountain Dew #1\n",
+    "shotName": "Mountain Dew #1",
     "ingredient": [
       "1/2 glass Beer (draught)",
       "1/2 glass 7-Up",
@@ -37240,14 +37238,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Mr. Freeze\n",
+    "shotName": "Mr. Freeze",
     "ingredient": [
       "1 bottle Vodka",
       "Mix with 1 - 2 bag Fishermans Friend Candy (Classic)"
     ]
   },
   {
-    "shotName": "Mudslide #2\n",
+    "shotName": "Mudslide #2",
     "ingredient": [
       "1/3 Vodka",
       "1/3 Kahlua",
@@ -37255,7 +37253,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Muff Diver\n",
+    "shotName": "Muff Diver",
     "ingredient": [
       "1 part Kahlua",
       "1 part Amaretto",
@@ -37264,7 +37262,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Mussolini\n",
+    "shotName": "Mussolini",
     "ingredient": [
       "1 part Goldschlager",
       "1 part Jägermeister",
@@ -37272,7 +37270,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Mutated Mothers Milk\n",
+    "shotName": "Mutated Mothers Milk",
     "ingredient": [
       "1 oz Jägermeister",
       "1 oz Irish cream",
@@ -37280,7 +37278,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "MVP's Strawberry Bomb\n",
+    "shotName": "MVP's Strawberry Bomb",
     "ingredient": [
       "1 shot Tequila Rose, chilled",
       "1 shot Vodka (Absolut)",
@@ -37288,21 +37286,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Naked Girl Scout\n",
+    "shotName": "Naked Girl Scout",
     "ingredient": [
       "1 part Godiva liqueur",
       "1 part Rumple Minze"
     ]
   },
   {
-    "shotName": "Naked Navel\n",
+    "shotName": "Naked Navel",
     "ingredient": [
       "1 oz Absolut Vodka",
       "1/2 oz Peach schnapps"
     ]
   },
   {
-    "shotName": "Naked Yellow Bird\n",
+    "shotName": "Naked Yellow Bird",
     "ingredient": [
       "Vodka",
       "Raspberry liqueur",
@@ -37311,7 +37309,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Napalm-Death\n",
+    "shotName": "Napalm-Death",
     "ingredient": [
       "1 part Cointreau",
       "1 part Kahlua",
@@ -37320,7 +37318,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Napalm\n",
+    "shotName": "Napalm",
     "ingredient": [
       "1/2 oz Aftershock",
       "1/2 oz Cinnamon schnapps (Fire and Ice)",
@@ -37328,21 +37326,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Nasty Bitch\n",
+    "shotName": "Nasty Bitch",
     "ingredient": [
       "1 1/2 oz Tequila",
       "1/2 oz Cointreau"
     ]
   },
   {
-    "shotName": "Nazi Helmet\n",
+    "shotName": "Nazi Helmet",
     "ingredient": [
       "1/2 shot Jägermeister",
       "1/2 shot Rumple Minze"
     ]
   },
   {
-    "shotName": "Nazi Taco\n",
+    "shotName": "Nazi Taco",
     "ingredient": [
       "1 part Jägermeister",
       "1 part Tequila",
@@ -37350,21 +37348,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Neon Ghost\n",
+    "shotName": "Neon Ghost",
     "ingredient": [
       "3 cl Vodka shot, Hot n'sweet (white)",
       "3 cl Pisang Ambon"
     ]
   },
   {
-    "shotName": "Nestle\n",
+    "shotName": "Nestle",
     "ingredient": [
       "3 cl Absolut Peppar",
       "3 cl Midori melon liqueur"
     ]
   },
   {
-    "shotName": "Neutron Bomb\n",
+    "shotName": "Neutron Bomb",
     "ingredient": [
       "1/3 oz Butterscotch schnapps",
       "1/3 oz Bailey's irish cream",
@@ -37372,7 +37370,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Nickler\n",
+    "shotName": "Nickler",
     "ingredient": [
       "1 shot cheap Brandy",
       "1 slice Lemon",
@@ -37381,7 +37379,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Nipple on Fire\n",
+    "shotName": "Nipple on Fire",
     "ingredient": [
       "1/3 oz Firewater",
       "1/3 oz Butterscotch schnapps",
@@ -37389,7 +37387,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Nitro\n",
+    "shotName": "Nitro",
     "ingredient": [
       "1/3 Sambuca",
       "1/3 Goldschlager",
@@ -37397,14 +37395,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "No Regrets\n",
+    "shotName": "No Regrets",
     "ingredient": [
       "1/2 oz Gold tequila",
       "1/2 oz Bailey's irish cream"
     ]
   },
   {
-    "shotName": "Northern Europe Mongrel\n",
+    "shotName": "Northern Europe Mongrel",
     "ingredient": [
       "1/4 shot Vodka",
       "1/2 shot Bailey's irish cream",
@@ -37412,7 +37410,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Nut and Honey\n",
+    "shotName": "Nut and Honey",
     "ingredient": [
       "3/4 oz Barenjager",
       "3/4 oz Frangelico",
@@ -37420,7 +37418,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Nuthugger\n",
+    "shotName": "Nuthugger",
     "ingredient": [
       "1 oz Bacardi 151 proof rum",
       "1 oz Vodka",
@@ -37429,7 +37427,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Nuts & Berries\n",
+    "shotName": "Nuts & Berries",
     "ingredient": [
       "1 part Vodka",
       "1 part Amaretto",
@@ -37437,7 +37435,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Nuts 'n Holly\n",
+    "shotName": "Nuts 'n Holly",
     "ingredient": [
       "1 part Drambuie",
       "1 part Bailey's irish cream",
@@ -37446,7 +37444,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Nutz 'n Berries\n",
+    "shotName": "Nutz 'n Berries",
     "ingredient": [
       "2 parts Lemon vodka",
       "1 part Frangelico",
@@ -37454,7 +37452,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "NyQuil\n",
+    "shotName": "NyQuil",
     "ingredient": [
       "3/4 oz Vodka (Absolut)",
       "1/4 oz Jägermeister",
@@ -37462,7 +37460,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Oatmeal Cookie with Raisins\n",
+    "shotName": "Oatmeal Cookie with Raisins",
     "ingredient": [
       "1/2 oz Bailey's irish cream",
       "1/2 oz Butterscotch schnapps (Buttershots)",
@@ -37471,7 +37469,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Oatmeal Cookie\n",
+    "shotName": "Oatmeal Cookie",
     "ingredient": [
       "1 jigger Goldschlager (or Hotdam)",
       "1 jigger Butterscotch schnapps",
@@ -37479,35 +37477,35 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Oil Slick #2\n",
+    "shotName": "Oil Slick #2",
     "ingredient": [
       "15 ml Black Sambuca",
       "15 ml White Creme de Menthe"
     ]
   },
   {
-    "shotName": "Oil Slick\n",
+    "shotName": "Oil Slick",
     "ingredient": [
       "1/2 shot Jägermeister",
       "1/2 shot Rumple Minze"
     ]
   },
   {
-    "shotName": "Oil Spill\n",
+    "shotName": "Oil Spill",
     "ingredient": [
       "3/4 shot Goldschlager",
       "1/4 shot Jägermeister"
     ]
   },
   {
-    "shotName": "Old Crusty\n",
+    "shotName": "Old Crusty",
     "ingredient": [
       "1 oz Bacardi 151 proof rum",
       "1 oz Wild Turkey Whiskey"
     ]
   },
   {
-    "shotName": "Orange Crush\n",
+    "shotName": "Orange Crush",
     "ingredient": [
       "1 oz Vodka",
       "1 oz Triple sec",
@@ -37515,7 +37513,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Orange Drop\n",
+    "shotName": "Orange Drop",
     "ingredient": [
       "1 1/2 oz Absolut Mandrin",
       "3/4 oz Sugar syrup",
@@ -37524,7 +37522,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Oreo Cookie\n",
+    "shotName": "Oreo Cookie",
     "ingredient": [
       "1 oz Kahlua",
       "1 oz Creme de Cacao",
@@ -37533,21 +37531,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Orgasm #2\n",
+    "shotName": "Orgasm #2",
     "ingredient": [
       "0.5 oz Peppermint schnapps",
       "0.5 oz Bailey's irish cream"
     ]
   },
   {
-    "shotName": "Original Terminator\n",
+    "shotName": "Original Terminator",
     "ingredient": [
       "1 1/2 oz Rumple Minze",
       "1 1/2 oz Black Sambuca (Romana)"
     ]
   },
   {
-    "shotName": "The Other Half\n",
+    "shotName": "The Other Half",
     "ingredient": [
       "3/4 oz Triple sec",
       "3/4 oz Amaretto",
@@ -37555,7 +37553,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Otter Pop\n",
+    "shotName": "Otter Pop",
     "ingredient": [
       "1/2 oz White rum (Bacardi)",
       "1/2 oz Blue Curacao",
@@ -37564,7 +37562,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "P.D.C.\n",
+    "shotName": "P.D.C.",
     "ingredient": [
       "5 ml Green Creme de Menthe",
       "10 ml Black Sambuca",
@@ -37573,7 +37571,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "P.M.F.\n",
+    "shotName": "P.M.F.",
     "ingredient": [
       "2 oz Bacardi 151 proof rum",
       "2 oz Banana liqueur",
@@ -37581,7 +37579,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Pamoyo\n",
+    "shotName": "Pamoyo",
     "ingredient": [
       "1 part Gin",
       "1 part Sprite",
@@ -37589,7 +37587,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Passed Out Naked on the Bathroom Floor\n",
+    "shotName": "Passed Out Naked on the Bathroom Floor",
     "ingredient": [
       "1/4 oz Rumple Minze",
       "1/4 oz Jägermeister",
@@ -37598,7 +37596,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Patagonian Black Bush\n",
+    "shotName": "Patagonian Black Bush",
     "ingredient": [
       "1 oz Genever",
       "1 tsp Fernet Branca",
@@ -37606,7 +37604,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Patmcpacke\n",
+    "shotName": "Patmcpacke",
     "ingredient": [
       "2 oz Southern Comfort",
       "2 oz Vodka",
@@ -37614,7 +37612,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Patriotic Blow\n",
+    "shotName": "Patriotic Blow",
     "ingredient": [
       "1 part Sloe gin",
       "1 part Blue Curacao",
@@ -37622,7 +37620,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Patti's Blow Job\n",
+    "shotName": "Patti's Blow Job",
     "ingredient": [
       "1/2 oz Kahlua",
       "1/2 oz Bailey's irish cream",
@@ -37630,7 +37628,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Paul Raspberry\n",
+    "shotName": "Paul Raspberry",
     "ingredient": [
       "Vodka",
       "Milk",
@@ -37638,14 +37636,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "PB&J #2\n",
+    "shotName": "PB&J #2",
     "ingredient": [
       "1/2 oz Frangelico",
       "1/2 oz Grenadine"
     ]
   },
   {
-    "shotName": "PB&J\n",
+    "shotName": "PB&J",
     "ingredient": [
       "1/2 oz Vodka",
       "1/2 oz Chambord raspberry liqueur",
@@ -37653,7 +37651,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Peach Kazi\n",
+    "shotName": "Peach Kazi",
     "ingredient": [
       "1 part Vodka (Smirnoff)",
       "1 part Triple sec",
@@ -37662,7 +37660,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Peach Smoothie\n",
+    "shotName": "Peach Smoothie",
     "ingredient": [
       "1 part Yukon Jack",
       "1 part Jack Daniels",
@@ -37670,14 +37668,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Peach Tart\n",
+    "shotName": "Peach Tart",
     "ingredient": [
       "1 oz Peach schnapps",
       "1 oz Lime juice"
     ]
   },
   {
-    "shotName": "Pearl Necklace #2\n",
+    "shotName": "Pearl Necklace #2",
     "ingredient": [
       "1/2 oz Butterscotch schnapps",
       "1/2 oz Kahlua",
@@ -37685,14 +37683,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Pearl Necklace\n",
+    "shotName": "Pearl Necklace",
     "ingredient": [
       "1/2 oz Tequila Rose",
       "1/2 oz Bailey's irish cream"
     ]
   },
   {
-    "shotName": "Pecker Head\n",
+    "shotName": "Pecker Head",
     "ingredient": [
       "1/3 Southern Comfort",
       "1/3 Amaretto",
@@ -37700,14 +37698,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Peltikatto\n",
+    "shotName": "Peltikatto",
     "ingredient": [
       "2 cl Koskenkorva Vodka",
       "2 cl Lemon juice"
     ]
   },
   {
-    "shotName": "Penalty Shot\n",
+    "shotName": "Penalty Shot",
     "ingredient": [
       "1/3 oz Melon liqueur",
       "1/3 oz Blue Curacao",
@@ -37715,7 +37713,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Penthouse\n",
+    "shotName": "Penthouse",
     "ingredient": [
       "2 1/2 cl Tequila",
       "2 1/2 cl Bacardi Limon",
@@ -37723,21 +37721,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Peppermint Patty (Northern Style)\n",
+    "shotName": "Peppermint Patty (Northern Style)",
     "ingredient": [
       "1/2 oz Bailey's irish cream",
       "1/2 oz Peppermint schnapps (Dr. McGuillicudys)"
     ]
   },
   {
-    "shotName": "Peppermint Patty\n",
+    "shotName": "Peppermint Patty",
     "ingredient": [
       "1 shot Peppermint schnapps",
       "1 squirt Chocolate syrup"
     ]
   },
   {
-    "shotName": "The Pernod Demon\n",
+    "shotName": "The Pernod Demon",
     "ingredient": [
       "1 1/2 oz Pernod",
       "1 Lemon Wedge",
@@ -37746,7 +37744,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "PEZ\n",
+    "shotName": "PEZ",
     "ingredient": [
       "1 part Spiced rum (Captain Morgan's)",
       "1 part Chambord raspberry liqueur",
@@ -37754,35 +37752,35 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Photon Torpedo\n",
+    "shotName": "Photon Torpedo",
     "ingredient": [
       "1/2 oz Aftershock",
       "1/2 oz Vodka (Absolut)"
     ]
   },
   {
-    "shotName": "Pick Me Up Jose\n",
+    "shotName": "Pick Me Up Jose",
     "ingredient": [
       "1/2 oz Bacardi 151 proof rum",
       "1/2 oz Jose Cuervo"
     ]
   },
   {
-    "shotName": "Pierced Nipple\n",
+    "shotName": "Pierced Nipple",
     "ingredient": [
       "1 oz Sambuca",
       "1 oz Bailey's irish cream"
     ]
   },
   {
-    "shotName": "Pine-Sol Shooter\n",
+    "shotName": "Pine-Sol Shooter",
     "ingredient": [
       "3/4 oz Dark rum",
       "3/4 oz Frangelico"
     ]
   },
   {
-    "shotName": "Pineapple Bomb\n",
+    "shotName": "Pineapple Bomb",
     "ingredient": [
       "1 part Southern Comfort",
       "1 part Triple sec",
@@ -37790,7 +37788,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Pineberry\n",
+    "shotName": "Pineberry",
     "ingredient": [
       "1 shot Finlandia Cranberry vodka",
       "1 shot Finlandia Pineapple vodka",
@@ -37799,21 +37797,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Pink Gin #2\n",
+    "shotName": "Pink Gin #2",
     "ingredient": [
       "1 1/2 oz dry Gin",
       "1 splash Cranberry juice"
     ]
   },
   {
-    "shotName": "Pinky\n",
+    "shotName": "Pinky",
     "ingredient": [
       "3/4 shot Rumple Minze",
       "1/4 shot Firewater"
     ]
   },
   {
-    "shotName": "Pio's Beating Stick\n",
+    "shotName": "Pio's Beating Stick",
     "ingredient": [
       "1/4 oz Jack Daniels",
       "1 part Pineapple juice",
@@ -37821,7 +37819,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Pit Bull on Crack #2\n",
+    "shotName": "Pit Bull on Crack #2",
     "ingredient": [
       "1 oz Jägermeister",
       "1 oz Rumple Minze",
@@ -37829,7 +37827,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Pitbull on Crack #1\n",
+    "shotName": "Pitbull on Crack #1",
     "ingredient": [
       "1 part Gold tequila (Jose Cuervo)",
       "1 part Jägermeister",
@@ -37838,14 +37836,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Placenta\n",
+    "shotName": "Placenta",
     "ingredient": [
       "1 oz Wildberry schnapps",
       "1 splash Tequila Rose"
     ]
   },
   {
-    "shotName": "Plead the 5th\n",
+    "shotName": "Plead the 5th",
     "ingredient": [
       "1 part Gin (Tanqueray)",
       "1 part Sambuca",
@@ -37853,56 +37851,56 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Poison Apple\n",
+    "shotName": "Poison Apple",
     "ingredient": [
       "1 oz Apfelkorn (Berentzen's)",
       "1 oz Absolut Vodka"
     ]
   },
   {
-    "shotName": "Poison Ivy\n",
+    "shotName": "Poison Ivy",
     "ingredient": [
       "1/2 shot Aftershock",
       "1/2 shot Kahlua"
     ]
   },
   {
-    "shotName": "Poison Milk\n",
+    "shotName": "Poison Milk",
     "ingredient": [
       "1/2 shot Jägermeister",
       "1/2 shot Bailey's irish cream"
     ]
   },
   {
-    "shotName": "Polar Bear #3\n",
+    "shotName": "Polar Bear #3",
     "ingredient": [
       "1/2 oz Creme de Cacao",
       "1/2 oz Peppermint schnapps or creme de menthe"
     ]
   },
   {
-    "shotName": "Ponderosa\n",
+    "shotName": "Ponderosa",
     "ingredient": [
       "2 oz Everclear, 190 proof",
       "2 oz Orange soda"
     ]
   },
   {
-    "shotName": "Poop Shoot\n",
+    "shotName": "Poop Shoot",
     "ingredient": [
       "2/3 Sambuca",
       "1/3 Fruit punch (layered on top)"
     ]
   },
   {
-    "shotName": "Popper\n",
+    "shotName": "Popper",
     "ingredient": [
       "1/2 shot Tequila",
       "1/2 shot 7-Up or Sprite"
     ]
   },
   {
-    "shotName": "Pouce Coupe Puddle\n",
+    "shotName": "Pouce Coupe Puddle",
     "ingredient": [
       "1/2 oz Bailey's irish cream",
       "1/4 oz Peach schnapps",
@@ -37910,7 +37908,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Powdered Chocolate Donut\n",
+    "shotName": "Powdered Chocolate Donut",
     "ingredient": [
       "1/2 shot white Creme de Cacao",
       "1/2 shot Malibu rum",
@@ -37918,7 +37916,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Power Drill\n",
+    "shotName": "Power Drill",
     "ingredient": [
       "1 part Vodka",
       "1 part Orange juice",
@@ -37926,21 +37924,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Prairie Fire #1\n",
+    "shotName": "Prairie Fire #1",
     "ingredient": [
       "1 oz 151 proof rum",
       "Tabasco sauce"
     ]
   },
   {
-    "shotName": "Prairie Fire #2\n",
+    "shotName": "Prairie Fire #2",
     "ingredient": [
       "1 oz Gold tequila",
       "1 dash Tabasco sauce"
     ]
   },
   {
-    "shotName": "Prairie Fire #3\n",
+    "shotName": "Prairie Fire #3",
     "ingredient": [
       "1/2 shot Tequila",
       "Tabasco sauce",
@@ -37948,28 +37946,28 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Prarie Dog\n",
+    "shotName": "Prarie Dog",
     "ingredient": [
       "1 1/2 oz 151 proof rum",
       "2-3 dashes Tabasco sauce"
     ]
   },
   {
-    "shotName": "Prarie Fire\n",
+    "shotName": "Prarie Fire",
     "ingredient": [
       "1 oz Tequila",
       "2 tsp Tabasco sauce"
     ]
   },
   {
-    "shotName": "Prickly Pear\n",
+    "shotName": "Prickly Pear",
     "ingredient": [
       "1 oz chilled Cactus Juice liqueur",
       "1/2 oz Cuervo Tequila"
     ]
   },
   {
-    "shotName": "Protein Smoothie\n",
+    "shotName": "Protein Smoothie",
     "ingredient": [
       "1/3 oz Scotch",
       "1/3 oz Cream",
@@ -37977,14 +37975,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Præriebål (Norwegian version of Prairie Fire)\n",
+    "shotName": "Præriebål (Norwegian version of Prairie Fire)",
     "ingredient": [
       "4 cl Tequila",
       "4 cl Tabasco sauce"
     ]
   },
   {
-    "shotName": "Pucker Sucker\n",
+    "shotName": "Pucker Sucker",
     "ingredient": [
       "1/2 oz Sour Apple Pucker",
       "1/2 oz Coffee liqueur (Kamora)",
@@ -37992,7 +37990,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Puerto Rican Monkey Fuck\n",
+    "shotName": "Puerto Rican Monkey Fuck",
     "ingredient": [
       "1/2 oz Kahlua",
       "1/2 oz Creme de Banane",
@@ -38000,7 +37998,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Pumpkin pie (tavern style)\n",
+    "shotName": "Pumpkin pie (tavern style)",
     "ingredient": [
       "2 parts Kahlua",
       "1 part Bailey's irish cream",
@@ -38009,7 +38007,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Pumpkin Pie (Trafford Style)\n",
+    "shotName": "Pumpkin Pie (Trafford Style)",
     "ingredient": [
       "1 part Bailey's irish cream",
       "1 part Kahlua",
@@ -38018,7 +38016,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Purple Haze #3\n",
+    "shotName": "Purple Haze #3",
     "ingredient": [
       "1 oz Amaretto",
       "1 oz Root beer schnapps",
@@ -38027,7 +38025,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Purple Haze Shooter\n",
+    "shotName": "Purple Haze Shooter",
     "ingredient": [
       "1/2 oz Tennessee whiskey (Jack Daniel's)",
       "1/4 oz Blue Curacao",
@@ -38036,7 +38034,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Purple Haze\n",
+    "shotName": "Purple Haze",
     "ingredient": [
       "1 1/4 oz Vodka",
       "3/4 oz Chambord raspberry liqueur",
@@ -38044,7 +38042,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Purple Hooter #1\n",
+    "shotName": "Purple Hooter #1",
     "ingredient": [
       "1/2 oz Chambord raspberry liqueur",
       "1/3 oz 7-Up",
@@ -38052,7 +38050,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Purple Hooter #2\n",
+    "shotName": "Purple Hooter #2",
     "ingredient": [
       "1/3 oz Chambord raspberry liqueur",
       "1/3 oz Vodka",
@@ -38060,7 +38058,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Purple Hooter Shooter\n",
+    "shotName": "Purple Hooter Shooter",
     "ingredient": [
       "1 1/2 oz Vodka",
       "1/2 oz Rose's sweetened lime juice",
@@ -38068,7 +38066,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Purple Lei\n",
+    "shotName": "Purple Lei",
     "ingredient": [
       "1 oz Chambord raspberry liqueur",
       "1/2 oz Malibu rum",
@@ -38076,7 +38074,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Purple Lobster\n",
+    "shotName": "Purple Lobster",
     "ingredient": [
       "1 1/2 oz Canadian whisky (Crown Royal)",
       "1 1/2 oz Chambord raspberry liqueur",
@@ -38085,7 +38083,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Purple Mexican\n",
+    "shotName": "Purple Mexican",
     "ingredient": [
       "1 oz Vodka (Absolut)",
       "1 oz Tequila (Jose Cuervo)",
@@ -38093,7 +38091,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Purple Motherfucker #2\n",
+    "shotName": "Purple Motherfucker #2",
     "ingredient": [
       "1/2 oz Blue Curacao",
       "1/2 oz Southern Comfort",
@@ -38102,7 +38100,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Purple Motherfucker #3\n",
+    "shotName": "Purple Motherfucker #3",
     "ingredient": [
       "1 part Vodka",
       "1 part Blue Curacao",
@@ -38111,7 +38109,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Purple Nipple\n",
+    "shotName": "Purple Nipple",
     "ingredient": [
       "1/2 oz Jägermeister",
       "1 1/2 oz Midori melon liqueur",
@@ -38120,7 +38118,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Purple Passion\n",
+    "shotName": "Purple Passion",
     "ingredient": [
       "1 1/4 oz Vodka",
       "3/4 oz Triple sec",
@@ -38129,7 +38127,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Purple Rain Shot\n",
+    "shotName": "Purple Rain Shot",
     "ingredient": [
       "1 1/4 oz Vodka",
       "3/4 oz Blue Curacao",
@@ -38137,7 +38135,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Purple Shroud\n",
+    "shotName": "Purple Shroud",
     "ingredient": [
       "1 oz Vodka (Skyy)",
       "3/4 oz Sloe gin",
@@ -38145,14 +38143,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Purple Wind\n",
+    "shotName": "Purple Wind",
     "ingredient": [
       "1 part Chambord raspberry liqueur",
       "5 parts Sake"
     ]
   },
   {
-    "shotName": "Quick F**K\n",
+    "shotName": "Quick F**K",
     "ingredient": [
       "1 part Kahlua",
       "1 part Midori melon liqueur",
@@ -38160,7 +38158,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Quick Fox\n",
+    "shotName": "Quick Fox",
     "ingredient": [
       "1 oz Bailey's irish cream",
       "1 oz Midori melon liqueur",
@@ -38168,7 +38166,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Quick Fuck\n",
+    "shotName": "Quick Fuck",
     "ingredient": [
       "1 cl Bailey's irish cream",
       "1 cl Kahlua",
@@ -38176,7 +38174,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Raging Bull\n",
+    "shotName": "Raging Bull",
     "ingredient": [
       "2 1/2 cl Kahlua",
       "2 1/2 cl Sambuca",
@@ -38184,7 +38182,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Raging Indian\n",
+    "shotName": "Raging Indian",
     "ingredient": [
       "1/4 shot Everclear",
       "1/4 shot Kahlua",
@@ -38193,14 +38191,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Rambo Shot\n",
+    "shotName": "Rambo Shot",
     "ingredient": [
       "1/2 oz Jägermeister",
       "1/2 oz Rumple Minze"
     ]
   },
   {
-    "shotName": "Raspberry Kamakazie\n",
+    "shotName": "Raspberry Kamakazie",
     "ingredient": [
       "1 oz Chambord raspberry liqueur",
       "1/2 oz Vodka",
@@ -38209,7 +38207,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Raspberry Kiss\n",
+    "shotName": "Raspberry Kiss",
     "ingredient": [
       "1/2 oz Raspberry liqueur",
       "1/2 oz Creme de Cacao",
@@ -38218,7 +38216,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Raspberry Sex\n",
+    "shotName": "Raspberry Sex",
     "ingredient": [
       "2/3 oz Raspberry vodka",
       "1/3 oz Cranberry juice",
@@ -38226,7 +38224,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Rattlesnake Shot\n",
+    "shotName": "Rattlesnake Shot",
     "ingredient": [
       "Yukon Jack",
       "Cherry brandy",
@@ -38234,7 +38232,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Rattlesnake\n",
+    "shotName": "Rattlesnake",
     "ingredient": [
       "1 Bailey's irish cream",
       "1 Kahlua",
@@ -38242,7 +38240,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Real Pisser\n",
+    "shotName": "Real Pisser",
     "ingredient": [
       "1/2 shot Tequila",
       "1/2 shot Mountain Dew",
@@ -38251,7 +38249,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Real Romulan Ale\n",
+    "shotName": "Real Romulan Ale",
     "ingredient": [
       "375 ml Bacardi 151 proof rum",
       "375 ml Everclear",
@@ -38259,21 +38257,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Reality Twist\n",
+    "shotName": "Reality Twist",
     "ingredient": [
       "1 1/4 oz Amaretto",
       "1/4 oz Blue Curacao"
     ]
   },
   {
-    "shotName": "The Red and Black\n",
+    "shotName": "The Red and Black",
     "ingredient": [
       "1 part Kahlua",
       "1 part Grenadine"
     ]
   },
   {
-    "shotName": "Red Baron #2\n",
+    "shotName": "Red Baron #2",
     "ingredient": [
       "1 1/4 oz Crown Royal",
       "3/4 oz Amaretto",
@@ -38281,14 +38279,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Red Baron\n",
+    "shotName": "Red Baron",
     "ingredient": [
       "3/4 oz Rumple Minze",
       "1/4 oz Cinnamon schnapps"
     ]
   },
   {
-    "shotName": "Red Beard\n",
+    "shotName": "Red Beard",
     "ingredient": [
       "1 part Spiced rum (Captain Morgan's)",
       "1 part Coconut rum (Captain Morgan's)",
@@ -38297,14 +38295,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Red Dragons Breath\n",
+    "shotName": "Red Dragons Breath",
     "ingredient": [
       "1 shot Hot Damn",
       "1 shot Whiskey"
     ]
   },
   {
-    "shotName": "Red Eyed Hell\n",
+    "shotName": "Red Eyed Hell",
     "ingredient": [
       "1/2 oz Triple sec",
       "1 oz hot and spicy V8 juice",
@@ -38313,7 +38311,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Red Headed Slut\n",
+    "shotName": "Red Headed Slut",
     "ingredient": [
       "1 1/2 oz Jägermeister",
       "1 1/2 oz Peach schnapps",
@@ -38321,7 +38319,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Red Lobster\n",
+    "shotName": "Red Lobster",
     "ingredient": [
       "1 part Amaretto",
       "1 part Southern Comfort",
@@ -38329,21 +38327,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Red Mosquito\n",
+    "shotName": "Red Mosquito",
     "ingredient": [
       "1 oz Vodka",
       "1 oz Hot Damn"
     ]
   },
   {
-    "shotName": "Red Royal Shot\n",
+    "shotName": "Red Royal Shot",
     "ingredient": [
       "1 oz Crown Royal",
       "1 oz Amaretto"
     ]
   },
   {
-    "shotName": "Red Snapper #2\n",
+    "shotName": "Red Snapper #2",
     "ingredient": [
       "1 1/4 oz Crown Royal",
       "1/2 oz Amaretto",
@@ -38351,7 +38349,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Red Snapper\n",
+    "shotName": "Red Snapper",
     "ingredient": [
       "1 shot Crown Royal",
       "1 shot Amaretto",
@@ -38359,7 +38357,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Red Square\n",
+    "shotName": "Red Square",
     "ingredient": [
       "1 part Russian Vodka",
       "1 part White Sambuca",
@@ -38367,7 +38365,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Red, White and Blue\n",
+    "shotName": "Red, White and Blue",
     "ingredient": [
       "1 oz Aftershock",
       "1 oz Goldschlager",
@@ -38375,14 +38373,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Redhead's Nipple\n",
+    "shotName": "Redhead's Nipple",
     "ingredient": [
       "1 oz Vanilla schnapps",
       "1 oz Irish cream"
     ]
   },
   {
-    "shotName": "Rhino\n",
+    "shotName": "Rhino",
     "ingredient": [
       "2 cl Kahlua",
       "2 cl Amarula Cream",
@@ -38390,21 +38388,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Rick\n",
+    "shotName": "Rick",
     "ingredient": [
       "1/2 oz Sambuca",
       "1/2 oz fresh Orange juice"
     ]
   },
   {
-    "shotName": "Riddler's Shot\n",
+    "shotName": "Riddler's Shot",
     "ingredient": [
       "2 oz Tequila",
       "13 drops Tabasco sauce"
     ]
   },
   {
-    "shotName": "Risk\n",
+    "shotName": "Risk",
     "ingredient": [
       "1/3 oz Aftershock",
       "1/3 oz Yukon Jack",
@@ -38412,7 +38410,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Roadkill\n",
+    "shotName": "Roadkill",
     "ingredient": [
       "1 shot Tequila (Cuervo)",
       "1 shot Hot Damn",
@@ -38420,7 +38418,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Rocha-Gil\n",
+    "shotName": "Rocha-Gil",
     "ingredient": [
       "2 cl Green Chartreuse",
       "1 cl Fernet Branca",
@@ -38428,7 +38426,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Rocket Fuel #3\n",
+    "shotName": "Rocket Fuel #3",
     "ingredient": [
       "1/2 shot Bacardi 151 proof rum",
       "1/4 shot Vodka",
@@ -38436,7 +38434,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Rocky Mountain Bear Fucker #2\n",
+    "shotName": "Rocky Mountain Bear Fucker #2",
     "ingredient": [
       "1/3 oz Tequila",
       "1/3 oz Jack Daniels",
@@ -38445,7 +38443,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Rocky Mountain Bear Fucker #3\n",
+    "shotName": "Rocky Mountain Bear Fucker #3",
     "ingredient": [
       "2/3 oz Tennessee whiskey (Jack Daniel's)",
       "2/3 oz Tequila",
@@ -38453,7 +38451,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Rocky Mountain Bear Fucker\n",
+    "shotName": "Rocky Mountain Bear Fucker",
     "ingredient": [
       "1/3 oz Tequila",
       "1/3 oz Jack Daniels",
@@ -38461,7 +38459,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Rocky Mountain Bear Fuck\n",
+    "shotName": "Rocky Mountain Bear Fuck",
     "ingredient": [
       "1/2 oz Blue Curacao",
       "1/2 oz Melon liqueur",
@@ -38469,7 +38467,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Rocky Mountain Mother Fucker\n",
+    "shotName": "Rocky Mountain Mother Fucker",
     "ingredient": [
       "1/2 oz Amaretto",
       "1/2 oz Yukon Jack",
@@ -38477,7 +38475,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Rocky Mountain Motherfucker #2\n",
+    "shotName": "Rocky Mountain Motherfucker #2",
     "ingredient": [
       "1/2 oz Southern Comfort",
       "1/2 oz Amaretto",
@@ -38485,7 +38483,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Rok-Shasa\n",
+    "shotName": "Rok-Shasa",
     "ingredient": [
       "1/2 oz Grenadine",
       "1 oz Peachtree schnapps",
@@ -38493,7 +38491,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Romona Banana\n",
+    "shotName": "Romona Banana",
     "ingredient": [
       "1/3 oz Amaretto",
       "1/3 oz Banana liqueur",
@@ -38501,7 +38499,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Romulan Ale #3\n",
+    "shotName": "Romulan Ale #3",
     "ingredient": [
       "1 shot blue Maui",
       "1 shot Cactus Juice liqueur",
@@ -38509,14 +38507,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Rooster Piss\n",
+    "shotName": "Rooster Piss",
     "ingredient": [
       "1/2 oz Jack Daniels",
       "1/2 oz Cinnamon schnapps"
     ]
   },
   {
-    "shotName": "Rooster Tail\n",
+    "shotName": "Rooster Tail",
     "ingredient": [
       "1 shot Jose Cuervo",
       "1 shot Orange juice",
@@ -38525,28 +38523,28 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Rootbeer Floatie\n",
+    "shotName": "Rootbeer Floatie",
     "ingredient": [
       "1/2 oz Root beer schnapps",
       "1/2 oz Light cream"
     ]
   },
   {
-    "shotName": "Royal Bitch\n",
+    "shotName": "Royal Bitch",
     "ingredient": [
       "1 part Frangelico",
       "1 part Crown Royal"
     ]
   },
   {
-    "shotName": "Royal Butt\n",
+    "shotName": "Royal Butt",
     "ingredient": [
       "1/2 oz Crown Royal",
       "1/2 oz Butterscotch schnapps (Buttershots)"
     ]
   },
   {
-    "shotName": "Royal Flush #2\n",
+    "shotName": "Royal Flush #2",
     "ingredient": [
       "1 part Crown Royal",
       "1 part Peachtree schnapps",
@@ -38555,7 +38553,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Royal Flush\n",
+    "shotName": "Royal Flush",
     "ingredient": [
       "1 1/2 oz Crown Royal",
       "1 oz Peach schnapps",
@@ -38564,21 +38562,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Royal Peach\n",
+    "shotName": "Royal Peach",
     "ingredient": [
       "1/2 oz Crown Royal",
       "1/2 oz Peach schnapps"
     ]
   },
   {
-    "shotName": "Ru's Snap Shot\n",
+    "shotName": "Ru's Snap Shot",
     "ingredient": [
       "3/4 oz Cinnamon schnapps",
       "1 tsp Candy, Pop Rocks, any flavor"
     ]
   },
   {
-    "shotName": "Ruby Slipper\n",
+    "shotName": "Ruby Slipper",
     "ingredient": [
       "1 1/2 oz Whiskey",
       "Grenadine",
@@ -38586,28 +38584,28 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Rugmuncher\n",
+    "shotName": "Rugmuncher",
     "ingredient": [
       "1 oz Root beer schnapps",
       "1 oz Irish cream (Baileys's)"
     ]
   },
   {
-    "shotName": "Rumka\n",
+    "shotName": "Rumka",
     "ingredient": [
       "1 oz Vodka (Absolut)",
       "1 oz Spiced rum (Captain Morgan's)"
     ]
   },
   {
-    "shotName": "Rumple Shock\n",
+    "shotName": "Rumple Shock",
     "ingredient": [
       "1 oz Rumple Minze",
       "1 oz Aftershock"
     ]
   },
   {
-    "shotName": "Russian Bloody Mary\n",
+    "shotName": "Russian Bloody Mary",
     "ingredient": [
       "1 part Vodka (Stolichnaya)",
       "1 part Tomato juice (salted)",
@@ -38615,7 +38613,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Russian Candy\n",
+    "shotName": "Russian Candy",
     "ingredient": [
       "1/2 shot Vodka",
       "1/2 shot Peach schnapps",
@@ -38623,7 +38621,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Russian Iceberg\n",
+    "shotName": "Russian Iceberg",
     "ingredient": [
       "Fill with Ice Cubes",
       "1 oz White Creme de Menthe",
@@ -38632,7 +38630,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Russian Roulette\n",
+    "shotName": "Russian Roulette",
     "ingredient": [
       "1/2 oz Kahlua",
       "1/2 oz Vodka",
@@ -38641,21 +38639,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Russian Shamrock\n",
+    "shotName": "Russian Shamrock",
     "ingredient": [
       "1/2 shot Vodka",
       "1/2 shot Green Creme de Menthe"
     ]
   },
   {
-    "shotName": "Rythym & Blues\n",
+    "shotName": "Rythym & Blues",
     "ingredient": [
       "1/2 oz Jack Daniels",
       "1/2 oz Blueberry schnapps"
     ]
   },
   {
-    "shotName": "S.O.B.\n",
+    "shotName": "S.O.B.",
     "ingredient": [
       "1/2 oz Cognac",
       "1/2 oz Cointreau",
@@ -38664,21 +38662,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Sabra\n",
+    "shotName": "Sabra",
     "ingredient": [
       "3/4 oz Absolut Mandrin",
       "3/4 oz Godiva liqueur"
     ]
   },
   {
-    "shotName": "Sackville Surprise\n",
+    "shotName": "Sackville Surprise",
     "ingredient": [
       "1 oz White rum",
       "1 oz Maple syrup"
     ]
   },
   {
-    "shotName": "Sacrilicious\n",
+    "shotName": "Sacrilicious",
     "ingredient": [
       "1/3 oz Bacardi Limon",
       "1/3 oz Midori melon liqueur",
@@ -38686,14 +38684,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Sake Bomb\n",
+    "shotName": "Sake Bomb",
     "ingredient": [
       "1 shot Sake",
       "1 glass Beer"
     ]
   },
   {
-    "shotName": "Sammy Slammer\n",
+    "shotName": "Sammy Slammer",
     "ingredient": [
       "1 oz Southern Comfort",
       "1/2 oz Vanilla liqueur",
@@ -38701,14 +38699,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "San Diego Silver Bullet\n",
+    "shotName": "San Diego Silver Bullet",
     "ingredient": [
       "2 oz Vodka (Absolut)",
       "2 oz Sambuca"
     ]
   },
   {
-    "shotName": "Sangrita\n",
+    "shotName": "Sangrita",
     "ingredient": [
       "1 oz Tequila (Jose Cuervo)",
       "1 oz Clamato juice",
@@ -38717,7 +38715,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Santa Shot\n",
+    "shotName": "Santa Shot",
     "ingredient": [
       "1/3 Grenadine",
       "1/3 Green Creme de Menthe",
@@ -38725,14 +38723,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Satan's Piss\n",
+    "shotName": "Satan's Piss",
     "ingredient": [
       "1 1/2 oz Bacardi 151 proof rum",
       "3 dashes Tabasco sauce"
     ]
   },
   {
-    "shotName": "Satan's Revenge\n",
+    "shotName": "Satan's Revenge",
     "ingredient": [
       "1/3 shot Tequila (Jose Cuervo)",
       "1/3 shot Jack Daniels",
@@ -38741,14 +38739,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Satan's Spawn\n",
+    "shotName": "Satan's Spawn",
     "ingredient": [
       "1 oz Firewater",
       "3-4 dashes Tabasco sauce"
     ]
   },
   {
-    "shotName": "Scooby Snack #1\n",
+    "shotName": "Scooby Snack #1",
     "ingredient": [
       "3/4 oz Malibu rum",
       "3/4 oz Midori melon liqueur",
@@ -38757,7 +38755,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Scooby Snack #2\n",
+    "shotName": "Scooby Snack #2",
     "ingredient": [
       "3/4 oz Vodka (Stoli)",
       "3/4 oz Midori melon liqueur",
@@ -38766,7 +38764,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Scooby Snack #3\n",
+    "shotName": "Scooby Snack #3",
     "ingredient": [
       "1 shot Malibu rum",
       "1 shot Midori melon liqueur",
@@ -38774,21 +38772,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Scope #2\n",
+    "shotName": "Scope #2",
     "ingredient": [
       "1/2 oz Midori melon liqueur",
       "1/2 oz Rumple Minze"
     ]
   },
   {
-    "shotName": "Screaming Blue Messiah\n",
+    "shotName": "Screaming Blue Messiah",
     "ingredient": [
       "1 1/2 oz Goldschlager",
       "1/4 oz Blue Curacao"
     ]
   },
   {
-    "shotName": "Screaming Blue Viking\n",
+    "shotName": "Screaming Blue Viking",
     "ingredient": [
       "1 part Yukon Jack",
       "1 part Rumple Minze",
@@ -38796,7 +38794,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Screaming Dead Nazi\n",
+    "shotName": "Screaming Dead Nazi",
     "ingredient": [
       "1/3 Jägermeister",
       "1/3 Bacardi 151 proof rum",
@@ -38804,21 +38802,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Screaming Nazi #2\n",
+    "shotName": "Screaming Nazi #2",
     "ingredient": [
       "1 - 1 1/2 oz Jägermeister",
       "1 - 1 1/2 oz Goldschlager"
     ]
   },
   {
-    "shotName": "Screaming Nazi\n",
+    "shotName": "Screaming Nazi",
     "ingredient": [
       "1/2 Jägermeister",
       "1/2 Rumple Minze"
     ]
   },
   {
-    "shotName": "Screaming Orgasm II\n",
+    "shotName": "Screaming Orgasm II",
     "ingredient": [
       "1 shot Amaretto",
       "1 shot Bailey's irish cream",
@@ -38826,7 +38824,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Scurvy #2\n",
+    "shotName": "Scurvy #2",
     "ingredient": [
       "1 part Scotch",
       "1 part Malibu rum",
@@ -38834,14 +38832,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "The Seminole\n",
+    "shotName": "The Seminole",
     "ingredient": [
       "3/4 oz Goldschlager",
       "1/4 oz Grenadine"
     ]
   },
   {
-    "shotName": "Sex at my House\n",
+    "shotName": "Sex at my House",
     "ingredient": [
       "3/4 oz Amaretto Di Saronno",
       "3/4 oz Chambord raspberry liqueur",
@@ -38849,14 +38847,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Sexoholic\n",
+    "shotName": "Sexoholic",
     "ingredient": [
       "5 drops Tabasco sauce",
       "4 cl Drambuie"
     ]
   },
   {
-    "shotName": "Shake That Ass\n",
+    "shotName": "Shake That Ass",
     "ingredient": [
       "3/4 oz Blue Curacao",
       "3/4 oz Banana liqueur",
@@ -38865,7 +38863,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Sharpshooter #1\n",
+    "shotName": "Sharpshooter #1",
     "ingredient": [
       "1/2 oz Ouzo",
       "1/2 oz Vodka",
@@ -38873,7 +38871,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Shazam Shooter\n",
+    "shotName": "Shazam Shooter",
     "ingredient": [
       "1 shot Apple schnapps",
       "1 shot Chambord raspberry liqueur",
@@ -38882,7 +38880,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "The Sheedy\n",
+    "shotName": "The Sheedy",
     "ingredient": [
       "1/3 Peach schnapps",
       "1/3 Jägermeister",
@@ -38890,21 +38888,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Shit On Grass\n",
+    "shotName": "Shit On Grass",
     "ingredient": [
       "1/2 shot Midori melon liqueur",
       "1/2 shot Kahlua"
     ]
   },
   {
-    "shotName": "Shit on the Grass\n",
+    "shotName": "Shit on the Grass",
     "ingredient": [
       "1/2 shot Green Creme de Menthe",
       "1/2 shot Bailey's irish cream"
     ]
   },
   {
-    "shotName": "Shittin' Blue\n",
+    "shotName": "Shittin' Blue",
     "ingredient": [
       "1/2 oz Vodka (Absolut)",
       "1 oz Blueberry schnapps",
@@ -38913,21 +38911,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Shot in the pot\n",
+    "shotName": "Shot in the pot",
     "ingredient": [
       "1/2 oz Ginger ale",
       "1/2 oz Tabasco sauce"
     ]
   },
   {
-    "shotName": "Shot of Hell\n",
+    "shotName": "Shot of Hell",
     "ingredient": [
       "1 1/2 oz Vodka",
       "Top off with Tabasco sauce"
     ]
   },
   {
-    "shotName": "Shot of Respect\n",
+    "shotName": "Shot of Respect",
     "ingredient": [
       "1 part Tequila",
       "1 part 151 proof rum",
@@ -38935,7 +38933,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Shot-gun\n",
+    "shotName": "Shot-gun",
     "ingredient": [
       "1 part Jim Beam",
       "1 part Jack Daniels",
@@ -38943,7 +38941,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Shrewsbury Slammer\n",
+    "shotName": "Shrewsbury Slammer",
     "ingredient": [
       "1/2 oz Southern Comfort",
       "1/2 oz Peachtree schnapps",
@@ -38951,21 +38949,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Sicilian Kiss\n",
+    "shotName": "Sicilian Kiss",
     "ingredient": [
       "1/2 oz Amaretto",
       "1/2 oz Southern Comfort"
     ]
   },
   {
-    "shotName": "Silk Panties\n",
+    "shotName": "Silk Panties",
     "ingredient": [
       "1/2 oz Peach schnapps",
       "1 1/2 oz Vodka (Absolut)"
     ]
   },
   {
-    "shotName": "Simpson Bronco\n",
+    "shotName": "Simpson Bronco",
     "ingredient": [
       "1 oz Sambuca",
       "1/4 oz Grenadine",
@@ -38973,7 +38971,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Sinfonian\n",
+    "shotName": "Sinfonian",
     "ingredient": [
       "Kahlua",
       "Grenadine",
@@ -38981,7 +38979,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Sip and Get Funky\n",
+    "shotName": "Sip and Get Funky",
     "ingredient": [
       "1 oz Gin",
       "3 oz Beer",
@@ -38990,7 +38988,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Sit On My Face Mary Jane\n",
+    "shotName": "Sit On My Face Mary Jane",
     "ingredient": [
       "1 part Bailey's irish cream",
       "1 part Frangelico",
@@ -38998,7 +38996,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Sit on my face\n",
+    "shotName": "Sit on my face",
     "ingredient": [
       "1/3 oz Kahlua",
       "1/3 oz Frangelico",
@@ -39006,7 +39004,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Sizzler\n",
+    "shotName": "Sizzler",
     "ingredient": [
       "1 oz Vodka",
       "1 oz Jack Daniels",
@@ -39015,7 +39013,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Ski Shooter\n",
+    "shotName": "Ski Shooter",
     "ingredient": [
       "2 oz Vodka (Skyy)",
       "2 oz Amaretto (DeSerrano)",
@@ -39024,14 +39022,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Skid Marks\n",
+    "shotName": "Skid Marks",
     "ingredient": [
       "1 shot Kahlua",
       "1 tblsp Chocolate syrup"
     ]
   },
   {
-    "shotName": "Skull\n",
+    "shotName": "Skull",
     "ingredient": [
       "1/3 shot Coffee liqueur (kahlua)",
       "1/3 shot Irish cream (bailey's)",
@@ -39039,14 +39037,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Slippery Nipple #2\n",
+    "shotName": "Slippery Nipple #2",
     "ingredient": [
       "1 oz Bailey's irish cream",
       "1 oz Sambuca"
     ]
   },
   {
-    "shotName": "Slippery Nipple #3\n",
+    "shotName": "Slippery Nipple #3",
     "ingredient": [
       "1/3 oz Irish cream (Bailey's)",
       "1/3 oz Butterscotch schnapps",
@@ -39054,14 +39052,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Smartie\n",
+    "shotName": "Smartie",
     "ingredient": [
       "1/2 oz Grape schnapps",
       "1/2 oz Melon liqueur"
     ]
   },
   {
-    "shotName": "Smarty\n",
+    "shotName": "Smarty",
     "ingredient": [
       "1 oz Amaretto",
       "1 oz Southern Comfort",
@@ -39070,7 +39068,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Smashing Pumpkin\n",
+    "shotName": "Smashing Pumpkin",
     "ingredient": [
       "1/3 oz Kahlua",
       "1/3 oz Bailey's irish cream",
@@ -39078,14 +39076,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Smooth Dog\n",
+    "shotName": "Smooth Dog",
     "ingredient": [
       "3/4 shot Amaretto",
       "1/4 shot 7-Up or Sprite"
     ]
   },
   {
-    "shotName": "Smurf fart\n",
+    "shotName": "Smurf fart",
     "ingredient": [
       "1/2 oz Blue Curacao",
       "1 oz Blueberry schnapps",
@@ -39093,7 +39091,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Smurf on the Rag\n",
+    "shotName": "Smurf on the Rag",
     "ingredient": [
       "1/2 oz Peach schnapps",
       "1/2 oz Blue Curacao",
@@ -39102,7 +39100,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Snakebite #2\n",
+    "shotName": "Snakebite #2",
     "ingredient": [
       "1/2 oz Vodka",
       "1/2 oz Green Chartreuse",
@@ -39110,7 +39108,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Snakebite #3\n",
+    "shotName": "Snakebite #3",
     "ingredient": [
       "1 part Tennessee whiskey (Jack Daniel's)",
       "1 part Tequila",
@@ -39118,21 +39116,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Snakebite (Aus)\n",
+    "shotName": "Snakebite (Aus)",
     "ingredient": [
       "1 measure Green Chartreuse",
       "1 dash Tabasco sauce"
     ]
   },
   {
-    "shotName": "Snowshoe\n",
+    "shotName": "Snowshoe",
     "ingredient": [
       "1/2 oz Peppermint schnapps",
       "1/2 oz Wild Turkey"
     ]
   },
   {
-    "shotName": "Solaris\n",
+    "shotName": "Solaris",
     "ingredient": [
       "1 part Rum (Captain Morgan's)",
       "1 part Grenadine",
@@ -39140,7 +39138,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Soul Taker\n",
+    "shotName": "Soul Taker",
     "ingredient": [
       "1 part Vodka",
       "1 part Tequila",
@@ -39148,7 +39146,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Sour Apple #2\n",
+    "shotName": "Sour Apple #2",
     "ingredient": [
       "3/4 oz Crown Royal",
       "1/4 oz Melon liqueur",
@@ -39156,14 +39154,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Sour Cow\n",
+    "shotName": "Sour Cow",
     "ingredient": [
       "1 1/2 oz Kentucky Bourbon (Jim Beam)",
       "Fill with cold Chocolate milk"
     ]
   },
   {
-    "shotName": "Sour Death\n",
+    "shotName": "Sour Death",
     "ingredient": [
       "2 oz Grapefruit juice",
       "1/2 oz Lime juice",
@@ -39171,7 +39169,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Southern Beamy Brain Damage (SBBD)\n",
+    "shotName": "Southern Beamy Brain Damage (SBBD)",
     "ingredient": [
       "1/3 shot Southern Comfort",
       "1/3 shot Jim Beam",
@@ -39180,21 +39178,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Southern Blues #2\n",
+    "shotName": "Southern Blues #2",
     "ingredient": [
       "1/4 Blackberry schnapps",
       "3/4 Southern Comfort"
     ]
   },
   {
-    "shotName": "Southern Blues\n",
+    "shotName": "Southern Blues",
     "ingredient": [
       "1/2 oz Southern Comfort",
       "1/2 oz Blueberry schnapps"
     ]
   },
   {
-    "shotName": "Southern Bound Meteor\n",
+    "shotName": "Southern Bound Meteor",
     "ingredient": [
       "1 Cherry without stem",
       "1/2 oz Southern Comfort",
@@ -39203,7 +39201,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Southern Brain Damage\n",
+    "shotName": "Southern Brain Damage",
     "ingredient": [
       "2/3 shot Southern Comfort",
       "1/3 shot Tia maria",
@@ -39211,7 +39209,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Southern Chase\n",
+    "shotName": "Southern Chase",
     "ingredient": [
       "1 part Galliano",
       "1 part Southern Comfort",
@@ -39219,7 +39217,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Southern Comfort Kamikaze\n",
+    "shotName": "Southern Comfort Kamikaze",
     "ingredient": [
       "1 1/4 oz Southern Comfort",
       "3/4 oz Triple sec",
@@ -39227,7 +39225,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Southern Fruity Passion\n",
+    "shotName": "Southern Fruity Passion",
     "ingredient": [
       "1 part Southern Comfort",
       "1 part Triple sec",
@@ -39235,28 +39233,28 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Southern Ireland\n",
+    "shotName": "Southern Ireland",
     "ingredient": [
       "1 oz Bailey's irish cream",
       "1 oz Southern Comfort"
     ]
   },
   {
-    "shotName": "Southern Joe\n",
+    "shotName": "Southern Joe",
     "ingredient": [
       "1/2 oz Southern Comfort",
       "1/2 oz Jack Daniels"
     ]
   },
   {
-    "shotName": "Southern Pride\n",
+    "shotName": "Southern Pride",
     "ingredient": [
       "1 oz Southern Comfort",
       "1/2 oz Peach schnapps"
     ]
   },
   {
-    "shotName": "Southern Raspberry Tart\n",
+    "shotName": "Southern Raspberry Tart",
     "ingredient": [
       "1 oz Southern Comfort",
       "1 oz Chambord raspberry liqueur",
@@ -39265,7 +39263,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Southern Smile\n",
+    "shotName": "Southern Smile",
     "ingredient": [
       "1/2 jigger Cranberry juice",
       "1 shot Southern Comfort",
@@ -39273,14 +39271,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Sparkplug\n",
+    "shotName": "Sparkplug",
     "ingredient": [
       "1/2 shot Bacardi 151 proof rum",
       "1/2 shot Rumple Minze"
     ]
   },
   {
-    "shotName": "Speedball\n",
+    "shotName": "Speedball",
     "ingredient": [
       "Vodka",
       "Gin",
@@ -39289,14 +39287,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Speedy Gonzales\n",
+    "shotName": "Speedy Gonzales",
     "ingredient": [
       "1 oz Amaretto",
       "1 oz Irish cream (Bailey's)"
     ]
   },
   {
-    "shotName": "Sperm\n",
+    "shotName": "Sperm",
     "ingredient": [
       "5 cl Tequila",
       "5 cl Vodka",
@@ -39304,7 +39302,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Spice Cake\n",
+    "shotName": "Spice Cake",
     "ingredient": [
       "1 part Irish cream",
       "1 part Amaretto",
@@ -39312,7 +39310,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Spiced apple\n",
+    "shotName": "Spiced apple",
     "ingredient": [
       "1/4 oz Apple brandy",
       "1/4 oz Goldschlager",
@@ -39320,7 +39318,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Spicy Buttery Nipple\n",
+    "shotName": "Spicy Buttery Nipple",
     "ingredient": [
       "1/3 oz Hot Damn",
       "1/3 oz Butterscotch schnapps",
@@ -39328,7 +39326,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Spider's Web\n",
+    "shotName": "Spider's Web",
     "ingredient": [
       "About 4 oz Goldschlager",
       "1 drop Strawberry juice",
@@ -39336,7 +39334,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Sprawling Dubinsky\n",
+    "shotName": "Sprawling Dubinsky",
     "ingredient": [
       "1 part Johnnie Walker red label",
       "1 part Johnnie Walker black label",
@@ -39345,7 +39343,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Springbok\n",
+    "shotName": "Springbok",
     "ingredient": [
       "3/4 oz White Creme de Menthe",
       "1/4 oz Amarula Cream",
@@ -39353,7 +39351,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Spudgun\n",
+    "shotName": "Spudgun",
     "ingredient": [
       "4 parts Drambuie",
       "2 parts Vodka",
@@ -39361,7 +39359,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Squashed Frog\n",
+    "shotName": "Squashed Frog",
     "ingredient": [
       "15 ml Midori melon liqueur",
       "10 ml Advocaat",
@@ -39370,7 +39368,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Squirrel\n",
+    "shotName": "Squirrel",
     "ingredient": [
       "1 oz Vodka",
       "1/2 oz Orange juice",
@@ -39378,7 +39376,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Squished Smurf\n",
+    "shotName": "Squished Smurf",
     "ingredient": [
       "1/2 oz Peach schnapps",
       "1/4 oz Bailey's irish cream",
@@ -39387,14 +39385,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Stabilizer\n",
+    "shotName": "Stabilizer",
     "ingredient": [
       "3/4 oz Bacardi 151 proof rum",
       "3/4 oz Rumple Minze"
     ]
   },
   {
-    "shotName": "Stained Blue Dress\n",
+    "shotName": "Stained Blue Dress",
     "ingredient": [
       "1/2 oz Vodka",
       "1/2 oz Blue Curacao",
@@ -39402,7 +39400,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Start Me Up\n",
+    "shotName": "Start Me Up",
     "ingredient": [
       "3 cl Vodka (Absolut)",
       "1 cl Tequila",
@@ -39411,7 +39409,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Steamboat\n",
+    "shotName": "Steamboat",
     "ingredient": [
       "1 part Vodka",
       "1 part Kahlua",
@@ -39420,7 +39418,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Stevie Wonder\n",
+    "shotName": "Stevie Wonder",
     "ingredient": [
       "1/2 oz Coffee liqueur",
       "1/2 oz Dark Creme de Cacao",
@@ -39429,7 +39427,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Stinger Shot\n",
+    "shotName": "Stinger Shot",
     "ingredient": [
       "3 cl Vodka",
       "2 cl White Creme de Menthe",
@@ -39437,7 +39435,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Stinky Weasel\n",
+    "shotName": "Stinky Weasel",
     "ingredient": [
       "1/3 shot Tequila",
       "1/3 shot 151 proof rum",
@@ -39446,7 +39444,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Stop Light\n",
+    "shotName": "Stop Light",
     "ingredient": [
       "3 shots Vodka",
       "1 splash Midori melon liqueur",
@@ -39455,7 +39453,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Stormcloud\n",
+    "shotName": "Stormcloud",
     "ingredient": [
       "3/4 oz Amaretto",
       "splash Bacardi 151 proof rum",
@@ -39463,7 +39461,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Strawberry Blond\n",
+    "shotName": "Strawberry Blond",
     "ingredient": [
       "1 oz Irish cream",
       "1/2 oz white Creme de Cacao",
@@ -39471,28 +39469,28 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Strawberry Bomb\n",
+    "shotName": "Strawberry Bomb",
     "ingredient": [
       "3/4 oz Strawberry schnapps",
       "3/4 oz Everclear"
     ]
   },
   {
-    "shotName": "Strawgasm\n",
+    "shotName": "Strawgasm",
     "ingredient": [
       "1 oz Bailey's irish cream",
       "1 oz Strawberry liqueur"
     ]
   },
   {
-    "shotName": "Stubborn Italian\n",
+    "shotName": "Stubborn Italian",
     "ingredient": [
       "1 shot Sambuca",
       "1 splash Galliano"
     ]
   },
   {
-    "shotName": "Suicide #2\n",
+    "shotName": "Suicide #2",
     "ingredient": [
       "1 part Vodka",
       "2 parts Lime liqueur",
@@ -39500,7 +39498,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Suicide Stop Light\n",
+    "shotName": "Suicide Stop Light",
     "ingredient": [
       "1 1/2 oz Midori melon liqueur",
       "1 1/2 oz Absolut Vodka",
@@ -39509,14 +39507,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Suicide The Shot\n",
+    "shotName": "Suicide The Shot",
     "ingredient": [
       "11/2 oz 151 proof rum",
       "1/4 oz Tabasco sauce"
     ]
   },
   {
-    "shotName": "Summer Fling\n",
+    "shotName": "Summer Fling",
     "ingredient": [
       "3/4 oz Blue Curacao",
       "3/4 oz Bailey's irish cream",
@@ -39524,7 +39522,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Summer Mind Eraser\n",
+    "shotName": "Summer Mind Eraser",
     "ingredient": [
       "Ice",
       "3 cl Peach schnapps",
@@ -39533,14 +39531,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Sunny Mexico\n",
+    "shotName": "Sunny Mexico",
     "ingredient": [
       "1/2 shot Galliano",
       "1/2 shot Tequila"
     ]
   },
   {
-    "shotName": "Sunoco 251\n",
+    "shotName": "Sunoco 251",
     "ingredient": [
       "1/2 shot 151 proof rum",
       "1/2 shot 100 proof Vodka",
@@ -39548,7 +39546,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Sunset (Night Club)\n",
+    "shotName": "Sunset (Night Club)",
     "ingredient": [
       "1/2 oz Watermelon schnapps",
       "1/2 oz Malibu rum",
@@ -39557,7 +39555,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Suntan Lotion\n",
+    "shotName": "Suntan Lotion",
     "ingredient": [
       "Absolut Citron",
       "Malibu rum",
@@ -39566,7 +39564,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Surfer on Acid\n",
+    "shotName": "Surfer on Acid",
     "ingredient": [
       "1/4 oz Jägermeister",
       "1/3 oz Malibu rum",
@@ -39574,7 +39572,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Sweaty Goat's Ass\n",
+    "shotName": "Sweaty Goat's Ass",
     "ingredient": [
       "3/4 shot white Tequila",
       "6 drops Tabasco sauce",
@@ -39582,7 +39580,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Sweaty Irish Whiskey\n",
+    "shotName": "Sweaty Irish Whiskey",
     "ingredient": [
       "1/2 oz Irish whiskey (Jameson's)",
       "1/2 oz Cinnamon schnapps (Hot Damn)",
@@ -39590,7 +39588,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Sweaty Mexican Lumber Jack\n",
+    "shotName": "Sweaty Mexican Lumber Jack",
     "ingredient": [
       "3/4 oz Yukon Jack",
       "1/4 oz Tequila",
@@ -39598,7 +39596,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Sweaty Mexican\n",
+    "shotName": "Sweaty Mexican",
     "ingredient": [
       "6 oz Beer",
       "1 1/4 oz Tequila",
@@ -39606,7 +39604,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Sweedish Blow Job\n",
+    "shotName": "Sweedish Blow Job",
     "ingredient": [
       "1 oz Kahlua",
       "1 dash Whipped cream",
@@ -39614,7 +39612,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Sweet Burning Eruption\n",
+    "shotName": "Sweet Burning Eruption",
     "ingredient": [
       "1/2 shot Triple sec",
       "1/2 shot Butterscotch schnapps",
@@ -39623,7 +39621,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Sweet Tarts\n",
+    "shotName": "Sweet Tarts",
     "ingredient": [
       "1 part Vodka",
       "1 part Orange soda",
@@ -39631,7 +39629,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Sweet Tart\n",
+    "shotName": "Sweet Tart",
     "ingredient": [
       "3/4 oz Vodka (Stoli)",
       "3/4 oz Midori melon liqueur",
@@ -39640,7 +39638,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Sweet Tits\n",
+    "shotName": "Sweet Tits",
     "ingredient": [
       "1/2 oz Strawberry schnapps",
       "1/2 oz Apricot brandy",
@@ -39649,14 +39647,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Swift kick in the Ass\n",
+    "shotName": "Swift kick in the Ass",
     "ingredient": [
       "1 part Vodka",
       "3 parts Aftershock"
     ]
   },
   {
-    "shotName": "T-52\n",
+    "shotName": "T-52",
     "ingredient": [
       "1/2 oz Kahlua",
       "1/2 oz Tequila Rose",
@@ -39664,7 +39662,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "T-Bone's Cough Syrup\n",
+    "shotName": "T-Bone's Cough Syrup",
     "ingredient": [
       "1/4 oz Hot Damn",
       "Almost 3/4 oz Grape soda",
@@ -39672,7 +39670,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "T.K.O.\n",
+    "shotName": "T.K.O.",
     "ingredient": [
       "1/3 oz Tequila",
       "1/3 oz Ouzo",
@@ -39680,7 +39678,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "T2\n",
+    "shotName": "T2",
     "ingredient": [
       "3 cl Tequila",
       "3 cl Tabasco sauce",
@@ -39688,14 +39686,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Tainted Heart\n",
+    "shotName": "Tainted Heart",
     "ingredient": [
       "1/2 shot Aftershock",
       "1/2 shot Chocolate liqueur"
     ]
   },
   {
-    "shotName": "Tampon String\n",
+    "shotName": "Tampon String",
     "ingredient": [
       "1 oz Vodka",
       "1 oz Cherry liqueur",
@@ -39704,7 +39702,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Tequila Body Slammer\n",
+    "shotName": "Tequila Body Slammer",
     "ingredient": [
       "1 pinch Salt",
       "1 shot Tequila",
@@ -39712,7 +39710,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Tequila BoomBoom\n",
+    "shotName": "Tequila BoomBoom",
     "ingredient": [
       "2 parts Tequila",
       "8 drops Tabasco sauce",
@@ -39720,49 +39718,49 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Tequila Comfort\n",
+    "shotName": "Tequila Comfort",
     "ingredient": [
       "1 part Tequila",
       "1 part Southern Comfort"
     ]
   },
   {
-    "shotName": "Tequila Slammer\n",
+    "shotName": "Tequila Slammer",
     "ingredient": [
       "1 oz Tequila",
       "1/2 oz Mountain Dew"
     ]
   },
   {
-    "shotName": "Tequila Slammer\n",
+    "shotName": "Tequila Slammer",
     "ingredient": [
       "1/2 Tequila (your choice)",
       "1/2 7-Up"
     ]
   },
   {
-    "shotName": "Tequila Surprise\n",
+    "shotName": "Tequila Surprise",
     "ingredient": [
       "full glass Tequila",
       "About 8 drops Tabasco sauce"
     ]
   },
   {
-    "shotName": "The Terminator\n",
+    "shotName": "The Terminator",
     "ingredient": [
       "1/2 oz Jägermeister",
       "1/2 oz Southern Comfort"
     ]
   },
   {
-    "shotName": "Terminator\n",
+    "shotName": "Terminator",
     "ingredient": [
       "1/2 oz Bacardi 151 proof rum",
       "1/2 oz Rumple Minze"
     ]
   },
   {
-    "shotName": "Texas Cool-Aid\n",
+    "shotName": "Texas Cool-Aid",
     "ingredient": [
       "1 oz Vodka",
       "1 oz Midori melon liqueur",
@@ -39771,7 +39769,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Texas Prairie Fire\n",
+    "shotName": "Texas Prairie Fire",
     "ingredient": [
       "3/4 oz Tequila",
       "Lime juice",
@@ -39779,7 +39777,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Texas Rattlesnake\n",
+    "shotName": "Texas Rattlesnake",
     "ingredient": [
       "1 part Yukon Jack",
       "1/2 part Cherry brandy",
@@ -39788,7 +39786,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "TGV\n",
+    "shotName": "TGV",
     "ingredient": [
       "1 cl Tequila",
       "1 cl Gin (Bombay Sapphire)",
@@ -39797,7 +39795,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Thorazine\n",
+    "shotName": "Thorazine",
     "ingredient": [
       "1/2 oz Jägermeister",
       "1/2 oz Rumple Minze",
@@ -39805,14 +39803,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Thorny Mexican\n",
+    "shotName": "Thorny Mexican",
     "ingredient": [
       "1 part Tequila (Jose Cuervo)",
       "1 part Tequila Rose"
     ]
   },
   {
-    "shotName": "Three Musketeers\n",
+    "shotName": "Three Musketeers",
     "ingredient": [
       "Tia maria",
       "Dark Creme de Cacao",
@@ -39820,7 +39818,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Three Sheets to The Wind\n",
+    "shotName": "Three Sheets to The Wind",
     "ingredient": [
       "1/3 Jägermeister",
       "1/3 Rumple Minze",
@@ -39828,7 +39826,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Three Stages of Friendship\n",
+    "shotName": "Three Stages of Friendship",
     "ingredient": [
       "1/3 oz Jack Daniels",
       "1/3 oz Tequila",
@@ -39836,7 +39834,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Three Wise Men #2\n",
+    "shotName": "Three Wise Men #2",
     "ingredient": [
       "1 1/2 oz Jägermeister",
       "1 1/2 oz Goldschlager",
@@ -39844,7 +39842,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Three Wise Men (go hunting)\n",
+    "shotName": "Three Wise Men (go hunting)",
     "ingredient": [
       "1/2 oz Jack Daniels",
       "1/2 oz Jim Beam",
@@ -39853,7 +39851,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Three Wise Men (on a farm)\n",
+    "shotName": "Three Wise Men (on a farm)",
     "ingredient": [
       "1 shot Jack Daniels",
       "1 shot Jim Beam",
@@ -39862,7 +39860,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Three Wise Men (vodka)\n",
+    "shotName": "Three Wise Men (vodka)",
     "ingredient": [
       "2/3 oz Jägermeister",
       "2/3 oz Absolut Vodka",
@@ -39870,7 +39868,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Three Wise Men\n",
+    "shotName": "Three Wise Men",
     "ingredient": [
       "1/3 shot Jack Daniels",
       "1/3 shot Jim Beam",
@@ -39878,7 +39876,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "The Three Wise Men\n",
+    "shotName": "The Three Wise Men",
     "ingredient": [
       "1/3 shot Jägermeister",
       "1/3 shot Goldschlager",
@@ -39886,7 +39884,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Three-Legged Monkey\n",
+    "shotName": "Three-Legged Monkey",
     "ingredient": [
       "1 oz Crown Royal",
       "1 oz Amaretto",
@@ -39894,7 +39892,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Thumb Press\n",
+    "shotName": "Thumb Press",
     "ingredient": [
       "2 oz Vodka",
       "1 oz 151 proof rum",
@@ -39903,21 +39901,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Thunder and Lighting\n",
+    "shotName": "Thunder and Lighting",
     "ingredient": [
       "1/2 oz Rumple Minze",
       "1/2 oz Bacardi 151 proof rum"
     ]
   },
   {
-    "shotName": "Tiatip\n",
+    "shotName": "Tiatip",
     "ingredient": [
       "Tia maria",
       "Bailey's irish cream"
     ]
   },
   {
-    "shotName": "Tiger Tail\n",
+    "shotName": "Tiger Tail",
     "ingredient": [
       "1 part Tia maria",
       "1 part Grand Marnier",
@@ -39925,7 +39923,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Tirade\n",
+    "shotName": "Tirade",
     "ingredient": [
       "1 oz Triple sec",
       "1/2 oz Tequila",
@@ -39933,7 +39931,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "TLA\n",
+    "shotName": "TLA",
     "ingredient": [
       "1/2 oz Tequila",
       "1/2 oz Amaretto",
@@ -39941,7 +39939,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "The Tony Kelly\n",
+    "shotName": "The Tony Kelly",
     "ingredient": [
       "1/2 glass strong Rum",
       "1/4 glass Orangina Orange soda",
@@ -39949,7 +39947,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Toolkit\n",
+    "shotName": "Toolkit",
     "ingredient": [
       "1 part Creme de Cacao",
       "1 part Irish cream",
@@ -39958,14 +39956,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Tootsie Roll Float\n",
+    "shotName": "Tootsie Roll Float",
     "ingredient": [
       "1 part Root beer schnapps",
       "1 part Kahlua"
     ]
   },
   {
-    "shotName": "Tootsie Roll\n",
+    "shotName": "Tootsie Roll",
     "ingredient": [
       "1/3 oz Tia maria",
       "1/3 oz Dark Creme de Cacao",
@@ -39973,14 +39971,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Toronto Maple Leafs\n",
+    "shotName": "Toronto Maple Leafs",
     "ingredient": [
       "1/2 oz Blue Curacao",
       "1/2 oz Bailey's irish cream"
     ]
   },
   {
-    "shotName": "Tossed Salad\n",
+    "shotName": "Tossed Salad",
     "ingredient": [
       "1 part Kahlua",
       "1 part Jägermeister",
@@ -39988,7 +39986,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Traffic Light\n",
+    "shotName": "Traffic Light",
     "ingredient": [
       "1/3 shot Grenadine",
       "1/3 shot Galliano",
@@ -39996,7 +39994,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Trial of the Century\n",
+    "shotName": "Trial of the Century",
     "ingredient": [
       "1/2 oz Jägermeister",
       "1/2 oz Goldschlager",
@@ -40004,7 +40002,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "The Triple\n",
+    "shotName": "The Triple",
     "ingredient": [
       "1/3 shot Vodka (Absolut)",
       "1/2 shot Jägermeister",
@@ -40012,7 +40010,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Tropical Hooter\n",
+    "shotName": "Tropical Hooter",
     "ingredient": [
       "1/2 oz Chambord raspberry liqueur",
       "1/3 oz 7-Up or Sprite",
@@ -40021,7 +40019,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Tubboocki\n",
+    "shotName": "Tubboocki",
     "ingredient": [
       "1 oz Galliano",
       "1/2 oz Sambuca",
@@ -40029,7 +40027,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Tully's Nuts & Berries\n",
+    "shotName": "Tully's Nuts & Berries",
     "ingredient": [
       "1/2 oz Amaretto",
       "1/2 oz Razzmatazz",
@@ -40037,7 +40035,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Turkeyball\n",
+    "shotName": "Turkeyball",
     "ingredient": [
       "1 oz Wild Turkey",
       "3/4 oz Amaretto",
@@ -40045,7 +40043,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Twin Sisters\n",
+    "shotName": "Twin Sisters",
     "ingredient": [
       "1/2 oz Light rum (Bacardi)",
       "1/2 oz Spiced rum (Bacardi)",
@@ -40054,7 +40052,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Twinkle My Lights\n",
+    "shotName": "Twinkle My Lights",
     "ingredient": [
       "3/4 oz Chambord raspberry liqueur",
       "1 oz Amaretto",
@@ -40062,14 +40060,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Ugly\n",
+    "shotName": "Ugly",
     "ingredient": [
       "2 oz Tomato juice",
       "6 oz Beer"
     ]
   },
   {
-    "shotName": "Unabomber\n",
+    "shotName": "Unabomber",
     "ingredient": [
       "1/4 shot Gin",
       "1/4 shot Vodka",
@@ -40078,7 +40076,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Uncle Sam\n",
+    "shotName": "Uncle Sam",
     "ingredient": [
       "1/3 oz Aftershock",
       "1/3 oz Avalanche Peppermint schnapps",
@@ -40086,7 +40084,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Under Kurant\n",
+    "shotName": "Under Kurant",
     "ingredient": [
       "1 oz Absolut Kurant",
       "1 1/2 oz Blue Curacao",
@@ -40095,14 +40093,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Undertow\n",
+    "shotName": "Undertow",
     "ingredient": [
       "1/2 shot Blue Curacao",
       "1/2 shot Raspberry schnapps"
     ]
   },
   {
-    "shotName": "Unknown Warrior\n",
+    "shotName": "Unknown Warrior",
     "ingredient": [
       "1 piece Sugar",
       "3 cl Cointreau",
@@ -40110,7 +40108,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Urine Sample #2\n",
+    "shotName": "Urine Sample #2",
     "ingredient": [
       "1/3 Galliano",
       "1/3 Midori melon liqueur",
@@ -40118,14 +40116,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Urine Sample\n",
+    "shotName": "Urine Sample",
     "ingredient": [
       "1/2 oz Galliano",
       "1/2 oz Sambuca"
     ]
   },
   {
-    "shotName": "Vampire\n",
+    "shotName": "Vampire",
     "ingredient": [
       "1 oz Chambord raspberry liqueur",
       "1 oz Vodka",
@@ -40133,7 +40131,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Viagra Shot\n",
+    "shotName": "Viagra Shot",
     "ingredient": [
       "1/3 oz Green Creme de Menthe",
       "1/3 oz white Creme de Cacao",
@@ -40142,7 +40140,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Virgin Pussy\n",
+    "shotName": "Virgin Pussy",
     "ingredient": [
       "1 oz Watermelon schnapps",
       "1 oz Cinnamon schnapps",
@@ -40150,7 +40148,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Virulent Death\n",
+    "shotName": "Virulent Death",
     "ingredient": [
       "1 part Blue Curacao",
       "1 part Yukon Jack (100 Proof)",
@@ -40158,28 +40156,28 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Vodka Passion\n",
+    "shotName": "Vodka Passion",
     "ingredient": [
       "1 part Absolut Mandrin",
       "1 part Passion fruit syrup"
     ]
   },
   {
-    "shotName": "Vulcan Mind Meld\n",
+    "shotName": "Vulcan Mind Meld",
     "ingredient": [
       "1 part Ouzo",
       "1 part 151 proof rum"
     ]
   },
   {
-    "shotName": "Vulcan Mind-Probe\n",
+    "shotName": "Vulcan Mind-Probe",
     "ingredient": [
       "1/2 oz Ouzo",
       "1/2 oz 151 proof rum"
     ]
   },
   {
-    "shotName": "Warm and Fuzzy\n",
+    "shotName": "Warm and Fuzzy",
     "ingredient": [
       "1/3 oz Triple sec",
       "1/3 oz Southern Comfort",
@@ -40187,7 +40185,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Warp Core Breach\n",
+    "shotName": "Warp Core Breach",
     "ingredient": [
       "1/2 oz Goldschlager",
       "1/2 oz Tequila",
@@ -40195,14 +40193,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Warsaw Waffle\n",
+    "shotName": "Warsaw Waffle",
     "ingredient": [
       "1 part Maple syrup",
       "3 parts Vodka"
     ]
   },
   {
-    "shotName": "Washington Apple\n",
+    "shotName": "Washington Apple",
     "ingredient": [
       "1 oz Crown Royal",
       "1 oz Sour Apple Pucker",
@@ -40210,7 +40208,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Water Moccasin\n",
+    "shotName": "Water Moccasin",
     "ingredient": [
       "1/2 oz Crown Royal",
       "1/2 oz Peach schnapps",
@@ -40218,7 +40216,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Watermelon Shooter #2\n",
+    "shotName": "Watermelon Shooter #2",
     "ingredient": [
       "1 1/2 oz Southern Comfort",
       "1/2 oz Amaretto",
@@ -40226,7 +40224,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Watermelon Shooter #3\n",
+    "shotName": "Watermelon Shooter #3",
     "ingredient": [
       "Pineapple juice (Dole)",
       "Jack Daniels",
@@ -40235,7 +40233,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Watermelon Shooter #4\n",
+    "shotName": "Watermelon Shooter #4",
     "ingredient": [
       "2 oz Southern Comfort",
       "2 oz Pineapple juice",
@@ -40244,14 +40242,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Wayne's World\n",
+    "shotName": "Wayne's World",
     "ingredient": [
       "1 oz Jägermeister",
       "1/2 oz Sambuca"
     ]
   },
   {
-    "shotName": "Weakness\n",
+    "shotName": "Weakness",
     "ingredient": [
       "1 oz Goldschlager",
       "1 oz Rumple Minze",
@@ -40260,7 +40258,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Well Greased Dwarf\n",
+    "shotName": "Well Greased Dwarf",
     "ingredient": [
       "2/3 oz Creme de Cacao",
       "2/3 oz Sambuca",
@@ -40268,14 +40266,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Wet Back\n",
+    "shotName": "Wet Back",
     "ingredient": [
       "1/2 oz Kahlua",
       "1/2 oz Tequila"
     ]
   },
   {
-    "shotName": "Wet Crotch\n",
+    "shotName": "Wet Crotch",
     "ingredient": [
       "1 oz Triple sec",
       "1 oz Bailey's irish cream",
@@ -40283,7 +40281,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Wet Kiss\n",
+    "shotName": "Wet Kiss",
     "ingredient": [
       "1/3 Amaretto",
       "1/3 Sweet and sour",
@@ -40291,7 +40289,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Whistling Gypsy\n",
+    "shotName": "Whistling Gypsy",
     "ingredient": [
       "1 oz Tia maria",
       "1 oz Bailey's irish cream",
@@ -40299,21 +40297,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "White Tornado\n",
+    "shotName": "White Tornado",
     "ingredient": [
       "3/4 oz Sambuca",
       "1/4 oz Tequila Rose"
     ]
   },
   {
-    "shotName": "White Witch\n",
+    "shotName": "White Witch",
     "ingredient": [
       "3/4 oz Tuaca",
       "3/4 oz Irish cream"
     ]
   },
   {
-    "shotName": "Wife Beater\n",
+    "shotName": "Wife Beater",
     "ingredient": [
       "1/2 part Tuaca",
       "1/2 part Butterscotch schnapps",
@@ -40321,7 +40319,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Wild Berry Pop-Tart\n",
+    "shotName": "Wild Berry Pop-Tart",
     "ingredient": [
       "1 part Wild Berry Vodka",
       "1 part Smirnoff Vodka",
@@ -40329,14 +40327,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Wild Peppertini\n",
+    "shotName": "Wild Peppertini",
     "ingredient": [
       "1/2 oz Wild Turkey",
       "1/2 oz Peppermint schnapps"
     ]
   },
   {
-    "shotName": "Wild Wild West\n",
+    "shotName": "Wild Wild West",
     "ingredient": [
       "1 1/2 oz Jack Daniels",
       "1 oz Peach schnapps",
@@ -40344,7 +40342,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Wisconsin Lunchbucket\n",
+    "shotName": "Wisconsin Lunchbucket",
     "ingredient": [
       "1/4 glass Beer",
       "1/4 glass Orange juice",
@@ -40352,7 +40350,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Wookie\n",
+    "shotName": "Wookie",
     "ingredient": [
       "1 oz Peach schnapps",
       "1 oz Amaretto",
@@ -40360,14 +40358,14 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Woot's Butter Cream Shot\n",
+    "shotName": "Woot's Butter Cream Shot",
     "ingredient": [
       "1-1/2 oz Butterscotch schnapps",
       "1/2 oz Cream"
     ]
   },
   {
-    "shotName": "X\n",
+    "shotName": "X",
     "ingredient": [
       "3/4 oz Amaretto",
       "3/4 oz Wildberry schnapps",
@@ -40376,7 +40374,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Y2K Shot #2\n",
+    "shotName": "Y2K Shot #2",
     "ingredient": [
       "1 oz Absolut Vodka",
       "1 oz Midori melon liqueur",
@@ -40384,21 +40382,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Y2K shot\n",
+    "shotName": "Y2K shot",
     "ingredient": [
       "1 part Kahlua",
       "2 parts Yukon Jack"
     ]
   },
   {
-    "shotName": "Yaps\n",
+    "shotName": "Yaps",
     "ingredient": [
       "1 part Yukon Jack",
       "1 part Apple schnapps"
     ]
   },
   {
-    "shotName": "Yellow Bellied Sap Sucker\n",
+    "shotName": "Yellow Bellied Sap Sucker",
     "ingredient": [
       "1/2 shot Tonic water",
       "1/2 shot Lime juice",
@@ -40406,7 +40404,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Yellow Cake\n",
+    "shotName": "Yellow Cake",
     "ingredient": [
       "1/3 oz Vanilla vodka (Stoli)",
       "1/3 oz Triple sec",
@@ -40414,21 +40412,21 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Yin-Yang\n",
+    "shotName": "Yin-Yang",
     "ingredient": [
       "1/2 oz White chocolate liqueur (Godet)",
       "1/2 oz Coffee liqueur (Kahlua)"
     ]
   },
   {
-    "shotName": "Yukon Cornelius\n",
+    "shotName": "Yukon Cornelius",
     "ingredient": [
       "2 oz Yukon Jack",
       "1/4 oz Goldschlager"
     ]
   },
   {
-    "shotName": "Zhivago's Revenge\n",
+    "shotName": "Zhivago's Revenge",
     "ingredient": [
       "1/2 oz Cinnamon schnapps",
       "1/2 oz Absolut Peppar",
@@ -40436,7 +40434,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Zipperhead\n",
+    "shotName": "Zipperhead",
     "ingredient": [
       "1 shot Chambord raspberry liqueur",
       "1 shot Vodka",
@@ -40444,7 +40442,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Zipper\n",
+    "shotName": "Zipper",
     "ingredient": [
       "1/2 oz Tequila",
       "1/4 oz Grand Marnier",
@@ -40452,7 +40450,7 @@ module.exports=[
     ]
   },
   {
-    "shotName": "Zool\n",
+    "shotName": "Zool",
     "ingredient": [
       "1 oz Peach schnapps",
       "1 oz Absolut Vodka",
