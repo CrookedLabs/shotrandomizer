@@ -1,6 +1,6 @@
 var React = require('react');
 var jsonObj = require('./../shots.json');
-var colors = require('colors');
+var colors = require('./colors');
 var _sample = require('lodash.sample');
 
 var App = React.createClass({
@@ -77,9 +77,11 @@ var App = React.createClass({
     };
 
     var shotName = null;
+    var disclaimer = null;
     if (this.state.shotName) {
       shotName = this.state.shotName;
     } else {
+      disclaimer = (<div className="disclaimer">Shot names pulled from around the web and are not a reflection of <a href="http://crookedlabs.co" target="_blank">CrookedLabs</a>.</div>);
       shotName = "Shot Randomizer!";
     }
 
@@ -90,6 +92,7 @@ var App = React.createClass({
           <div className="ingredients">{this.state.shotIngredients}</div>
         </div>
         <div className="random-btn-container" onClick={this.state.running ? null : this.randomShot} />
+        {disclaimer}
       </div>
       );
   }
